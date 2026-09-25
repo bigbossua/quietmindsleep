@@ -42,8 +42,8 @@ for (const u of urls) {
   process.stdout.write(`\r${okPages}/${urls.length} pages ok`);
 }
 console.log();
-check('all sitemap URLs return 200', okPages === urls.length, `${okPages}/${urls.length}`);
-check('canonicals match live URLs', canonicalMismatch === 0, `${canonicalMismatch} mismatches`);
+check('all sitemap URLs return 200', urls.length > 0 && okPages === urls.length, `${okPages}/${urls.length}`);
+check('canonicals match live URLs', urls.length > 0 && canonicalMismatch === 0, `${canonicalMismatch} mismatches`);
 // 5. internal links on a sample of pages
 const sample = Object.keys(pageHtml).filter((_, i) => i % 6 === 0).slice(0, 25);
 const seen = new Set(); let broken = 0, linksChecked = 0;
@@ -52,7 +52,7 @@ for (const u of sample) for (const m of pageHtml[u].matchAll(/href="(\/[^"#?]*)"
   const r = await get(base + href, { method: 'HEAD' }); linksChecked++;
   if (![200, 301, 302].includes(r.status)) { broken++; fails.push(`internal link ${href} (from ${u}) → ${r.status}`); }
 }
-check('internal links on sampled pages resolve', broken === 0, `${linksChecked} checked, ${broken} broken`);
+check('internal links on sampled pages resolve', linksChecked > 0 && broken === 0, `${linksChecked} checked, ${broken} broken`);
 // 6. search works (index served + page present)
 const search = await get(base + '/search/?q=3am');
 check('search page loads', search.status === 200 && search.text.includes('search-results'), `status ${search.status}`);

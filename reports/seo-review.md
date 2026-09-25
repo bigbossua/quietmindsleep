@@ -3,7 +3,7 @@
 Pages: 116. Indexable: 114. Noindex: /404.html, /search/.
 
 ## Titles and descriptions
-- Titles over 65 chars: 6
+- Titles over 65 chars: 0
 - Descriptions outside 120–160: /404.html (49), /search/ (35)
 - Duplicate titles: none
 - Duplicate H1s: none

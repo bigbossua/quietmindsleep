@@ -28,7 +28,13 @@ jobs:
       - name: Verify live site
         id: verify
         continue-on-error: true
-        run: node scripts/verify-live.mjs "${{ inputs.url }}" | tee reports-live/verify.log && cp reports/live-verification.md reports-live/ || cp reports/live-verification.md reports-live/ 2>/dev/null || true
+        shell: bash
+        run: |
+          set -o pipefail
+          node scripts/verify-live.mjs "${{ inputs.url }}" 2>&1 | tee reports-live/verify.log
+          rc=${PIPESTATUS[0]}
+          cp reports/live-verification.md reports-live/ 2>/dev/null || true
+          exit $rc
       - name: Upload results
         uses: actions/upload-artifact@v4
         with:
