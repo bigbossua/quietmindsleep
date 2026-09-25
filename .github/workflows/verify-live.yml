@@ -1,6 +1,8 @@
 name: Verify live site
 
 on:
+  schedule:
+    - cron: '30 7 * * 1'   # every Monday 07:30 UTC: verify the live site and publish results to the live-reports branch
   workflow_dispatch:
     inputs:
       url:
@@ -24,14 +26,14 @@ jobs:
       - name: Install Playwright Chromium
         run: npm i --no-save playwright@1.56.1 && npx playwright install --with-deps chromium
       - name: Snapshot (headers, DNS, TLS, screenshots)
-        run: node scripts/live-snapshot.mjs "${{ inputs.url }}" reports-live
+        run: node scripts/live-snapshot.mjs "${{ inputs.url || 'https://quietmindsleep.co.uk' }}" reports-live
       - name: Verify live site
         id: verify
         continue-on-error: true
         shell: bash
         run: |
           set -o pipefail
-          node scripts/verify-live.mjs "${{ inputs.url }}" 2>&1 | tee reports-live/verify.log
+          node scripts/verify-live.mjs "${{ inputs.url || 'https://quietmindsleep.co.uk' }}" 2>&1 | tee reports-live/verify.log
           rc=${PIPESTATUS[0]}
           cp reports/live-verification.md reports-live/ 2>/dev/null || true
           exit $rc
@@ -50,6 +52,6 @@ jobs:
           publish_branch: live-reports
           force_orphan: true
           enable_jekyll: false
-          commit_message: "Live verification ${{ inputs.url }} ${{ github.run_id }}"
+          commit_message: "Live verification ${{ inputs.url || 'scheduled' }} ${{ github.run_id }}"
       - name: Result
         run: test "${{ steps.verify.outcome }}" = "success"
