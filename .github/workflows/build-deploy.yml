@@ -11,6 +11,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      ssh_enabled: ${{ steps.ssh.outputs.enabled }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -26,14 +28,14 @@ jobs:
         with:
           name: site
           path: dist
+          include-hidden-files: true
       - name: Upload reports
         uses: actions/upload-artifact@v4
         with:
           name: reports
           path: reports
 
-      # Option A (recommended): publish dist/ to the `hostinger` branch. In Hostinger hPanel → Websites → Advanced → Git,
-      # connect this repository, branch `hostinger`, directory `public_html`. Hostinger pulls plain files; no build step there.
+      # Always publish dist/ to the `hostinger` branch (Hostinger Git deployment can pull it; no keys needed for a public repo).
       - name: Publish built site to hostinger branch
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -44,21 +46,97 @@ jobs:
           enable_jekyll: false
           commit_message: "Deploy ${{ github.sha }}"
 
-      # Option B: direct FTP/FTPS upload to Hostinger. Add repository secrets FTP_SERVER, FTP_USERNAME, FTP_PASSWORD
-      # (Hostinger hPanel → Files → FTP Accounts). The step is skipped when the secrets are absent.
-      - name: Check FTP secrets
-        id: ftp
+      - name: Check SSH deploy secrets
+        id: ssh
         env:
-          FTP_SERVER: ${{ secrets.FTP_SERVER }}
-        run: echo "enabled=$([ -n "$FTP_SERVER" ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
-      - name: Deploy via FTP
-        if: steps.ftp.outputs.enabled == 'true'
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+        run: |
+          if [ -n "$SSH_PRIVATE_KEY" ] && [ -n "$SSH_HOST" ] && [ -n "$SSH_USER" ]; then echo "enabled=true" >> "$GITHUB_OUTPUT"; echo "SSH deploy: secrets present"; else echo "enabled=false" >> "$GITHUB_OUTPUT"; echo "SSH deploy: skipped (set SSH_PRIVATE_KEY, SSH_HOST, SSH_USER, optional SSH_PORT and SSH_TARGET_DIR)"; fi
+
+  # SSH deployment to Hostinger (hPanel → Advanced → SSH Access). The private key is a GitHub secret only.
+  deploy-ssh:
+    needs: build
+    if: needs.build.outputs.ssh_enabled == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ftps
-          local-dir: ./dist/
-          server-dir: ./public_html/
-          dangerous-clean-slate: false
+          name: site
+          path: dist
+      - name: Prepare SSH
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_PORT: ${{ secrets.SSH_PORT }}
+        run: |
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$SSH_PRIVATE_KEY" > ~/.ssh/deploy_key && chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -p "${SSH_PORT:-65002}" -H "$SSH_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+      - name: Inspect target and guard against overwriting another site
+        env:
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_PORT: ${{ secrets.SSH_PORT }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+          SSH_TARGET_DIR: ${{ secrets.SSH_TARGET_DIR }}
+        run: |
+          TARGET="${SSH_TARGET_DIR:-domains/quietmindsleep.co.uk/public_html}"
+          echo "TARGET=$TARGET" >> "$GITHUB_ENV"
+          ssh -i ~/.ssh/deploy_key -p "${SSH_PORT:-65002}" "$SSH_USER@$SSH_HOST" "
+            set -e
+            echo 'Home:'; pwd; ls -la | head -30
+            echo 'Target: $TARGET'; mkdir -p '$TARGET'; cd '$TARGET'; pwd
+            COUNT=\$(ls -A | wc -l); echo \"Entries in target: \$COUNT\"; ls -la | head -40
+            if [ \"\$COUNT\" -gt 0 ] && [ ! -f .deploy-info ] && [ ! -f index.html ]; then echo 'Target has unknown content and no index.html — refusing'; exit 2; fi
+            if [ -f index.html ] && ! grep -q 'Quiet Mind Sleep' index.html; then echo 'Target index.html is not the Quiet Mind Sleep site — refusing to overwrite'; exit 3; fi
+            echo 'Guard passed'"
+      - name: Sync site
+        env:
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_PORT: ${{ secrets.SSH_PORT }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+        run: |
+          printf 'source=%s\nbuilt=%s\n' "${{ github.sha }}" "$(date -u +%FT%TZ)" > dist/.deploy-info
+          if ssh -i ~/.ssh/deploy_key -p "${SSH_PORT:-65002}" "$SSH_USER@$SSH_HOST" 'command -v rsync >/dev/null'; then
+            rsync -az --delete -e "ssh -i ~/.ssh/deploy_key -p ${SSH_PORT:-65002}" dist/ "$SSH_USER@$SSH_HOST:$TARGET/"
+          else
+            tar czf - -C dist . | ssh -i ~/.ssh/deploy_key -p "${SSH_PORT:-65002}" "$SSH_USER@$SSH_HOST" "cd '$TARGET' && find . -mindepth 1 -delete && tar xzf -"
+          fi
+          ssh -i ~/.ssh/deploy_key -p "${SSH_PORT:-65002}" "$SSH_USER@$SSH_HOST" "cd '$TARGET' && echo 'Deployed files:' && find . -type f | wc -l && cat .deploy-info"
+      - name: Cleanup key
+        if: always()
+        run: rm -f ~/.ssh/deploy_key
+
+  verify:
+    needs: deploy-ssh
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Install Playwright Chromium
+        run: npm i --no-save playwright@1.56.1 && npx playwright install --with-deps chromium
+      - name: Snapshot
+        run: node scripts/live-snapshot.mjs https://quietmindsleep.co.uk reports-live
+      - name: Verify live site
+        shell: bash
+        run: |
+          set -o pipefail
+          node scripts/verify-live.mjs https://quietmindsleep.co.uk 2>&1 | tee reports-live/verify.log
+          rc=${PIPESTATUS[0]}
+          cp reports/live-verification.md reports-live/ 2>/dev/null || true
+          exit $rc
+      - name: Publish results to live-reports branch
+        if: always()
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./reports-live
+          publish_branch: live-reports
+          force_orphan: true
+          enable_jekyll: false
+          commit_message: "Live verification after deploy ${{ github.sha }}"
