@@ -1,7 +1,7 @@
 ---
 title: "Do Naps Ruin Your Sleep at Night? How to Nap Without Paying for It"
 description: "Do naps affect night sleep? A short early-afternoon nap is fine for most people; a long or late one takes sleep pressure away from bedtime. How to nap well."
-standfirst: "A short nap early in the afternoon does not harm night sleep for most people and can improve the rest of the day. A long or late nap borrows from the night. Keep it to about twenty minutes, before mid-afternoon, and skip it if you have insomnia."
+standfirst: "A short early-afternoon nap does not harm night sleep for most people. A long or late one borrows from the night. Keep it to about twenty minutes, before mid-afternoon, and skip naps if you have insomnia."
 published: 2026-09-25
 updated: 2026-09-25
 illustration: clock
@@ -47,13 +47,13 @@ A nap clears some of it too. A short nap releases a little, and the pressure has
 
 Somewhere between ten and twenty minutes is the sweet spot for most people. In that window you get light sleep, which is enough to improve alertness, mood and concentration for a few hours, without going into deep sleep. Waking from deep sleep produces the heavy, disorientated feeling that can last half an hour or more and makes some people swear off naps. Keep the nap short and you avoid it.
 
-Set an alarm for 25 minutes to allow time to drop off. If you are still awake when it goes off, that is fine: resting quietly with your eyes closed has some benefit, and it means you were not as tired as you thought, which is useful information.
+Set an alarm for 25 minutes to allow time to drop off. If you are still awake when it goes off, that is fine: quiet rest with your eyes closed has some benefit, and it tells you that you were not as tired as you thought.
 
 The exception is the full-cycle nap of around 90 minutes, which takes you through deep sleep and out the other side. It can make sense after a night shift or a bad night with a baby, but it is not an everyday habit if you also want a full night.
 
 ## Timing: early afternoon, then stop
 
-Most people have a natural dip in alertness in the early afternoon, roughly between 1pm and 3pm, which is why the post-lunch slump feels the way it does. That is the ideal nap window. It is also far enough from bedtime for the pressure to rebuild.
+Most people have a natural dip in alertness between about 1pm and 3pm, which is why the post-lunch slump feels the way it does. That is the ideal nap window, and it is far enough from bedtime for the pressure to rebuild.
 
 After about 3pm, the cost rises. A nap at 4 or 5pm, even a short one, makes it harder to fall asleep at 11 for most people. The sofa doze at 8pm while watching television is the worst of all, because it sits in exactly the hours when sleep pressure should be peaking. If you regularly fall asleep on the sofa and then lie awake in bed, that doze is the likely reason, and our guide to [how to sleep when you're not tired](@falling-asleep/how-to-sleep-when-not-tired) has more on what to do instead.
 
@@ -70,7 +70,6 @@ If you need a nap every day to get through, or you sleep seven or eight hours an
 - **Set an alarm** for 20 to 25 minutes. Do not rely on waking naturally.
 - **Lie down if you can**, somewhere cool and quiet, but not necessarily in bed. If your nights are poor, keeping the bed for night sleep helps.
 - **Deal with light.** Daytime naps happen in daylight, and a bright room makes light sleep lighter still. Closing curtains works; a sleep mask works anywhere, including on a train or in a car on your lunch break. Our [guide to choosing a sleep mask](@sleep-products/best-sleep-masks-uk) covers the types.
-- **Do not fight it if it does not come.** Twenty minutes of quiet rest is still restorative.
 
 {{products: contoured-sleep-mask, silk-sleep-mask | heading=For napping in daylight | intro=A mask turns a bright afternoon into a dark enough room, wherever you happen to be.}}
 
@@ -82,6 +81,6 @@ It works as a daytime trick, particularly before a long drive. Its limit is the 
 
 ## The short version
 
-If your nights are fine, nap if you enjoy it: twenty minutes, before 3pm, with an alarm. If your nights are not fine, skip naps for a few weeks and let the pressure build. Either way, the sofa doze at 8pm is the one to lose. There is more on the daytime habits that shape the night in [the Sleep Habits guides](@sleep-habits).
+If your nights are fine, nap if you enjoy it: twenty minutes, before 3pm, with an alarm. If your nights are not fine, skip naps for a few weeks and let the pressure build. Either way, the 8pm sofa doze is the one to lose. There is more on daytime habits in [the Sleep Habits guides](@sleep-habits).
 
 {{email}}

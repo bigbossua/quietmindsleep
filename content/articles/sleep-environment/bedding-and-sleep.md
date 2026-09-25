@@ -1,6 +1,6 @@
 ---
 title: "Bedding and Sleep: Duvet Togs, Fabrics and Staying Comfortable All Year"
-description: "A plain UK duvet tog guide (4.5 summer, 10.5 spring and autumn, 13.5 winter), which fabrics keep you cool or warm, and how to choose bedding that helps rather than hinders sleep."
+description: "A plain UK duvet tog guide (4.5 summer, 10.5 spring and autumn, 13.5 winter), which fabrics keep you cool or warm, and how to choose bedding that helps sleep."
 standfirst: "For most UK bedrooms, 4.5 tog for summer, 10.5 for spring and autumn and 13.5 for winter covers it. Fabric matters as much as tog: cotton and linen breathe, polyester traps heat. Here is how to choose."
 published: 2026-09-25
 updated: 2026-09-25

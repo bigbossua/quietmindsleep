@@ -1,6 +1,6 @@
 ---
 title: "Bedroom Setup for Better Sleep: A Room-by-Room Checklist"
-description: "A practical bedroom setup for sleep: light, noise, temperature, air, bed and pillow, clutter and screens. A checklist you can work through in an evening, UK homes in mind."
+description: "A practical bedroom setup for sleep: light, noise, temperature, air, bed and pillow, clutter and screens. A checklist you can work through in an evening."
 standfirst: "A bedroom that helps you sleep is dark, quiet, cool, fresh and calm, with a bed that fits you. This checklist walks through each in turn, with the fixes that matter most first."
 published: 2026-09-25
 updated: 2026-09-25

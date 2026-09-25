@@ -10,13 +10,6 @@ readNext:
   - falling-asleep/what-to-do-when-you-cant-sleep
   - quiet-the-mind/cant-switch-off-at-night
   - sleep-products/best-white-noise-machines-uk
-faq:
-  - q: "Is there a way to fall asleep in two minutes?"
-    a: "Not reliably. Techniques such as the military sleep method promise very fast results, but the evidence is anecdotal. A realistic aim for most adults is 10 to 20 minutes."
-  - q: "Can I take something to fall asleep faster?"
-    a: "Over-the-counter sleep aids and supplements are not a long-term answer, and melatonin is prescription-only in the UK. Ask a pharmacist before trying anything, and talk to a GP if you have needed help falling asleep for more than a few weeks."
-  - q: "Why do I fall asleep fast on the sofa but not in bed?"
-    a: "On the sofa there is no pressure to sleep, so your mind is not monitoring the effort. After a run of bad nights the bed itself can become linked with wakefulness. Keeping the bed for sleep only and getting up when wide awake gradually rebuilds the link."
 sources:
   - title: "How to fall asleep faster and sleep better"
     publisher: "NHS Every Mind Matters"
@@ -95,7 +88,7 @@ If you have been lying there long enough to feel annoyed (roughly 20 minutes, bu
 
 ### Turn the clock away
 
-Checking the time turns a vague wait into a running total. Face the clock to the wall and leave the phone out of reach. If you do the maths on how much sleep you will get, you have started the evening's second job.
+Checking the time turns a vague wait into a running total, and the sum is never comforting. Face the clock to the wall and leave the phone out of reach.
 
 > **In short:** Once you are in bed, the only useful thing you can do is give your attention a quiet place to sit. Effort, calculation and checking all work against you.
 
@@ -142,7 +135,7 @@ If your mind is the thing that will not settle, the [racing thoughts guide](@qui
 
 ## When it's a bigger problem
 
-Everyone has slow nights. Insomnia, in the sense used by GPs, is when it takes you a long time to fall asleep (or you wake and cannot get back) on three or more nights a week, for three months or more, and it is affecting how you feel during the day.
+Insomnia, in the sense used by GPs, is when it takes you a long time to fall asleep (or you wake and cannot get back) on three or more nights a week, for three months or more, and it is affecting how you feel during the day.
 
 If that describes you, the techniques above still help, but the most effective treatment is CBT-I, which is available in the UK through some GP practices, NHS talking therapies services and digital programmes. It is worth asking. The NHS insomnia page is a good place to read what to expect, and our guide to [when to see a GP about sleep](@sleep-questions/when-to-see-a-gp-about-sleep) explains what a GP will want to know.
 
@@ -156,6 +149,6 @@ If you only take three things from this page:
 2. Go to bed when you feel heavy-eyed, not when the clock says so, and turn the clock away.
 3. In bed, give your attention one quiet job: slow breathing or a detailed imagined scene. If you are still wide awake after what feels like 20 minutes, get up and come back when sleepy.
 
-Then get up at your usual time tomorrow, whatever kind of night it was. Falling asleep faster is not a trick you pull off once; it is what happens when the conditions are right often enough that your body stops bracing for a fight.
+Then get up at your usual time tomorrow, whatever kind of night it was. Falling asleep faster is not a trick; it is what happens when the conditions are right often enough that your body stops bracing for a fight.
 
 {{email}}

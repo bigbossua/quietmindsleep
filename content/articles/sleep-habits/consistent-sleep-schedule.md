@@ -1,6 +1,6 @@
 ---
 title: "Why a Consistent Sleep Schedule Matters More Than You Think"
-description: "A consistent sleep schedule, anchored on wake time, keeps your body clock steady. Why regularity may matter as much as hours, what weekends do, and how to build it."
+description: "A consistent sleep schedule, anchored on wake time, keeps your body clock steady. Why regularity matters as much as hours, and how to build it gently."
 standfirst: "Going to bed and getting up at roughly the same time every day steadies your body clock, and research suggests that regularity matters for health at least as much as how long you sleep. Here is why, and how to build it without becoming rigid."
 published: 2026-09-25
 updated: 2026-09-25

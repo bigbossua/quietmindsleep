@@ -10,13 +10,6 @@ readNext:
   - quiet-the-mind/sleep-anxiety
   - falling-asleep/what-to-do-when-you-cant-sleep
   - quiet-the-mind/anxiety-at-night
-faq:
-  - q: "Should I go to bed early the night before a big day?"
-    a: "Not much earlier than usual. Going to bed at 9pm when you normally sleep at 11 means two extra hours of lying awake, which is where the worry starts. Keep your normal bedtime, or a little earlier if you are genuinely sleepy."
-  - q: "Is it better to stay up all night before an early flight?"
-    a: "No. Even three or four hours of sleep is better than none, and a short night plus a nap on the plane is manageable. Set two alarms, pack the night before, and go to bed at your normal time."
-  - q: "Will a sleeping tablet help the night before an interview or exam?"
-    a: "It is risky. Over-the-counter sleep aids can leave you groggy the next morning, which is worse than tired. Do not try one for the first time on a night that matters; if this is a recurring problem, talk to a pharmacist or GP well in advance."
 sources:
   - title: "How to fall asleep faster and sleep better"
     publisher: "NHS Every Mind Matters"
@@ -51,11 +44,11 @@ That last thought is the one to watch. Sleep does not respond to need. The more 
 
 **Lay everything out.** Clothes, bag, tickets, ID, charger, a glass of water by the bed. Set two alarms if the morning is early. This removes the small anxieties that surface in the dark.
 
-**Keep the evening ordinary.** Your usual dinner, your usual routine, your usual bedtime. Do not go to bed two hours early; you will spend those hours awake and worrying. Skip alcohol, which many people reach for on nights like this and which fragments sleep. Keep caffeine to the morning.
+**Keep the evening ordinary.** Your usual dinner, your usual routine, your usual bedtime. Do not go to bed two hours early; you will spend those hours awake and worrying. Do not stay up all night before an early flight either: three hours is far better than none. Skip alcohol, which fragments sleep, and keep caffeine to the morning.
 
 **Dim the last hour.** Lamps rather than the big light, screen down, something undemanding to read or listen to. Slow breathing with a long out-breath takes the edge off a racing heart; our guide to [breathing exercises for sleep](@relaxation/breathing-exercises-for-sleep) has several to choose from.
 
-**Deal with the room.** If you are in a hotel or a friend's spare room, light and noise you are not used to make the first night harder. A sleep mask solves the light problem anywhere, and a pair of earplugs handles a strange building. Both weigh nothing and are worth keeping in the bag you take to interviews and airports.
+**Deal with the room.** If you are in a hotel or a friend's spare room, light and noise you are not used to make the first night harder. A sleep mask solves the light problem anywhere, and a pair of earplugs handles a strange building.
 
 {{products: silk-sleep-mask | heading=For nights away from home | intro=A light mask makes a hotel room or spare room as dark as your own, which takes one variable out of an already unfamiliar night.}}
 
@@ -69,7 +62,7 @@ If you are awake in the small hours, here is what to do.
 
 **If you are tense and wide awake, get up.** Sit somewhere dim for a while with something dull. Go back to bed when you feel heavy-eyed. Our full [step-by-step plan for when you can't sleep](@falling-asleep/what-to-do-when-you-cant-sleep) covers this in detail, including what to do while you are up.
 
-**Do not rehearse.** If the presentation starts running in your head, note that it is doing so and go back to the breath. You have done the work. Rehearsing it at 2am adds nothing and costs sleep.
+**Do not rehearse, and do not reach for a pill.** If the presentation starts running in your head, note it and go back to the breath; you have done the work. And do not try a sleep aid for the first time tonight. Grogginess in the morning is worse than tiredness.
 
 ## The morning plan
 
@@ -85,10 +78,10 @@ If you are awake in the small hours, here is what to do.
 
 ## If this happens before every big day
 
-For most people this is occasional and passes. If you dread the night before every exam, flight or meeting, and the dread itself has become the problem, it is worth doing something about, because the pattern tends to spread. Practising a relaxation technique in ordinary weeks, so that it is familiar when you need it, helps more than reaching for one on the night. If anxiety is affecting your sleep more generally, our guide to [anxiety at night](@quiet-the-mind/anxiety-at-night) is the next read, and a GP can point you towards NHS talking therapies if it is getting in the way of life.
+For most people this is occasional and passes. If you dread the night before every exam, flight or meeting, the dread itself has become the problem, and it is worth addressing because the pattern tends to spread. Practising a relaxation technique in ordinary weeks, so it is familiar when you need it, helps more than reaching for one on the night. If anxiety is affecting your sleep more generally, our guide to [anxiety at night](@quiet-the-mind/anxiety-at-night) is the next read, and a GP can point you towards NHS talking therapies.
 
 ## Tonight's version
 
-Stop preparing by 8pm, write tomorrow down, lay everything out, set two alarms. Normal bedtime, dim last hour, no alcohol. If you are awake at 2am: clock away, slow breathing, rest without trying. In the morning: up on the alarm, light, breakfast, normal coffee. You are going to be fine.
+Stop preparing by 8pm, write tomorrow down, lay everything out, set two alarms. Normal bedtime, dim last hour, no alcohol. Awake at 2am: clock away, slow breathing, rest without trying. Morning: up on the alarm, light, breakfast, normal coffee. You are going to be fine.
 
 {{email}}

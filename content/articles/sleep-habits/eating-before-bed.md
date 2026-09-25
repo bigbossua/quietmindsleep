@@ -1,6 +1,6 @@
 ---
 title: "Eating Before Bed: What, When and How Much Affects Sleep"
-description: "Eating before bed: a large or spicy meal in the last two hours can disturb sleep through reflux and heat, but a light snack is fine and can help if hunger wakes you."
+description: "Eating before bed: a large or spicy meal in the last two hours can disturb sleep through reflux and heat, but a light snack is fine and may even help."
 standfirst: "A big, rich or spicy meal close to bedtime can disturb sleep, mostly through reflux and a warmer body. Going to bed hungry is not great either. A light snack in the hour before bed is fine and, for some, helpful."
 published: 2026-09-25
 updated: 2026-09-25

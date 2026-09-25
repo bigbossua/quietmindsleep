@@ -47,7 +47,7 @@ Three phases because different things need to wind down at different points:
 2. **Slow the body** (middle 20 minutes): light, temperature, physical pace.
 3. **Settle the mind** (last 20 minutes): one quiet activity, then bed.
 
-The times are a guide. Some nights phase one takes five minutes and phase three takes forty. What matters is the order and the direction of travel.
+The times are a guide; what matters is the order and the direction of travel.
 
 ## Phase 1: close the day (about 20 minutes)
 
@@ -59,7 +59,7 @@ This phase is about ending the day's business so that it does not follow you to 
 
 **Set the last screen boundary.** This is the moment to send the last message and put the phone somewhere that is not the bedside table. The evidence on screens and sleep is more modest than the headlines suggest, but the combination of bright light and a feed that never ends is a reliable way to postpone sleepiness. If you want the honest picture, see [how much phones really affect sleep](@sleep-habits/screens-before-bed).
 
-**Have a warm drink if you like one.** Not for any chemical reason; caffeine-free tea, warm milk or plain hot water work because they are a ritual, and rituals are the point.
+**Have a warm drink if you like one.** Caffeine-free tea or warm milk work because they are a ritual, not because of what is in them.
 
 ## Phase 2: slow the body (about 20 minutes)
 
@@ -101,7 +101,7 @@ Agree on the shared parts (lights down after a certain hour, no television in th
 
 ## Small comforts that help some people
 
-A routine does not need equipment. Two things do genuinely help some people settle, and both are worth knowing about rather than buying on impulse.
+A routine does not need equipment, but two things genuinely help some people settle.
 
 A sleep mask makes phase three portable: it gives you darkness in a shared room, a bright flat or a hotel. And some people find the even pressure of a weighted blanket calming at the end of the day; the evidence for weighted blankets and sleep is limited and mixed, but the effect on feeling settled is something many people describe. If you are curious, our [weighted blankets guide](@sleep-products/weighted-blankets-guide) is honest about what they can and cannot do.
 
@@ -119,7 +119,7 @@ Give a new routine two to three weeks before judging it. The first few nights of
 
 The routines people abandon are usually the ones with too much in them. A few things are worth dropping on purpose.
 
-Anything you resent. If journaling feels like a chore, write a three-line list instead. If meditation makes you tense, read. The routine should feel like a relief, not a second shift.
+Anything you resent. If journaling feels like a chore, write a three-line list. If meditation makes you tense, read. The routine should feel like a relief, not a second shift.
 
 Anything that measures sleep. Sleep trackers and apps can be interesting, but checking a score in the morning turns sleep into a performance, and for people who already lie awake that tends to make things worse. If you use one, look at it weekly rather than daily.
 
@@ -127,7 +127,7 @@ And anything with a claim attached. Teas, sprays, supplements and gadgets market
 
 ## Where to go next
 
-Tonight, pick one thing from each phase: write the list, dim the lights, read for ten minutes. Do the same tomorrow. Build from there only if you want to.
+Tonight, pick one thing from each phase: write the list, dim the lights, read for ten minutes. Do the same tomorrow.
 
 If you have a routine in place and are still lying awake, the problem is probably not the routine, and our guide to [difficulty falling asleep](@falling-asleep/difficulty-falling-asleep) will help you work out what it is.
 

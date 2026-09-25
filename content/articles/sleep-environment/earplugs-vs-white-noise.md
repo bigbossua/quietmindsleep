@@ -1,6 +1,6 @@
 ---
 title: "Earplugs vs White Noise: Which Is Better for Blocking Noise at Night?"
-description: "Earplugs vs white noise for sleep: earplugs block steady noise best, white noise smooths sudden sounds, and many people use both. Comfort, cost, partners and alarms compared."
+description: "Earplugs vs white noise for sleep: earplugs block steady noise best, white noise smooths sudden sounds, and many people use both. Comfort and cost compared."
 standfirst: "Earplugs remove noise; white noise hides it. Earplugs win for steady, loud sound and for people who sleep alone. White noise wins for sudden sounds, shared rooms and anyone who hates things in their ears. Plenty of people use both."
 published: 2026-09-25
 updated: 2026-09-25

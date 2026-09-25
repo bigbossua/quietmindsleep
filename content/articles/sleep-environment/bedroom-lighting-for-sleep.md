@@ -1,6 +1,6 @@
 ---
 title: "Bedroom Lighting for Sleep: Evening Light, Bulbs and Bedside Lamps"
-description: "The best bedroom lighting for sleep is dim, warm and low. Which bulbs to choose, why overhead lights work against you in the evening, and how to use morning light."
+description: "The best bedroom lighting for sleep is dim, warm and low. Which bulbs to choose, why overhead lights work against you at night, and how to use morning light."
 standfirst: "In the evening your bedroom lighting should be dim, warm in colour and below eye level. In the morning you want the opposite. Here is how to set both up with ordinary bulbs and lamps."
 published: 2026-09-25
 updated: 2026-09-25

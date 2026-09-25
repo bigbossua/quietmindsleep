@@ -1,6 +1,6 @@
 ---
 title: "Exercise and Sleep: Timing, Intensity and What the Evidence Says"
-description: "Exercise and sleep: regular activity reliably improves sleep, and moderate evening exercise is usually fine. When intensity and timing matter, and what to do tonight."
+description: "Exercise and sleep: regular activity reliably improves sleep, and moderate evening exercise is usually fine. When timing and intensity matter, and what to do."
 standfirst: "Regular exercise is one of the better-supported ways to sleep more soundly, and the old rule against evening workouts has softened. Moderate exercise in the evening is usually fine; a very hard session in the last hour before bed may not be."
 published: 2026-09-25
 updated: 2026-09-25

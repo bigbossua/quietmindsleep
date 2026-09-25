@@ -1,6 +1,6 @@
 ---
 title: "How to Block Out Noise at Night: Practical Fixes for a Quieter Bedroom"
-description: "How to block out noise at night in a UK home: seal the window, soften the room, mask the sound, wear earplugs and adjust your expectations. A layered, honest guide."
+description: "How to block out noise at night in a UK home: seal the window, soften the room, mask the sound, wear earplugs and adjust your expectations. A layered guide."
 standfirst: "Traffic, neighbours through the wall, a partner's alarm. You rarely get to silence a bedroom, but you can layer four things: reduce the noise, mask what is left, block it at the ear, and adapt your routine."
 published: 2026-09-25
 updated: 2026-09-25
