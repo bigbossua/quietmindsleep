@@ -79,6 +79,9 @@ const sm = fs.readFileSync(path.join(dist, 'sitemap.xml'), 'utf8');
 for (const m of sm.matchAll(/<loc>([^<]+)<\/loc>/g)) { const u = m[1].replace(site.baseUrl, ''); if (!existing.has(u)) issues.blocking.push(`sitemap lists missing page ${u}`); }
 if (site.affiliate.amazon.tag.includes('REPLACE')) issues.warnings.push(`Amazon tracking ID not set in site.config.json (${missingTagPages} pages carry placeholder tag)`);
 
+const products = readJson('data/products.json').products;
+const prodStats = { total: products.length, asin: products.filter(p => p.link.type === 'asin' && p.asin).length, search: products.filter(p => p.link.type !== 'asin' || !p.asin).length, active: products.filter(p => p.status === 'active').length, needsVerification: products.filter(p => p.status !== 'active').length };
+const tagSet = !site.affiliate.amazon.tag.includes('REPLACE');
 const articles = Object.values(graph).filter(n => n.role !== 'hub' && n.role !== 'static');
 const words = articles.reduce((a, n) => a + (n.wordCount || 0), 0);
 const md = `# Site audit — ${new Date().toISOString().slice(0, 10)}
@@ -92,6 +95,15 @@ const md = `# Site audit — ${new Date().toISOString().slice(0, 10)}
 | Affiliate links | ${affiliateLinks} |
 | Blocking issues | ${issues.blocking.length} |
 | Warnings | ${issues.warnings.length} |
+
+## Affiliate readiness
+| Check | Status |
+|---|---|
+| Amazon tracking ID set | ${tagSet ? 'yes (' + site.affiliate.amazon.tag + ')' : 'NO — placeholder in site.config.json'} |
+| Products with verified ASIN (direct links) | ${prodStats.asin} of ${prodStats.total} |
+| Products on search links (needs-verification) | ${prodStats.search} |
+| Products marked active | ${prodStats.active} |
+| Disclosure on every affiliate page | ${issues.blocking.some(i => i.includes('no disclosure')) ? 'NO' : 'yes'} |
 
 ## Blocking issues
 ${issues.blocking.length ? issues.blocking.map(i => `- ${i}`).join('\n') : '- none'}

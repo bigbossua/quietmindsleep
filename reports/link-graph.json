@@ -1617,7 +1617,7 @@
   "primaryKeyword": "earplugs vs white noise",
   "published": "2026-09-25",
   "updated": "2026-09-25",
-  "wordCount": 1425,
+  "wordCount": 1431,
   "outgoing": [
    "sleep-sounds/white-noise-for-sleep",
    "sleep-products/best-earplugs-for-sleeping-uk",
@@ -1916,7 +1916,7 @@
   "primaryKeyword": "sleep mask vs blackout curtains",
   "published": "2026-09-25",
   "updated": "2026-09-25",
-  "wordCount": 1415,
+  "wordCount": 1421,
   "outgoing": [
    "sleep-environment/how-to-make-bedroom-darker",
    "sleep-products/best-sleep-masks-uk",
@@ -2372,7 +2372,7 @@
   "primaryKeyword": "best blackout curtains uk",
   "published": "2026-09-25",
   "updated": "2026-09-25",
-  "wordCount": 2043,
+  "wordCount": 2049,
   "outgoing": [
    "waking-at-night/waking-up-too-early",
    "sleep-environment/sleep-mask-vs-blackout-curtains",
@@ -2412,7 +2412,7 @@
   "primaryKeyword": "best cooling pillow uk",
   "published": "2026-09-25",
   "updated": "2026-09-25",
-  "wordCount": 1769,
+  "wordCount": 1682,
   "outgoing": [
    "waking-at-night/waking-up-hot-at-night",
    "sleep-environment/how-to-sleep-when-its-hot",
@@ -2424,8 +2424,7 @@
   ],
   "products": [
    "gel-cooling-pillow",
-   "memory-foam-side-sleeper-pillow",
-   "cotton-percale-bedding"
+   "memory-foam-side-sleeper-pillow"
   ],
   "affiliateCategories": [
    "cooling-pillow"
@@ -2452,7 +2451,7 @@
   "primaryKeyword": "best earplugs for sleeping uk",
   "published": "2026-09-25",
   "updated": "2026-09-25",
-  "wordCount": 2552,
+  "wordCount": 2558,
   "outgoing": [
    "sleep-products/types-of-earplugs-for-sleep",
    "waking-at-night/light-sleeper",
@@ -2494,7 +2493,7 @@
   "primaryKeyword": "best pillow for side sleepers uk",
   "published": "2026-09-25",
   "updated": "2026-09-25",
-  "wordCount": 2040,
+  "wordCount": 2046,
   "outgoing": [
    "sleep-products/mattress-buying-guide-uk",
    "waking-at-night/waking-up-hot-at-night",
@@ -2533,7 +2532,7 @@
   "primaryKeyword": "best sleep headphones uk",
   "published": "2026-09-25",
   "updated": "2026-09-25",
-  "wordCount": 2303,
+  "wordCount": 2309,
   "outgoing": [
    "sleep-products/types-of-sleep-headphones",
    "relaxation/guided-relaxation-for-sleep",
@@ -2574,7 +2573,7 @@
   "primaryKeyword": "best sleep mask uk",
   "published": "2026-09-25",
   "updated": "2026-09-25",
-  "wordCount": 2533,
+  "wordCount": 2539,
   "outgoing": [
    "waking-at-night/waking-up-too-early",
    "sleep-questions/does-a-sleep-mask-help-you-sleep",
@@ -2616,7 +2615,7 @@
   "primaryKeyword": "best white noise machine uk",
   "published": "2026-09-25",
   "updated": "2026-09-25",
-  "wordCount": 2542,
+  "wordCount": 2548,
   "outgoing": [
    "sleep-products/how-to-choose-a-white-noise-machine",
    "sleep-sounds/white-noise-for-sleep",
@@ -2658,7 +2657,7 @@
   "primaryKeyword": "how to choose a white noise machine",
   "published": "2026-09-25",
   "updated": "2026-09-25",
-  "wordCount": 1263,
+  "wordCount": 1269,
   "outgoing": [
    "sleep-products/best-white-noise-machines-uk",
    "sleep-sounds/brown-noise-for-sleep",
@@ -2736,7 +2735,7 @@
   "primaryKeyword": "types of earplugs for sleeping",
   "published": "2026-09-25",
   "updated": "2026-09-25",
-  "wordCount": 1213,
+  "wordCount": 1219,
   "outgoing": [
    "sleep-products/best-earplugs-for-sleeping-uk",
    "sleep-environment/earplugs-vs-white-noise",
@@ -2777,7 +2776,7 @@
   "primaryKeyword": "types of sleep headphones",
   "published": "2026-09-25",
   "updated": "2026-09-25",
-  "wordCount": 1170,
+  "wordCount": 1176,
   "outgoing": [
    "sleep-products/best-sleep-headphones-uk",
    "sleep-environment/how-to-sleep-with-a-snoring-partner",

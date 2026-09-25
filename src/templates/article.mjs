@@ -20,6 +20,7 @@ export function articlePage(ctx, page) {
     <h1>${esc(page.h1 || page.title)}</h1>
     <p class="standfirst">${esc(page.standfirst || page.description)}</p>
     ${articleMeta(page)}
+    ${page.productsUsed.size > 0 ? '<p class="affiliate-line">This guide contains affiliate links. As an Amazon Associate, Quiet Mind Sleep earns from qualifying purchases. <a href="/affiliate-disclosure/">How this works</a>.</p>' : ''}
   </header>
   <div class="article-hero wrap-narrow">${heroIllustration(page.illustration, page.imageAlt || '')}</div>
   <div class="article-layout wrap">

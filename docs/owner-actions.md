@@ -14,15 +14,17 @@ Alternative without API units: export keywords from the Semrush web interface (K
 
 ## 2. Amazon Associates tracking ID (blocks commission, not the site)
 
-Claude cannot see your Amazon Associates account from this environment, so its status is unknown. Please check:
+The Amazon Associates account **cannot be reached from the cloud build environment**: it has no browser, and the network policy blocks amazon.co.uk, affiliate-program.amazon.co.uk and webservices.amazon.co.uk. An authenticated Amazon tab open on your computer is not visible to a cloud session. Two ways to complete this:
 
-1. CLICK THIS → https://affiliate-program.amazon.co.uk/ → sign in → **Account Settings**.
-2. Confirm the account is **active** (not "pending 3 qualifying sales" or closed). New accounts must make 3 qualifying sales within 180 days or they close.
-3. CLICK THIS → **Manage Your Tracking IDs** → note the ID that ends in `-21` (or create one named `quietmindsleep-21`).
-4. CLICK THIS → **Account Settings → Edit Your Website and Mobile App List** → ENTER THIS → `https://quietmindsleep.co.uk` → SAVE THIS.
-5. Open `site.config.json` in the repository, replace `REPLACE-WITH-YOUR-TAG-21` with your tracking ID, commit. Every affiliate link on the site updates on the next build.
+**Option A — you do it (about 20 minutes):**
+1. CLICK THIS → Associates Central → **Account Settings → Manage Your Tracking IDs** → note the ID ending in `-21`.
+2. CLICK THIS → **Account Settings → Edit Your Website and Mobile App List** → ENTER THIS → `https://quietmindsleep.co.uk` → SAVE.
+3. In a terminal in the repository: `node scripts/set-amazon-tag.mjs <your-id-21>`; commit.
+4. Optionally verify one listing per product and fill `data/asin-verification.csv`, then `node scripts/ingest-asins.mjs data/asin-verification.csv`; commit. Full steps in `docs/amazon-runbook.md`.
 
-Until step 5 is done, links still work but earn nothing. Product listings are `search` links (approved Special Link format) and work immediately; once you have Amazon access you (or Claude, with browser access) can add verified ASINs in `data/products.json` for direct product-page links.
+**Option B — Claude does it from your computer:** open this repository in Claude Desktop (or run `claude remote-control` in the repo folder) so Claude can use your signed-in browser, and say "run docs/amazon-runbook.md". Claude will inspect the account, set the tag, verify listings and record ASINs without copying any credentials.
+
+Until the tag is set, links work but earn nothing. Search links are an approved Special Link format and remain valid after the tag is set.
 
 ## 3. Hostinger (blocks going live)
 

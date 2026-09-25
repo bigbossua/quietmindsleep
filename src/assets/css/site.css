@@ -177,7 +177,8 @@ time { white-space: nowrap; }
 /* Article */
 .article-header { padding-top: 1.5rem; }
 .article-header h1 { margin-bottom: .5em; }
-.article-meta { font-size: .86rem; color: var(--c-muted); margin: 0 0 1.5rem; }
+.article-meta { font-size: .86rem; color: var(--c-muted); margin: 0 0 .6rem; }
+.affiliate-line { font-size: .82rem; color: var(--c-muted); margin: 0 0 1.5rem; padding: .5rem .8rem; background: var(--c-sand); border-radius: var(--r-sm); display: inline-block; }
 .article-hero { margin-bottom: 2rem; }
 .article-layout { display: grid; gap: 3rem; align-items: start; }
 @media (min-width: 1024px) { .article-layout { grid-template-columns: minmax(0, 1fr) var(--w-sidebar); } .article-layout .wrap-narrow { margin-inline: 0; width: min(100%, var(--w-narrow)); margin-left: auto; margin-right: 2rem; } }

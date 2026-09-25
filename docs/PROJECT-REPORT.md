@@ -26,12 +26,12 @@
 
 | | |
 |---|---|
-| Amazon Associates status | **Unknown** — no access to the account from this environment. |
+| Amazon Associates status | **Unknown** — the cloud environment has no browser and the network policy blocks all Amazon hosts (verified 403 on three hosts). Runbook for a browser-enabled session: `docs/amazon-runbook.md`. |
 | Tracking ID status | Placeholder `REPLACE-WITH-YOUR-TAG-21` in `site.config.json`; one edit updates all links. |
 | Affiliate pages | 56 pages carry affiliate components |
-| Affiliate links | 135 (all with `rel="sponsored nofollow"`, `tag=` parameter, disclosure notice on-page and in footer) |
+| Affiliate links | 134 (all with `rel="sponsored nofollow"`, `tag=` parameter; disclosure at the top of every affiliate article, beside every product component and table, and in the footer) |
 | Products | 19 product types in `data/products.json`, 11 categories, 0 unused; all `search`-type Special Links (work immediately) with `status: needs-verification` until ASINs are confirmed |
-| Remaining Amazon actions | Confirm account active; add site to website list; set tracking ID; optionally add verified ASINs; review Associates Operating Agreement wording (disclosure text is in place). |
+| Remaining Amazon actions | Confirm account active; add site to website list; `node scripts/set-amazon-tag.mjs <id>`; verify listings and `node scripts/ingest-asins.mjs data/asin-verification.csv`; test attribution in Associates reports. |
 
 ## Google
 

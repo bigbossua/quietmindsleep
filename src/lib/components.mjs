@@ -178,14 +178,14 @@ export function comparisonTable(products, ctx, caption) {
     return `<tr><th scope="row">${esc(p.name)}${p.brandExample ? `<span class="table-sub">e.g. ${esc(p.brandExample)}</span>` : ''}</th><td>${esc(p.bestFor)}</td><td>${esc(p.keyFeature)}</td><td>${esc(p.consideration || '')}</td><td>${link || '—'}</td></tr>`;
   }).join('');
   return `
+<p class="affiliate-notice small">Links marked with an arrow go to a retailer. As an Amazon Associate, Quiet Mind Sleep earns from qualifying purchases. <a href="/affiliate-disclosure/">Affiliate disclosure</a>.</p>
 <div class="table-wrap">
 <table class="compare-table">
   <caption>${esc(caption || 'At a glance')}</caption>
   <thead><tr><th scope="col">Product type</th><th scope="col">Best for</th><th scope="col">Key feature</th><th scope="col">Worth knowing</th><th scope="col">Where to find it</th></tr></thead>
   <tbody>${rows}</tbody>
 </table>
-</div>
-<p class="affiliate-notice small">Links marked with an arrow go to a retailer; we may earn a commission. <a href="/affiliate-disclosure/">Affiliate disclosure</a>.</p>`;
+</div>`;
 }
 
 // ---------- FAQ ----------

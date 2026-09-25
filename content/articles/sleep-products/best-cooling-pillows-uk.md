@@ -84,7 +84,7 @@ Skip it if your room is the problem and you have not yet dealt with that, if you
 
 ## Examples of the type
 
-{{products: gel-cooling-pillow, cotton-percale-bedding | heading=A cooling pillow and a cooler pillowcase | intro=A gel-layer pillow as an example of the type, alongside percale bedding because the fabric against your face changes how warm any pillow feels.}}
+{{products: gel-cooling-pillow | heading=A cooling pillow as an example of the type | intro=One gel-layer pillow to illustrate what to look for; the fabric of your pillowcase changes how warm any pillow feels, so see the bedding guide linked above for percale and linen.}}
 
 ## Free ways to sleep cooler tonight
 
