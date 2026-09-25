@@ -1,6 +1,6 @@
 ---
 title: "Best White Noise Machines UK: What to Look For"
-description: "The best white noise machine for UK bedrooms depends on sound quality, looping, volume range and a proper UK plug. Fan-based and digital machines explained honestly."
+description: "The best white noise machine for a UK bedroom depends on sound quality, looping, volume range and a proper UK plug. Fan-based and digital machines explained."
 standfirst: "A good white noise machine produces a steady, unbroken sound at a volume you can set low. Whether it should be fan-based or digital depends on whether you want one sound or a choice of them."
 published: 2026-09-25
 updated: 2026-09-25
@@ -97,7 +97,7 @@ A bedroom fan produces a similar sound for nothing extra, and in summer it cools
 
 ### Living with a partner who dislikes it
 
-Steady sound divides couples. If your partner finds it intrusive, three things help: a lower volume than you think you need, placed nearer your side; a pink or brown tone, which most people find less harsh than white; and a timer that fades the sound once you are both asleep. If none of that works, [sleep headphones](@sleep-products/best-sleep-headphones-uk) keep the sound to one head, and a machine can still be useful on nights you sleep apart.
+Steady sound divides couples. If your partner finds it intrusive, three things help: a lower volume than you think you need, placed nearer your side; a pink or brown tone, which most people find less harsh than white; and a timer that fades the sound once you are both asleep. If none of that works, sleep headphones keep the sound to one head, and a machine can still be useful on nights you sleep apart.
 
 ### Three rules for using one well
 

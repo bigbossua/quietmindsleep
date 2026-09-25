@@ -32,7 +32,7 @@ This guide covers the main types, how to choose a voice and a length, where to f
 
 Two things keep people awake once the lights are off: a body that is still on alert and a mind with nothing better to do than think. Relaxation techniques address both by giving the body a slow rhythm and the mind a simple task. Guided audio does the same, with one difference: the task is delivered to you, so the mind has somewhere to rest even when it is too tired to direct itself.
 
-A good recording also sets the pace. Left alone, most of us rush through a body scan or count our breaths too fast. A voice that pauses for ten seconds between instructions slows you down whether you like it or not.
+A good recording also sets the pace. Left alone, most of us rush a body scan or count our breaths too fast; a voice that pauses for ten seconds between instructions slows you down.
 
 What guided audio cannot do is make you sleepy if you are not. It reduces arousal; it does not create sleep pressure. If you are calm but wide awake at the end of every recording, the issue is timing rather than technique.
 
@@ -50,7 +50,7 @@ What guided audio cannot do is make you sleepy if you are not. It reduces arousa
 
 **Yoga nidra.** A structured, lying-down practice of twenty to forty minutes that rotates attention around the body and through breath and imagery. Longer and more formal than a body scan. See our guide to [yoga nidra for sleep](@relaxation/yoga-nidra-for-sleep).
 
-**Sleep stories and "talk-downs".** A slow, deliberately uneventful story or a soft monologue designed to be boring in a pleasant way. These give the mind a gentle thread to follow without asking anything of it. They are relaxation only loosely, but many people find them the easiest thing to fall asleep to.
+**Sleep stories and "talk-downs".** A slow, deliberately uneventful story or a soft monologue designed to be boring in a pleasant way. These give the mind a gentle thread to follow without asking anything of it, and many people find them the easiest thing to fall asleep to.
 
 ## Choosing a voice and a length
 
@@ -74,7 +74,7 @@ You do not need a subscription. Worth knowing about:
 
 We intend to add our own free recordings to this page in future. Until then, the sources above are a good place to start.
 
-Once you have found a recording you like, stop browsing. Scrolling for the perfect track at bedtime is screen time by another name.
+Once you have found a recording you like, stop browsing; scrolling for the perfect track at bedtime is screen time by another name.
 
 ## Listening comfortably in bed
 
@@ -86,11 +86,11 @@ Guided relaxation has one practical snag: it involves a device and a sound sourc
 
 {{products: headband-sleep-headphones, sleep-earbuds | heading=For listening to guided relaxation in bed | intro=Comfortable audio makes it practical to follow a recording lying on your side without waking a partner.}}
 
-**Keep the volume low.** Quiet enough that you have to settle to hear it. If you fall asleep with headphones on, that is fine, but a recording that ends silently is kinder than one that loops all night.
+**Keep the volume low.** Quiet enough that you have to settle to hear it. A recording that ends silently is kinder than one that loops all night.
 
 ## Moving from guided to silent
 
-Guided audio is a good place to start and a perfectly good place to stay. But it helps to learn one practice well enough to do it without a recording, so that it is available at 3am without a phone. A simple route: alternate guided and silent nights with the same practice for a fortnight, and notice which you prefer.
+Guided audio is a good place to start and a perfectly good place to stay. But it helps to learn one practice well enough to do it without a recording, so it is available at 3am without a phone. Alternate guided and silent nights with the same practice for a fortnight and notice which you prefer.
 
 The [Relaxation hub](@relaxation) compares the techniques so you can choose one to learn properly.
 

@@ -1,6 +1,6 @@
 ---
 title: "Types of Sleep Headphones Compared: Headband, Earbud and Bone Conduction"
-description: "The main types of sleep headphones compared: soft headbands, flush-fitting sleep earbuds and bone conduction. Which suits side sleepers, snoring partners and noise."
+description: "The main types of sleep headphones compared: soft headbands, flush-fitting sleep earbuds and bone conduction. Which suits side sleepers, snorers and noise."
 standfirst: "Headbands are the comfortable default, sleep earbuds add noise blocking, and bone conduction keeps the ears open but sits awkwardly on a pillow. Here is how the three compare for the situations people actually buy them for."
 published: 2026-09-25
 updated: 2026-09-25

@@ -1,6 +1,6 @@
 ---
 title: "Best Sleep Masks UK: How to Choose One That Actually Blocks Light"
-description: "Choosing the best sleep mask in the UK comes down to fit, not fabric. How contoured, silk and weighted masks differ, where light leaks in, and who each type suits."
+description: "Choosing the best sleep mask in the UK comes down to fit, not fabric. How contoured, silk and weighted masks differ, where light leaks in and who each suits."
 standfirst: "A sleep mask only works if it seals around the nose and stays put when you roll over. Fit and strap matter more than fabric or brand, and the right type depends on how you sleep."
 published: 2026-09-25
 updated: 2026-09-25
