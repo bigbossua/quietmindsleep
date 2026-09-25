@@ -58,6 +58,8 @@ There is also a way sleep hygiene can backfire. If you follow every rule and sti
 
 ## A sleep hygiene checklist, ordered by impact
 
+If you would rather work through the whole picture, bedroom included, the [Better Sleep Checklist](@resources/sleep-checklist) covers twenty items with a link to the guide behind each one. The list below is the habits-only version.
+
 The items near the top move the needle for most people. The items near the bottom are worth doing, but are not where to spend your energy first.
 
 ### 1. Get up at the same time every day

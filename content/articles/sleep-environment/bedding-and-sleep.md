@@ -14,7 +14,7 @@ faq:
   - q: "Is a higher tog duvet better quality?"
     a: "No. Tog measures warmth, not quality. A 4.5 tog down duvet can be far better made than a 15 tog hollowfibre one. Judge quality by the fill, the casing fabric and the stitching that keeps the fill in place, and choose tog by the season and how warm you sleep."
   - q: "What is the best bedding for hot sleepers?"
-    a: "Cotton percale or linen sheets, a 4.5 tog duvet or the lighter half of an all-seasons set, and a pillow that does not hold heat. Avoid polyester and microfibre sheets, and think twice about memory foam pillows and mattress toppers, which store heat."
+    a: "Cotton percale or linen sheets, a 4.5 tog duvet or the lighter half of an all-seasons set, and a pillow that does not hold heat. Avoid polyester and microfibre sheets, and think twice about memory foam pillows and mattress toppers, which store heat. If the mattress itself is the problem, see [how to choose a mattress](@sleep-products/mattress-buying-guide-uk)."
 sources:
   - title: "Sleep and tiredness"
     publisher: "NHS"

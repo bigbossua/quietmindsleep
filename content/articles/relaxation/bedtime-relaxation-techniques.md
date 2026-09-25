@@ -1,6 +1,6 @@
 ---
 title: "Bedtime Relaxation Techniques: Which Ones Work and How to Choose"
-description: "A clear guide to bedtime relaxation techniques: breathing, muscle relaxation, body scans, meditation, imagery, sound, baths and reading, with a quick chooser for tonight."
+description: "Bedtime relaxation techniques compared: breathing, muscle relaxation, body scans, meditation, sound, baths and reading, with a quick chooser for tonight."
 standfirst: "Relaxation techniques give a wired body and a busy mind a simple job to do instead of trying to force sleep. This guide compares the main methods, says what the evidence supports, and helps you pick one to try tonight."
 published: 2026-09-25
 updated: 2026-09-25
@@ -65,6 +65,8 @@ Whatever you pick, use it every night for two weeks. Familiar techniques work be
 
 ## The techniques compared
 
+Each entry gives the method in a sentence, why it works, who it suits and what to watch for, with a link to the full step-by-step guide.
+
 ### Breathing exercises
 
 **What it is:** slowing the breath, with a longer out-breath than in-breath, for five to ten minutes. **Why it works:** a long exhale stimulates the vagus nerve, the main channel of the body's rest-and-digest system, and slows the heart. **Best for:** almost everyone as a starting point; the quickest technique to learn. **Watch out for:** dizziness from over-breathing or long holds; if that happens, drop the holds and use shorter counts.
@@ -90,6 +92,8 @@ The [body scan for sleep](@relaxation/body-scan-for-sleep) guide has a full scri
 Mindfulness-based programmes show modest benefits for sleep quality in some trials, mostly over several weeks of practice. Our [beginner's guide to bedtime meditation](@relaxation/bedtime-meditation-for-sleep) gives three simple practices, and [mindfulness for sleep](@relaxation/mindfulness-for-sleep) explains the acceptance approach in depth.
 
 ### Guided relaxation and imagery
+
+The widely shared [military sleep method](@falling-asleep/military-sleep-method) is essentially a compressed version of the two techniques below: a quick muscle release followed by a fixed image.
 
 **What it is:** following a recorded voice through a body scan, a breathing sequence, a peaceful scene or a slow story. **Why it works:** the voice does the remembering and the pacing, so you need only listen. **Best for:** beginners, very tired people, and anyone whose mind will not stay with a silent practice. **Watch out for:** dependence on a phone at bedtime, and voices or lengths that irritate rather than soothe.
 

@@ -34,7 +34,7 @@ status: draft
 ---
 If you want the short answer: breathe in gently through your nose for about four seconds, let the breath out slowly for about six, and repeat for five minutes. That single pattern, done without straining, is the core of almost every breathing exercise for sleep. Everything below is a variation on it.
 
-Breathing exercises will not switch you off like a light. They give a restless body a slow rhythm to follow and a busy mind one simple thing to attend to. For many people that tips the balance towards sleep; for others it is a first step before a longer technique such as [progressive muscle relaxation](@relaxation/progressive-muscle-relaxation-for-sleep).
+Breathing exercises will not switch you off like a light. They give a restless body a slow rhythm to follow and a busy mind one simple thing to attend to. (Some people find it easier to pace the breath against a recording of [slow waves](@sleep-sounds/ocean-sounds-for-sleep) than against a count.) For many people that tips the balance towards sleep; for others it is a first step before a longer technique such as [progressive muscle relaxation](@relaxation/progressive-muscle-relaxation-for-sleep).
 
 This guide explains why slow breathing calms you, walks through five techniques step by step, and helps you choose one. It is part of our [Relaxation guides](@relaxation), which cover the wider set of methods you can learn in an evening.
 

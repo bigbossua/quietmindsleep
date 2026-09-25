@@ -1,6 +1,6 @@
 ---
 title: "Mindfulness for Sleep: Letting Go of the Effort to Fall Asleep"
-description: "Mindfulness for sleep is about acceptance rather than control: noticing thoughts without following them and dropping the struggle. Short practices and honest evidence."
+description: "Mindfulness for sleep is acceptance rather than control: noticing thoughts without following them and dropping the struggle. Short practices, honest evidence."
 standfirst: "The harder you try to sleep, the further it moves away. Mindfulness for sleep works on that struggle itself: noticing thoughts and urges without acting on them, and letting sleep arrive rather than chasing it. Here is how, with practices for tonight."
 published: 2026-09-25
 updated: 2026-09-25

@@ -58,7 +58,7 @@ If you are awake in the small hours, here is what to do.
 
 **Do not do the maths.** "If I fall asleep now I'll get four hours" is the thought that guarantees you will not. Turn the clock away. Remind yourself, honestly, that four hours is enough to do tomorrow well, and that resting is worthwhile even if sleep does not come.
 
-**Rest instead of trying.** Lie still, breathe out slowly, and let your body be heavy. Give your mind one gentle job: an imagined place in detail, muscles relaxed one group at a time, or counting the out-breaths from ten down to one. You are not trying to sleep; you are resting, and sleep can join in if it wants to.
+**Rest instead of trying.** Lie still, breathe out slowly, and let your body be heavy. Give your mind one gentle job: an imagined place in detail, muscles relaxed one group at a time, or counting the out-breaths from ten down to one. The much-shared [military sleep method](@falling-asleep/military-sleep-method) is a packaged version of the first two and is a reasonable script to follow if you want one. You are not trying to sleep; you are resting, and sleep can join in if it wants to.
 
 **If you are tense and wide awake, get up.** Sit somewhere dim for a while with something dull. Go back to bed when you feel heavy-eyed. Our full [step-by-step plan for when you can't sleep](@falling-asleep/what-to-do-when-you-cant-sleep) covers this in detail, including what to do while you are up.
 

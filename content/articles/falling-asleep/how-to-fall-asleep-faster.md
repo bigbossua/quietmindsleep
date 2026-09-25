@@ -128,7 +128,7 @@ People searching for how to fall asleep faster usually want a trick. Here is an 
 4. **Constructive worry or a worry list.** Good evidence in small trials for reducing bedtime rumination, especially for people whose problem is a busy mind.
 5. **Slow breathing.** Reasonable evidence that it calms the body's stress response. Specific patterns such as 4-7-8 have not been tested much on their own, so treat the numbers as a suggestion rather than a formula.
 6. **Imagery and cognitive shuffling.** Promising, with a small number of studies behind each. Low cost, no downside, worth trying.
-7. **The military sleep method.** Widely shared, but the evidence is anecdotal. It combines muscle relaxation and imagery, which are sensible; the "two minutes" claim is not something anyone has demonstrated in a trial.
+7. **The [military sleep method](@falling-asleep/military-sleep-method).** Widely shared, but the evidence is anecdotal. It combines muscle relaxation and imagery, which are sensible; the "two minutes" claim is not something anyone has demonstrated in a trial.
 8. **Sleep sounds and apps.** Helpful for masking noise and for giving a restless mind a focus. Not a treatment in themselves.
 
 If your mind is the thing that will not settle, the [racing thoughts guide](@quiet-the-mind/racing-thoughts-at-night) goes deeper into why that happens at bedtime and what helps.

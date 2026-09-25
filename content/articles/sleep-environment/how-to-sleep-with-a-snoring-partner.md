@@ -62,7 +62,7 @@ Steady background noise, from a fan or a sound machine, raises the floor so that
 
 ### Sleep headphones
 
-If you would rather listen to something than sit behind earplugs, a soft headband with flat speakers lets side sleepers play rain sounds, a podcast or a sleep story without anything in the ear, and small sleep earbuds combine some physical blocking with sound. They are particularly useful for the nights when you have woken at 3am and need something to focus on other than the snoring. The [sleep headphones guide](@sleep-products/best-sleep-headphones-uk) explains the options.
+If you would rather listen to something than sit behind earplugs, a soft headband with flat speakers lets side sleepers play rain sounds, a podcast or a sleep story without anything in the ear, and small sleep earbuds combine some physical blocking with sound. They are particularly useful for the nights when you have woken at 3am and need something to focus on other than the snoring. The [sleep headphones guide](@sleep-products/best-sleep-headphones-uk) explains the options, and if you are torn between a headband and earbuds, the [types of sleep headphones compared](@sleep-products/types-of-sleep-headphones) sets them side by side.
 
 {{products: soft-foam-earplugs, fan-based-white-noise-machine, sleep-earbuds | heading=The three things people next to a snorer usually try | intro=Plugs to block, steady sound to mask, and earbuds for the nights when you want something to listen to. Most people settle on one or two.}}
 

@@ -1,6 +1,6 @@
 ---
 title: "Does Reading Before Bed Help You Sleep?"
-description: "Does reading before bed help you sleep? For most people, yes: it occupies the mind without exciting it. Paper vs screens, what to read, and whether to read in bed."
+description: "Does reading before bed help you sleep? For most people, yes: it occupies the mind without exciting it. Paper or screen, what to read, and where to read it."
 standfirst: "Reading before bed helps most people fall asleep more easily, because it gives a busy mind something to do that is absorbing but not arousing. The details matter: what you read, on what, and where."
 published: 2026-09-25
 updated: 2026-09-25
@@ -63,7 +63,7 @@ A middle way that suits many people: read in bed, but if you notice you have bee
 
 ## Fitting it into the evening
 
-Reading works best as the final stage of a slightly longer wind-down: lights dimmed, the day closed off, the phone put away. Twenty minutes is plenty; some people manage five pages before their eyes give up, and that is the point. Our guide to a [bedtime routine for adults](@falling-asleep/bedtime-routine-for-adults) shows where reading fits alongside the rest, and a warm, low bedside lamp from our guide to [bedroom lighting](@sleep-environment/bedroom-lighting-for-sleep) makes reading easy on the eyes without lighting up the room.
+Reading works best as the final stage of a slightly longer wind-down: lights dimmed, the day closed off, the phone put away. Twenty minutes is plenty; some people manage five pages before their eyes give up, and that is the point. Our guide to a [bedtime routine for adults](@falling-asleep/bedtime-routine-for-adults) shows where reading fits alongside the rest. A warm, low bedside lamp, of the kind covered in our guide to [bedroom lighting](@sleep-environment/bedroom-lighting-for-sleep), makes reading easy on the eyes without lighting up the room.
 
 ## Where to go next
 

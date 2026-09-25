@@ -7,9 +7,22 @@
     "intro": "If your body is tired but your head is still running through the day, tomorrow's list or an old conversation, you are in the right place. These guides explain why minds get busier at night and walk through practical ways to settle them, from worry lists and breathing to simple changes in the hour before bed.",
     "cluster": "A",
     "illustration": "mind",
-    "featured": ["racing-thoughts-at-night", "how-to-stop-overthinking-at-night", "how-to-calm-your-mind-before-bed", "cant-switch-off-at-night"],
-    "relatedHubs": ["relaxation", "falling-asleep", "waking-at-night"],
-    "commercial": ["sleep-products/best-sleep-headphones-uk", "sleep-products/best-white-noise-machines-uk"]
+    "featured": [
+      "racing-thoughts-at-night",
+      "how-to-stop-overthinking-at-night",
+      "how-to-calm-your-mind-before-bed",
+      "cant-switch-off-at-night"
+    ],
+    "relatedHubs": [
+      "relaxation",
+      "falling-asleep",
+      "waking-at-night"
+    ],
+    "commercial": [
+      "sleep-products/best-sleep-headphones-uk",
+      "sleep-products/best-white-noise-machines-uk"
+    ],
+    "metaTitle": "Quiet the Mind: Racing Thoughts and Overthinking | Quiet Mind Sleep"
   },
   {
     "slug": "falling-asleep",
@@ -19,9 +32,22 @@
     "intro": "Lying awake waiting for sleep is frustrating, and the frustration itself makes it harder. These guides cover how long falling asleep should normally take, why it sometimes takes far longer, and the routines and techniques that give sleep the best chance of arriving on its own.",
     "cluster": "B",
     "illustration": "moon",
-    "featured": ["how-to-fall-asleep-faster", "what-to-do-when-you-cant-sleep", "bedtime-routine-for-adults", "difficulty-falling-asleep"],
-    "relatedHubs": ["quiet-the-mind", "relaxation", "sleep-habits"],
-    "commercial": ["sleep-products/best-sleep-masks-uk", "sleep-products/best-white-noise-machines-uk"]
+    "featured": [
+      "how-to-fall-asleep-faster",
+      "what-to-do-when-you-cant-sleep",
+      "bedtime-routine-for-adults",
+      "difficulty-falling-asleep"
+    ],
+    "relatedHubs": [
+      "quiet-the-mind",
+      "relaxation",
+      "sleep-habits"
+    ],
+    "commercial": [
+      "sleep-products/best-sleep-masks-uk",
+      "sleep-products/best-white-noise-machines-uk"
+    ],
+    "metaTitle": "Falling Asleep: How to Drop Off Faster and Easier | Quiet Mind Sleep"
   },
   {
     "slug": "waking-at-night",
@@ -31,9 +57,22 @@
     "intro": "Brief wakings are a normal part of sleep. The problem starts when a wake-up turns into an hour of staring at the ceiling. These guides explain what is going on when you wake in the night, when it is worth speaking to a GP, and the calm, practical steps that make it easier to drift back off.",
     "cluster": "G",
     "illustration": "clock",
-    "featured": ["waking-up-at-3am", "cant-get-back-to-sleep", "waking-up-in-the-middle-of-the-night", "should-i-get-up-if-i-cant-sleep"],
-    "relatedHubs": ["quiet-the-mind", "sleep-environment", "sleep-habits"],
-    "commercial": ["sleep-products/best-earplugs-for-sleeping-uk", "sleep-products/best-sleep-masks-uk"]
+    "featured": [
+      "waking-up-at-3am",
+      "cant-get-back-to-sleep",
+      "waking-up-in-the-middle-of-the-night",
+      "should-i-get-up-if-i-cant-sleep"
+    ],
+    "relatedHubs": [
+      "quiet-the-mind",
+      "sleep-environment",
+      "sleep-habits"
+    ],
+    "commercial": [
+      "sleep-products/best-earplugs-for-sleeping-uk",
+      "sleep-products/best-sleep-masks-uk"
+    ],
+    "metaTitle": "Waking at Night: 3am and Getting Back to Sleep | Quiet Mind Sleep"
   },
   {
     "slug": "sleep-sounds",
@@ -43,9 +82,22 @@
     "intro": "Sound can mask the noises that wake you and give a restless mind something steady to settle on. These guides explain the differences between brown, white and pink noise, what rain and nature sounds offer, and how to use sound at night without it becoming a crutch.",
     "cluster": "C",
     "illustration": "waves",
-    "featured": ["brown-noise-for-sleep", "white-noise-for-sleep", "brown-noise-vs-white-noise", "rain-sounds-for-sleep"],
-    "relatedHubs": ["sleep-environment", "quiet-the-mind", "sleep-products"],
-    "commercial": ["sleep-products/best-white-noise-machines-uk", "sleep-products/best-sleep-headphones-uk"]
+    "featured": [
+      "brown-noise-for-sleep",
+      "white-noise-for-sleep",
+      "brown-noise-vs-white-noise",
+      "rain-sounds-for-sleep"
+    ],
+    "relatedHubs": [
+      "sleep-environment",
+      "quiet-the-mind",
+      "sleep-products"
+    ],
+    "commercial": [
+      "sleep-products/best-white-noise-machines-uk",
+      "sleep-products/best-sleep-headphones-uk"
+    ],
+    "metaTitle": "Sleep Sounds: Brown, White and Pink Noise for Sleep | Quiet Mind Sleep"
   },
   {
     "slug": "sleep-environment",
@@ -55,9 +107,23 @@
     "intro": "Your bedroom is doing more work than you might think. Light, noise, temperature and clutter all shape how easily you fall asleep and how often you wake. These guides cover the changes that make the biggest difference, most of them cheap or free.",
     "cluster": "D",
     "illustration": "bedroom",
-    "featured": ["best-temperature-for-sleep", "how-to-make-bedroom-darker", "how-to-block-out-noise-at-night", "how-to-sleep-when-its-hot"],
-    "relatedHubs": ["sleep-products", "sleep-sounds", "sleep-habits"],
-    "commercial": ["sleep-products/best-sleep-masks-uk", "sleep-products/best-blackout-curtains-uk", "sleep-products/best-earplugs-for-sleeping-uk"]
+    "featured": [
+      "best-temperature-for-sleep",
+      "how-to-make-bedroom-darker",
+      "how-to-block-out-noise-at-night",
+      "how-to-sleep-when-its-hot"
+    ],
+    "relatedHubs": [
+      "sleep-products",
+      "sleep-sounds",
+      "sleep-habits"
+    ],
+    "commercial": [
+      "sleep-products/best-sleep-masks-uk",
+      "sleep-products/best-blackout-curtains-uk",
+      "sleep-products/best-earplugs-for-sleeping-uk"
+    ],
+    "metaTitle": "Sleep Environment: A Bedroom Built for Sleep | Quiet Mind Sleep"
   },
   {
     "slug": "relaxation",
@@ -67,9 +133,22 @@
     "intro": "Relaxation techniques give a wired body and mind a clear, simple task to do instead of trying to force sleep. These step-by-step guides cover the methods with the best track record, how to practise them, and how to fit them into a bedtime routine.",
     "cluster": "F",
     "illustration": "breath",
-    "featured": ["breathing-exercises-for-sleep", "4-7-8-breathing", "progressive-muscle-relaxation-for-sleep", "bedtime-relaxation-techniques"],
-    "relatedHubs": ["quiet-the-mind", "falling-asleep", "sleep-habits"],
-    "commercial": ["sleep-products/best-sleep-headphones-uk", "sleep-products/weighted-blankets-guide"]
+    "featured": [
+      "breathing-exercises-for-sleep",
+      "4-7-8-breathing",
+      "progressive-muscle-relaxation-for-sleep",
+      "bedtime-relaxation-techniques"
+    ],
+    "relatedHubs": [
+      "quiet-the-mind",
+      "falling-asleep",
+      "sleep-habits"
+    ],
+    "commercial": [
+      "sleep-products/best-sleep-headphones-uk",
+      "sleep-products/weighted-blankets-guide"
+    ],
+    "metaTitle": "Relaxation for Sleep: Breathing, PMR and Meditation | Quiet Mind Sleep"
   },
   {
     "slug": "sleep-habits",
@@ -79,9 +158,21 @@
     "intro": "What you do during the day and in the hours before bed shapes the night ahead. These guides look at the everyday habits with the strongest links to sleep, explain what the evidence actually says, and suggest realistic changes rather than rules nobody keeps.",
     "cluster": "H",
     "illustration": "sun",
-    "featured": ["sleep-hygiene", "how-to-fix-your-sleep-schedule", "caffeine-and-sleep", "screens-before-bed"],
-    "relatedHubs": ["falling-asleep", "waking-at-night", "sleep-environment"],
-    "commercial": ["sleep-products/best-sleep-masks-uk"]
+    "featured": [
+      "sleep-hygiene",
+      "how-to-fix-your-sleep-schedule",
+      "caffeine-and-sleep",
+      "screens-before-bed"
+    ],
+    "relatedHubs": [
+      "falling-asleep",
+      "waking-at-night",
+      "sleep-environment"
+    ],
+    "commercial": [
+      "sleep-products/best-sleep-masks-uk"
+    ],
+    "metaTitle": "Sleep Habits: Hygiene, Caffeine, Screens and More | Quiet Mind Sleep"
   },
   {
     "slug": "sleep-products",
@@ -91,9 +182,19 @@
     "intro": "Most sleep problems are not solved by buying something. But a few well-chosen products genuinely make a dark, quiet, comfortable bedroom easier to achieve. These guides explain what to look for, what the trade-offs are, and where products are worth considering. Where we link to a product, it is clearly marked and we may earn a commission at no extra cost to you.",
     "cluster": "E",
     "illustration": "mask",
-    "featured": ["best-sleep-masks-uk", "best-earplugs-for-sleeping-uk", "best-white-noise-machines-uk", "best-sleep-headphones-uk"],
-    "relatedHubs": ["sleep-environment", "sleep-sounds", "waking-at-night"],
-    "commercial": []
+    "featured": [
+      "best-sleep-masks-uk",
+      "best-earplugs-for-sleeping-uk",
+      "best-white-noise-machines-uk",
+      "best-sleep-headphones-uk"
+    ],
+    "relatedHubs": [
+      "sleep-environment",
+      "sleep-sounds",
+      "waking-at-night"
+    ],
+    "commercial": [],
+    "metaTitle": "Sleep Products: UK Buying Guides for Better Sleep | Quiet Mind Sleep"
   },
   {
     "slug": "sleep-questions",
@@ -103,8 +204,20 @@
     "intro": "Short, direct answers to the questions people ask most about sleep, with links to deeper guides where you want more. If a sleep problem is persistent or affecting your health, we also explain when it is worth talking to a GP.",
     "cluster": "I",
     "illustration": "question",
-    "featured": ["why-cant-i-sleep", "why-am-i-tired-but-cant-sleep", "how-much-sleep-do-adults-need", "when-to-see-a-gp-about-sleep"],
-    "relatedHubs": ["quiet-the-mind", "falling-asleep", "waking-at-night"],
-    "commercial": ["sleep-products/best-sleep-masks-uk"]
+    "featured": [
+      "why-cant-i-sleep",
+      "why-am-i-tired-but-cant-sleep",
+      "how-much-sleep-do-adults-need",
+      "when-to-see-a-gp-about-sleep"
+    ],
+    "relatedHubs": [
+      "quiet-the-mind",
+      "falling-asleep",
+      "waking-at-night"
+    ],
+    "commercial": [
+      "sleep-products/best-sleep-masks-uk"
+    ],
+    "metaTitle": "Sleep Questions: Straight Answers About Sleep | Quiet Mind Sleep"
   }
 ]

@@ -77,7 +77,7 @@ export function sitemapPage(ctx) {
     <section><h2>About and legal</h2><ul class="link-list">${pages.map(p => `<li><a href="${p.url}">${esc(p.title)}</a></li>`).join('')}</ul></section>
   </div>
 </section>`;
-  return base(ctx, { key: 'sitemap', url: '/sitemap/', title: 'Sitemap', description: 'A full list of guides and pages on Quiet Mind Sleep.', type: 'sitemap' }, bodyHtml);
+  return base(ctx, { key: 'sitemap', url: '/sitemap/', title: 'Sitemap', description: 'A complete list of every sleep guide, topic hub, resource and policy page on Quiet Mind Sleep, organised by topic so you can find what you need.', type: 'sitemap' }, bodyHtml);
 }
 
 export function resourcesIndex(ctx) {
@@ -92,5 +92,5 @@ export function resourcesIndex(ctx) {
   <div class="wrap"><div class="card-grid card-grid-3">${resources.map(p => `<article class="card"><div class="card-body"><h3 class="card-title"><a href="${p.url}">${esc(p.title)}</a></h3><p class="card-desc">${esc(p.description)}</p></div></article>`).join('')}</div></div>
   <div class="wrap section">${emailCapture(ctx, 'wide')}</div>
 </section>`;
-  return base(ctx, { key: 'resources', url: '/resources/', title: 'Sleep resources', description: 'Free sleep plans and checklists from Quiet Mind Sleep, including the 7-Night Quiet Mind Sleep Plan.', type: 'hub' }, bodyHtml);
+  return base(ctx, { key: 'resources', url: '/resources/', title: 'Sleep resources', description: 'Free sleep resources from Quiet Mind Sleep: the 7-Night Quiet Mind Sleep Plan and the Better Sleep Checklist, each linking to the guide behind every step.', type: 'hub' }, bodyHtml);
 }

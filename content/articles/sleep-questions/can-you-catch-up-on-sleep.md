@@ -1,6 +1,6 @@
 ---
 title: "Can You Catch Up on Sleep? What Sleep Debt Really Means"
-description: "Can you catch up on sleep? Partly. A long night restores alertness, but you don't recover hour for hour, and weekend lie-ins have a cost. Better ways to recover."
+description: "Can you catch up on sleep? Partly. A long night restores alertness, but you don't recover hour for hour, and weekend lie-ins have a cost. How to recover well."
 standfirst: "You can recover from a short run of bad nights, and one long sleep restores much of the alertness you lost. But you do not get the hours back one for one, and the weekend lie-in has a cost of its own."
 published: 2026-09-25
 updated: 2026-09-25

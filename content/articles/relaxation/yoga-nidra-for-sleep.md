@@ -1,7 +1,7 @@
 ---
 title: "Yoga Nidra for Sleep: What It Is and How to Practise It"
-description: "Yoga nidra explained: a guided, lying-down deep-rest practice that rotates attention around the body. How it relates to NSDR, what the evidence shows, and how to start."
-standfirst: "Yoga nidra is a guided practice done lying down, in which a voice moves your attention around the body and through the breath. It is the basis of what some now call NSDR. Here is what it involves, what the evidence shows, and how to begin."
+description: "Yoga nidra explained: a guided, lying-down deep-rest practice that moves attention around the body. How it relates to NSDR, the evidence, and how to start."
+standfirst: "Yoga nidra is a guided practice done lying down, in which a voice moves your attention around the body and through the breath. It is the basis of what some call NSDR. Here is what it involves, what the evidence shows, and how to start."
 published: 2026-09-25
 updated: 2026-09-25
 illustration: moon

@@ -108,6 +108,8 @@ If you would like a step-by-step version of this for the small hours, see [what 
 
 ## What to change this week
 
+If you want the whole picture in one place, the [Better Sleep Checklist](@resources/sleep-checklist) lists twenty things to get right, bedroom and habits together, each linking to the guide that explains it.
+
 1. **Fix your wake time.** Same time every day, including Saturday, with daylight soon after. This is the single most powerful change.
 2. **Move caffeine earlier.** Nothing after lunch for a week, and see what happens.
 3. **Give your worries a slot.** Ten minutes with a notebook in the early evening, not in bed.

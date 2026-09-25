@@ -91,7 +91,7 @@ The full layered approach is in [how to block out noise at night](@sleep-environ
 
 **Why it matters:** Discomfort does not always wake you fully, but it causes the small shifts and part-wakings that make sleep feel shallow. Pillows lose their loft within a couple of years; mattresses typically last seven to ten.
 
-**Fixes:** Match the pillow to how you sleep. Side sleepers need a higher, firmer pillow to keep the neck level with the spine; back sleepers need a lower one; front sleepers need the flattest pillow they can find or none. The [pillows for side sleepers guide](@sleep-products/best-pillows-for-side-sleepers-uk) explains height and fill. A mattress topper can extend the life of a tired mattress for a year or two but will not fix a sagging one.
+**Fixes:** Match the pillow to how you sleep. Side sleepers need a higher, firmer pillow to keep the neck level with the spine; back sleepers need a lower one; front sleepers need the flattest pillow they can find or none. The [pillows for side sleepers guide](@sleep-products/best-pillows-for-side-sleepers-uk) explains height and fill. A mattress topper can extend the life of a tired mattress for a year or two but will not fix a sagging one. If it is time to replace it, the [plain-English mattress buying guide](@sleep-products/mattress-buying-guide-uk) walks through types, firmness and UK trial periods.
 
 Duvet weight and fabric matter here too. Cotton or linen breathes; polyester traps heat. The [bedding and duvet tog guide](@sleep-environment/bedding-and-sleep) covers seasonal togs and fabrics.
 
@@ -119,6 +119,8 @@ Two small additions that some people find useful: a notepad by the bed for the t
 - Cool: heating off before bed, roughly 16–18°C, duvet matched to season.
 - Fresh: window or vent open, no damp.
 - Bed: pillow suited to your sleeping position, mattress not sagging, breathable bedding.
+
+For the habits side of the same audit, the [Better Sleep Checklist](@resources/sleep-checklist) covers routine, caffeine, screens and the rest.
 - Calm: work out of sight, phone out of reach, surfaces clear.
 
 ## Where to go next

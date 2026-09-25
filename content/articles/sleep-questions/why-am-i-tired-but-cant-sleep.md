@@ -1,6 +1,6 @@
 ---
 title: "Why Am I Tired but Can't Sleep?"
-description: "Tired but can't sleep? Tired and sleepy are different states. Why your body can be exhausted while your brain stays switched on, and what actually helps tonight."
+description: "Tired but can't sleep? Tired and sleepy are different states. Why your body can be exhausted while your brain stays switched on, and what helps tonight."
 standfirst: "Being tired and being sleepy are not the same thing. You can be worn out by the day while the system that switches sleep on is still stuck in the 'on' position. Here is why, and what to do about it."
 published: 2026-09-25
 updated: 2026-09-25

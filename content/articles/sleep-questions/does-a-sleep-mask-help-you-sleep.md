@@ -1,6 +1,6 @@
 ---
 title: "Does a Sleep Mask Actually Help You Sleep?"
-description: "Does a sleep mask help you sleep? Yes, if light is part of your problem. What the evidence says, who benefits most, the downsides and how to choose one that fits."
+description: "Does a sleep mask help you sleep? Yes, if light is part of your problem. What the evidence says, who benefits most, the downsides and how to choose one."
 standfirst: "A sleep mask helps if light is part of why you sleep badly: street lights, a partner's lamp, a summer dawn. The evidence is modest but points the right way. Here is who benefits and what to look for."
 published: 2026-09-25
 updated: 2026-09-25

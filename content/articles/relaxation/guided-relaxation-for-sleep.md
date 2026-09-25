@@ -1,6 +1,6 @@
 ---
 title: "Guided Relaxation for Sleep: How It Works and Where to Start"
-description: "Guided relaxation for sleep explained: what a recorded voice does for a tired mind, the main types, how to choose a voice and length, free sources, and listening in bed."
+description: "Guided relaxation for sleep: what a recorded voice does for a tired mind, the main types, how to choose a voice and length, free sources, and listening in bed."
 standfirst: "Guided relaxation hands the job of paying attention to a recorded voice, so all you have to do is listen. Here is how it works, which types suit which people, where to find free recordings, and how to listen comfortably in bed."
 published: 2026-09-25
 updated: 2026-09-25
@@ -82,7 +82,7 @@ Guided relaxation has one practical snag: it involves a device and a sound sourc
 
 **Keep the phone dim and out of reach.** Set the recording going, turn the screen off, and put the phone face down on the far side of the bedside table. Use a sleep timer or a recording that ends by itself so you are not reaching for it afterwards.
 
-**Decide how you will hear it.** A speaker is fine if you sleep alone and the volume is low. If you share a bed, or you are a side sleeper, ordinary earbuds press into the ear and wired ones tangle. Headband headphones, which sit flat in a soft fabric band, and small sleep earbuds designed to be lain on are the two usual answers; our guide to the [best sleep headphones](@sleep-products/best-sleep-headphones-uk) explains the trade-offs.
+**Decide how you will hear it.** A speaker is fine if you sleep alone and the volume is low. If you share a bed, or you are a side sleeper, ordinary earbuds press into the ear and wired ones tangle. Headband headphones, which sit flat in a soft fabric band, and small sleep earbuds designed to be lain on are the two usual answers; our guide to the [best sleep headphones](@sleep-products/best-sleep-headphones-uk) explains the trade-offs, and there is a shorter [comparison of headband, earbud and bone-conduction designs](@sleep-products/types-of-sleep-headphones) if you just want the differences.
 
 {{products: headband-sleep-headphones, sleep-earbuds | heading=For listening to guided relaxation in bed | intro=Comfortable audio makes it practical to follow a recording lying on your side without waking a partner.}}
 

@@ -41,7 +41,7 @@ ${groups.map(g => g.pages.length ? `
 </section>
 <section class="wrap section">${emailCapture(ctx, 'wide')}</section>`;
   const schemas = [breadcrumbSchema(ctx, trail), collectionSchema(ctx, hub, pages)];
-  return base(ctx, { ...hub, key: hub.slug, url: pageUrl(hub.slug), type: 'hub', metaTitle: `${hub.title}: ${hub.description.split('.')[0]} | Quiet Mind Sleep` }, bodyHtml, { schemas });
+  return base(ctx, { ...hub, key: hub.slug, url: pageUrl(hub.slug), type: 'hub', metaTitle: hub.metaTitle }, bodyHtml, { schemas });
 }
 
 function groupByRole(pages) {

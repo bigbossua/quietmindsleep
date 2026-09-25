@@ -113,7 +113,7 @@ Keep the room dark and do not check the time. Stay still, keep your eyes closed 
 
 ## Changes worth making this week
 
-**Anchor your wake time.** Same time every day, including weekends. This does more for broken sleep than almost anything else, because it stabilises the body clock that decides when light sleep arrives.
+**Anchor your wake time.** Same time every day, including weekends. This does more for broken sleep than almost anything else, because it stabilises the body clock that decides when light sleep arrives. It is also the main reason people [wake at the same time every night](@waking-at-night/why-do-i-wake-up-at-the-same-time-every-night): a regular clock produces regular light-sleep windows.
 
 **Test the obvious suspects one at a time.** Two weeks without alcohol. Caffeine finished by early afternoon. Fluids reduced after 8pm. Change one thing and give it a fair trial; changing everything at once tells you nothing.
 

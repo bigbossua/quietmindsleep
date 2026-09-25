@@ -14,6 +14,7 @@ for (const f of files) { const rel = '/' + path.relative(dist, f).replace(/\\/g,
 for (const f of fs.readdirSync(dist)) if (!f.endsWith('.html')) existing.add('/' + f);
 const assetOk = (u) => { const p = path.join(dist, u.split('?')[0]); return fs.existsSync(p); };
 
+const decode = (s) => s.replace(/&#39;/g, "'").replace(/&quot;/g, '"').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>');
 const issues = { blocking: [], warnings: [] };
 const titles = new Map(), descs = new Map();
 const incoming = {};
@@ -41,8 +42,8 @@ for (const f of files) {
   }
   if (html.includes('data-affiliate=')) affiliatePages++;
   // on-page
-  const title = (html.match(/<title>([^<]*)<\/title>/) || [])[1] || '';
-  const desc = (html.match(/<meta name="description" content="([^"]*)"/) || [])[1] || '';
+  const title = decode((html.match(/<title>([^<]*)<\/title>/) || [])[1] || '');
+  const desc = decode((html.match(/<meta name="description" content="([^"]*)"/) || [])[1] || '');
   const h1s = (html.match(/<h1[\s>]/g) || []).length;
   const canonical = (html.match(/<link rel="canonical" href="([^"]+)"/) || [])[1];
   if (!title) issues.blocking.push(`${page}: missing <title>`);

@@ -1,6 +1,6 @@
 ---
 title: "How Much Sleep Do Adults Need?"
-description: "Most adults need around 7 to 9 hours of sleep a night, with real individual variation. How to tell whether you are getting enough, and why regularity matters too."
+description: "Most adults need around 7 to 9 hours of sleep a night, with real individual variation. How to tell whether you are getting enough, and why regularity matters."
 standfirst: "Most adults need somewhere between seven and nine hours a night, and the range is genuine: some people are fine at seven, others need closer to nine. Here is how to find your own number."
 published: 2026-09-25
 updated: 2026-09-25
@@ -81,4 +81,4 @@ Getting less than seven hours occasionally is life. Getting less than six most n
 
 ## Where to go next
 
-Pick a wake time you can keep seven days a week, count back your best guess at your number, and try it for a fortnight before adjusting. If falling asleep or staying asleep is the problem rather than the hours, start with [why can't I sleep](@sleep-questions/why-cant-i-sleep), or browse the rest of our [sleep questions](@sleep-questions).
+Pick a wake time you can keep seven days a week, count back your best guess at your number, and try it for a fortnight before adjusting. If falling asleep or staying asleep is the problem rather than the hours, start with [why can't I sleep](@sleep-questions/why-cant-i-sleep). For more short answers, browse the rest of our [sleep questions](@sleep-questions).

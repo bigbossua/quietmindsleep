@@ -68,5 +68,5 @@ export function homePage(ctx) {
   <div class="section-head"><h2 id="latest-heading" class="section-title">Recently updated</h2></div>
   ${cardGrid(latest, ctx, { cls: 'card-grid-3 card-grid-compact' })}
 </section>`;
-  return base(ctx, { key: 'home', url: '/', title: site.brand, description: `${site.tagline} Independent UK guides on racing thoughts, falling asleep, waking at night, sleep sounds and setting up your bedroom for better sleep.`, type: 'home', illustration: 'hero' }, bodyHtml);
+  return base(ctx, { key: 'home', url: '/', title: site.brand, metaTitle: 'Quiet Mind Sleep: Calm a Busy Mind and Sleep Better (UK)', description: 'Practical UK guides on quieting a racing mind, falling asleep, waking at night, sleep sounds and a bedroom that helps you sleep. No miracle promises.', type: 'home', illustration: 'hero' }, bodyHtml);
 }

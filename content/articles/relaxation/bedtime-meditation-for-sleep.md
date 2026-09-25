@@ -1,6 +1,6 @@
 ---
 title: "Bedtime Meditation for Sleep: A Beginner's Guide"
-description: "Bedtime meditation explained for beginners: what it can and cannot do for sleep, three simple practices with steps, guided versus unguided, and what to do if it wakes you up."
+description: "Bedtime meditation for beginners: what it can and cannot do for sleep, three simple practices with steps, guided versus silent, and what to do if it wakes you."
 standfirst: "Bedtime meditation is not a way to make yourself sleep. It is a way to stop fighting for it. Here are three simple practices for beginners, how to choose between guided and silent versions, and what to do if meditation leaves you more alert."
 published: 2026-09-25
 updated: 2026-09-25

@@ -1,6 +1,6 @@
 ---
 title: "Is It Bad to Sleep With the Light On?"
-description: "Is it bad to sleep with the light on? For most people, yes: even dim light during sleep makes it lighter and may affect health. Here is the practical middle ground."
+description: "Is it bad to sleep with the light on? For most people, yes: even dim light makes sleep lighter and may affect health. The practical middle ground, explained."
 standfirst: "Sleeping in a lit room tends to make sleep lighter and more broken, and a small amount of research suggests wider effects too. If you need a light, keep it dim, warm and low. Here is the balance."
 published: 2026-09-25
 updated: 2026-09-25

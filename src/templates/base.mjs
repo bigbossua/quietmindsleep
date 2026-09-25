@@ -2,9 +2,16 @@ import { esc } from '../lib/html.mjs';
 import { header, footer } from '../lib/components.mjs';
 import { jsonLd, websiteSchema } from '../lib/schema.mjs';
 
+// Keep <title> within ~65 characters: try full title + brand, then the part before a colon + brand, then the full title alone.
+export function smartTitle(title, brand) {
+  const before = title.includes(': ') ? title.split(': ')[0] : (title.includes('? ') ? title.split('? ')[0] + '?' : null);
+  const candidates = [`${title} | ${brand}`, before ? `${before} | ${brand}` : null, title, before].filter(Boolean);
+  return candidates.find(c => c.length <= 65) || candidates[candidates.length - 1];
+}
+
 export function base(ctx, page, bodyHtml, opts = {}) {
   const { site } = ctx;
-  const title = page.metaTitle || (page.key === 'home' ? `${site.brand} — ${site.tagline}` : `${page.title} | ${site.brand}`);
+  const title = page.metaTitle || smartTitle(page.title, site.brand);
   const canonical = site.baseUrl + page.url;
   const ogImage = page.illustration ? `${site.baseUrl}/assets/img/og-${page.illustration}.png` : site.baseUrl + site.socialImage;
   const ga = site.analytics?.ga4MeasurementId ? `

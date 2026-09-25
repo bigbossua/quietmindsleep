@@ -34,7 +34,7 @@ What wakes you is contrast: a sudden sound against a quiet background. Rain fill
 
 ### It has a gentle spectrum
 
-Rain on a roof or pavement spreads its energy across many frequencies, with more at the low end and no single tone standing out. That is roughly the profile of [pink noise](@sleep-sounds/pink-noise-for-sleep), and it is why rain rarely feels harsh in the way a pure white hiss can. Because there is no pitch to latch on to, your attention slides off it.
+Rain on a roof or pavement spreads its energy across many frequencies, with more at the low end and no single tone standing out. That is roughly the profile of [pink noise](@sleep-sounds/pink-noise-for-sleep), and it is why rain rarely feels harsh in the way a pure white hiss can. Because there is no pitch to latch on to, your attention slides off it. [Ocean sounds](@sleep-sounds/ocean-sounds-for-sleep) share the same soft profile but add a slow rise and fall that some people prefer to rain's evenness.
 
 ### It is not a threat
 

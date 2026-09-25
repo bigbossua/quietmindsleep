@@ -51,7 +51,7 @@ The [best temperature for sleep](@sleep-environment/best-temperature-for-sleep) 
 
 A 13.5 tog duvet is designed for cold rooms. In a heated bedroom, or from May to September, it is far too much for many people, and a partner who runs cold can make the negotiation difficult. Fabric matters too: polyester fillings and covers hold heat and moisture; cotton, linen and wool let them through. The guide to [bedding and sleep](@sleep-environment/bedding-and-sleep) explains togs and fabrics in detail.
 
-The mattress is the cause people miss. Memory foam moulds to you, and in doing so it wraps you in a material that does not breathe well. If you have started waking hot since changing to a foam mattress or a foam pillow, that is probably not a coincidence. A cooling pillow or topper helps some people; a pocket-sprung or hybrid mattress helps more.
+The mattress is the cause people miss. Memory foam moulds to you, and in doing so it wraps you in a material that does not breathe well. If you have started waking hot since changing to a foam mattress or a foam pillow, that is probably not a coincidence. A cooling pillow or topper helps some people; a pocket-sprung or hybrid mattress helps more. The [mattress buying guide](@sleep-products/mattress-buying-guide-uk) explains which types breathe best.
 
 ### Alcohol
 

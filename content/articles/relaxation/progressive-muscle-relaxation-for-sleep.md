@@ -1,6 +1,6 @@
 ---
 title: "Progressive Muscle Relaxation for Sleep: A Step-by-Step Script"
-description: "A full progressive muscle relaxation script for sleep, from feet to face, with timings, why tensing first helps, adaptations for pain or injury, and the evidence."
+description: "A full progressive muscle relaxation script for sleep, feet to face, with timings, why tensing first helps, adaptations for pain or injury, and the evidence."
 standfirst: "Progressive muscle relaxation works by tensing each muscle group briefly and then letting it go, so the body learns what 'relaxed' actually feels like. Here is a complete script you can follow in bed tonight."
 published: 2026-09-25
 updated: 2026-09-25
@@ -128,7 +128,7 @@ If you are unsure whether it is suitable for you, a physiotherapist or GP can ad
 
 Relaxation training is one of the longest-studied non-drug approaches to insomnia. A 2006 review by Charles Morin and colleagues in the journal Sleep listed relaxation among the psychological approaches with reasonable support, particularly for people whose problem is falling asleep rather than staying asleep. The 2017 European insomnia guideline reaches a similar conclusion: relaxation is a useful component, though less effective on its own than the full CBT-I package.
 
-That is an honest summary. PMR is not a standalone cure and works best alongside a regular wake time and getting out of bed when you are lying awake for long stretches. If sleep problems have lasted for months and are affecting your days, it is worth reading [when to see a GP about sleep](@sleep-questions/when-to-see-a-gp-about-sleep) and asking about CBT-I.
+That is an honest summary. PMR is not a standalone answer and works best alongside a regular wake time and getting out of bed when you are lying awake for long stretches. If sleep problems have lasted for months and are affecting your days, it is worth reading [when to see a GP about sleep](@sleep-questions/when-to-see-a-gp-about-sleep) and asking about CBT-I.
 
 ## Following a recording instead
 

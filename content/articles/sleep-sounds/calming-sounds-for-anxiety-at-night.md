@@ -63,7 +63,7 @@ Do not try to relax. Trying is effort, and effort is the opposite of what you ar
 
 A phone works, but notifications, bright screens and adverts are exactly what an anxious mind does not need at 2am. If you use one, switch on do-not-disturb, choose a long track, and put it face down out of reach.
 
-If you share a bed, or want the sound close and private, sleep headphones make the difference between a soundtrack you can use and one you cannot. Headband styles keep flat speakers against the ears with nothing inside the ear, which suits side sleepers; small sleep earbuds add a little passive blocking as well. The [sleep headphones guide](@sleep-products/best-sleep-headphones-uk) compares the types.
+If you share a bed, or want the sound close and private, sleep headphones make the difference between a soundtrack you can use and one you cannot. Headband styles keep flat speakers against the ears with nothing inside the ear, which suits side sleepers; small sleep earbuds add a little passive blocking as well. The [sleep headphones guide](@sleep-products/best-sleep-headphones-uk) covers what to look for, and the [types of sleep headphones](@sleep-products/types-of-sleep-headphones) page is a quick comparison of headband, earbud and bone-conduction designs.
 
 Whatever you use, keep the volume low. Prolonged loud sound damages hearing, and the aim is a sound you barely notice rather than one that drowns out thought.
 

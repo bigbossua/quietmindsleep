@@ -1,7 +1,7 @@
 ---
 title: "Gentle Bedtime Stretches to Help You Unwind"
-description: "Seven gentle bedtime stretches described step by step, with safety notes for backs and joints, how to pair them with slow breathing, and why slow and dim beats a workout."
-standfirst: "A few slow, easy stretches in dim light release the stiffness of a day at a desk and give the body a clear signal that it is winding down. Here are seven to do in the half hour before bed, with the safety notes that matter."
+description: "Seven gentle bedtime stretches described step by step, with safety notes for backs and joints, how to pair them with slow breathing, and why slow beats fast."
+standfirst: "A few slow, easy stretches in dim light release the stiffness of a day at a desk and signal to the body that it is winding down. Here are seven to do in the half hour before bed, with the safety notes that matter."
 published: 2026-09-25
 updated: 2026-09-25
 illustration: breath

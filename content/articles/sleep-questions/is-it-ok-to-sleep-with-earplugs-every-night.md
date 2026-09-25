@@ -1,6 +1,6 @@
 ---
 title: "Is It OK to Sleep With Earplugs Every Night?"
-description: "Sleeping with earplugs every night is generally fine with a few sensible habits around earwax, hygiene and hearing alarms. What can go wrong and how to use them safely."
+description: "Sleeping with earplugs every night is generally fine with sensible habits around earwax, hygiene and hearing alarms. What can go wrong and how to use them well."
 standfirst: "Sleeping with earplugs every night is generally fine for most people, provided you keep them clean, insert them gently and keep an eye on earwax. Here is what can go wrong and how to avoid it."
 published: 2026-09-25
 updated: 2026-09-25
@@ -69,4 +69,4 @@ If you are going to wear them every night, comfort and hygiene matter more than 
 
 ## Where to go next
 
-Earplugs treat the symptom, which is fine, but it is also worth looking at the source. Our guide to [blocking out noise at night](@sleep-environment/how-to-block-out-noise-at-night) covers the room-level fixes, and if you find you wake at every small sound whether or not you wear plugs, [are you a light sleeper](@waking-at-night/light-sleeper) is the better starting point. For more short answers, see our [sleep questions](@sleep-questions).
+Earplugs treat the symptom, which is fine, but it is also worth looking at the source. Our guide to [blocking out noise at night](@sleep-environment/how-to-block-out-noise-at-night) covers the room-level fixes. If you find you wake at every small sound whether or not you wear plugs, [are you a light sleeper](@waking-at-night/light-sleeper) is the better starting point. For more short answers, see our [sleep questions](@sleep-questions).

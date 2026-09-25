@@ -10,11 +10,6 @@ readNext:
   - relaxation/breathing-exercises-for-sleep
   - relaxation/box-breathing
   - falling-asleep/how-to-fall-asleep-faster
-faq:
-  - q: "Does 4-7-8 breathing really put you to sleep in a minute?"
-    a: "No. That claim circulates widely online but there is no research behind it. A few rounds can leave you noticeably calmer, which makes sleep more likely, but how quickly you drop off depends far more on how sleepy you are and whether your body clock is ready."
-  - q: "Do I have to breathe out through my mouth with a sound?"
-    a: "It is part of the original instructions, but the sound is optional. Breathing out through the nose or through softly parted lips works just as well. The important parts are the long, slow exhale and the ratio between the counts."
 sources:
   - title: "Breathing exercises for stress"
     publisher: "NHS"
@@ -39,7 +34,7 @@ Practise sitting up the first couple of times so you can learn the counts withou
 2. **Empty your lungs.** Breathe out completely through your mouth, letting the air escape with a soft whoosh around your tongue.
 3. **Breathe in for four.** Close your mouth and breathe in quietly through your nose while you count silently to four. Let the belly rise rather than the chest.
 4. **Hold for seven.** Keep the breath in, without clamping down. The throat stays soft; you are simply pausing.
-5. **Breathe out for eight.** Open your mouth and let the air out slowly, with the same soft sound, while you count to eight. Aim for the exhale to last the whole count rather than escaping in the first two seconds.
+5. **Breathe out for eight.** Open your mouth and let the air out slowly, with the same soft sound (the sound is optional; breathing out through the nose works too), while you count to eight. Aim for the exhale to last the whole count rather than escaping in the first two seconds.
 6. **Repeat.** That is one cycle. Do four cycles, building to eight once it feels easy. Then stop counting and let your breath settle at whatever slow pace it has found.
 
 **Timing:** the counts are ratios, not seconds. If holding for seven full seconds is a strain, count faster so the whole cycle takes ten seconds or so, and slow down as it becomes familiar. What matters is that the out-breath is twice as long as the in-breath.

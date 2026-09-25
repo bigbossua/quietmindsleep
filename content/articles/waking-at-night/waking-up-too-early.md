@@ -103,7 +103,7 @@ If you want to move your natural wake time from 5am to 6.30am, work on these tog
 4. **Move bedtime later in small steps** if you have been going to bed early.
 5. **Keep morning light off your face until you are up.** No phone in bed; open the curtains only when you get up.
 
-If summer dawn is the clear trigger, a blackout solution is the highest-return change. The [best blackout curtains](@sleep-products/best-blackout-curtains-uk) guide explains the difference between "blackout" on the label and blackout in practice.
+If summer dawn is the clear trigger, a blackout solution is the highest-return change. The [best blackout curtains](@sleep-products/best-blackout-curtains-uk) guide explains the difference between "blackout" on the label and blackout in practice, and if you cannot decide between changing the room and wearing something, [sleep mask vs blackout curtains](@sleep-environment/sleep-mask-vs-blackout-curtains) compares the two.
 
 {{products: thermal-blackout-curtains, contoured-sleep-mask | heading=Keeping the dawn out | intro=Curtains for a permanent fix, a mask for renters and travellers.}}
 

@@ -42,7 +42,7 @@ Used at a sensible volume, it is considered safe for adults to use every night. 
 
 White noise is random sound with equal energy at every frequency across the range of human hearing, in the same way that white light contains every visible colour. The result is a bright, even hiss, like an untuned analogue radio, a hairdryer or heavy rain on a conservatory roof.
 
-Because our ears are most sensitive to higher frequencies, true white noise can sound sharp. That is why the other "colours" exist. Pink noise tilts the balance toward the low end and sounds like steady rain. [Brown noise](@sleep-sounds/brown-noise-for-sleep) tilts further and sounds like a distant waterfall. All three mask noise; they differ mainly in how pleasant they are to have on for eight hours. The [Sleep Sounds guides](@sleep-sounds) cover each in turn.
+Because our ears are most sensitive to higher frequencies, true white noise can sound sharp. That is why the other "colours" exist. Pink noise tilts the balance toward the low end and sounds like steady rain. [Brown noise](@sleep-sounds/brown-noise-for-sleep) tilts further and sounds like a distant waterfall. All three mask noise; they differ mainly in how pleasant they are to have on for eight hours. If you are choosing between the two gentler options, [pink noise vs white noise](@sleep-sounds/pink-noise-vs-white-noise) sets them side by side. The [Sleep Sounds guides](@sleep-sounds) cover each in turn.
 
 ## How masking works
 

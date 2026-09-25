@@ -40,7 +40,7 @@ for (const file of articleFiles) {
   if (data.status && data.status === 'unpublished') continue;
   const page = {
     key, file, hub, url: pageUrl(key), type: 'article', content,
-    title: data.title, h1: data.h1 || data.title, description: data.description, standfirst: data.standfirst,
+    title: data.title, metaTitle: data.metaTitle, h1: data.h1 || data.title, description: data.description, standfirst: data.standfirst,
     published: iso(data.published), updated: data.updated ? iso(data.updated) : iso(data.published),
     illustration: data.illustration || ctx.hubIndex[hub]?.illustration || 'moon', imageAlt: data.imageAlt,
     primaryKeyword: data.primaryKeyword || plan?.primaryKeyword, secondaryKeywords: data.secondaryKeywords || plan?.secondaryKeywords || [],
