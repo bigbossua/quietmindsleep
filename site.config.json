@@ -1,0 +1,56 @@
+{
+  "brand": "Quiet Mind Sleep",
+  "tagline": "Practical ways to quiet a busy mind and build better sleep habits.",
+  "domain": "quietmindsleep.co.uk",
+  "baseUrl": "https://quietmindsleep.co.uk",
+  "locale": "en-GB",
+  "country": "United Kingdom",
+  "contactEmail": "hello@quietmindsleep.co.uk",
+  "contactEmailNote": "Set up this mailbox in Hostinger (Emails → Create) or change contactEmail before launch.",
+  "affiliate": {
+    "amazon": {
+      "enabled": true,
+      "tag": "REPLACE-WITH-YOUR-TAG-21",
+      "storeDomain": "www.amazon.co.uk",
+      "note": "Your Amazon Associates UK tracking ID ends in -21. Until it is set, links still work but earn no commission."
+    }
+  },
+  "analytics": {
+    "ga4MeasurementId": "",
+    "note": "Leave blank to load no tracking. Set G-XXXXXXX to enable GA4 with affiliate click events."
+  },
+  "email": {
+    "provider": "none",
+    "formAction": "",
+    "note": "Set provider to 'mailchimp', 'kit' or 'custom' and formAction to the POST endpoint when an email service is connected. Until then the form saves nothing and shows a friendly notice."
+  },
+  "nav": [
+    { "label": "Quiet the Mind", "hub": "quiet-the-mind" },
+    { "label": "Falling Asleep", "hub": "falling-asleep" },
+    { "label": "Waking at Night", "hub": "waking-at-night" },
+    { "label": "Sleep Sounds", "hub": "sleep-sounds" },
+    { "label": "Sleep Environment", "hub": "sleep-environment" },
+    { "label": "Relaxation", "hub": "relaxation" },
+    { "label": "Sleep Habits", "hub": "sleep-habits" },
+    { "label": "Products", "hub": "sleep-products" },
+    { "label": "Questions", "hub": "sleep-questions" }
+  ],
+  "featuredHome": [
+    "quiet-the-mind/racing-thoughts-at-night",
+    "quiet-the-mind/how-to-calm-your-mind-before-bed",
+    "falling-asleep/how-to-fall-asleep-faster",
+    "waking-at-night/waking-up-at-3am",
+    "sleep-sounds/brown-noise-for-sleep",
+    "sleep-environment/best-temperature-for-sleep"
+  ],
+  "resourcesHome": [
+    "resources/7-night-quiet-mind-sleep-plan",
+    "resources/sleep-checklist",
+    "relaxation/bedtime-relaxation-techniques",
+    "sleep-sounds"
+  ],
+  "productsHome": ["sleep-products/best-sleep-masks-uk", "sleep-products/best-earplugs-for-sleeping-uk", "sleep-products/best-white-noise-machines-uk", "sleep-products/best-sleep-headphones-uk"],
+  "socialImage": "/assets/img/og-default.png",
+  "publisherName": "Quiet Mind Sleep",
+  "editorialNote": "Quiet Mind Sleep is an independent UK sleep information website. It is not a medical service."
+}

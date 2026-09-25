@@ -1,0 +1,45 @@
+{
+  "_note": "Affiliate providers. Only 'amazon-uk' is live at launch. Add other programmes here (e.g. Awin/Impact merchants) without touching templates: each product in products.json names a provider and the link builder in src/lib/links.mjs does the rest. Never put private keys or account credentials in this file.",
+  "providers": {
+    "amazon-uk": {
+      "name": "Amazon UK",
+      "type": "amazon",
+      "enabled": true,
+      "disclosureLabel": "Amazon",
+      "trackingParam": "tag",
+      "trackingValueFrom": "site.config.json → affiliate.amazon.tag",
+      "linkTemplates": {
+        "asin": "https://www.amazon.co.uk/dp/{asin}/?{trackingParam}={tag}",
+        "search": "https://www.amazon.co.uk/s?k={query}&{trackingParam}={tag}"
+      },
+      "rel": "sponsored nofollow noopener",
+      "ctaLabel": "Check current availability on Amazon",
+      "policyNotes": [
+        "Only use Special Links generated with the site's own tracking ID.",
+        "Do not display prices unless pulled live via the Product Advertising API; static prices go stale and breach the Operating Agreement.",
+        "Do not use Amazon product images unless obtained through approved means (PA-API/SiteStripe).",
+        "The Associates disclosure must be clearly visible on pages carrying Special Links (see /affiliate-disclosure/ and the per-page notice).",
+        "Do not use Special Links in emails, PDFs or offline documents."
+      ]
+    },
+    "direct": {
+      "name": "Direct merchant link (non-affiliate)",
+      "type": "direct",
+      "enabled": true,
+      "disclosureLabel": "",
+      "linkTemplates": { "url": "{url}" },
+      "rel": "noopener",
+      "ctaLabel": "Visit the manufacturer"
+    },
+    "awin-example": {
+      "name": "Awin network merchant (example, disabled)",
+      "type": "network",
+      "enabled": false,
+      "disclosureLabel": "our partner",
+      "linkTemplates": { "url": "https://www.awin1.com/cread.php?awinmid={merchantId}&awinaffid={affiliateId}&ued={url}" },
+      "rel": "sponsored nofollow noopener",
+      "ctaLabel": "Check availability",
+      "note": "Template for a future network programme (mattress and bedding brands commonly use Awin). Set enabled:true and provide affiliateId in site.config.json when approved."
+    }
+  }
+}

@@ -1,0 +1,51 @@
+// Generates the site's illustration set as SVG files. A consistent, calm visual identity that
+// does not depend on stock photography. Run via build. To swap in Unsplash photography later,
+// see scripts/fetch-unsplash.mjs and keep the same file names.
+import fs from 'node:fs';
+import path from 'node:path';
+
+const W = 1200, H = 675;
+const P = { navy: '#1b2a41', indigo: '#26365a', dusk: '#3d4f7c', sand: '#f4ecdf', cream: '#faf7f2', sage: '#8fb0a1', gold: '#e8c988', rose: '#d9a48f', mist: '#b9c6de' };
+
+function seeded(seed) { let s = seed; return () => { s = (s * 9301 + 49297) % 233280; return s / 233280; }; }
+function stars(seed, n = 60, area = [0, 0, W, H * 0.7]) {
+  const r = seeded(seed); let out = '';
+  for (let i = 0; i < n; i++) {
+    const x = area[0] + r() * (area[2] - area[0]), y = area[1] + r() * (area[3] - area[1]);
+    const rad = 0.8 + r() * 1.8, op = 0.25 + r() * 0.6;
+    out += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${rad.toFixed(1)}" fill="${P.sand}" opacity="${op.toFixed(2)}"/>`;
+  }
+  return out;
+}
+const defs = (id) => `<defs>
+<linearGradient id="sky-${id}" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${P.navy}"/><stop offset="1" stop-color="${P.dusk}"/></linearGradient>
+<linearGradient id="glow-${id}" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${P.gold}" stop-opacity=".9"/><stop offset="1" stop-color="${P.rose}" stop-opacity=".6"/></linearGradient>
+<radialGradient id="halo-${id}" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="${P.gold}" stop-opacity=".35"/><stop offset="1" stop-color="${P.gold}" stop-opacity="0"/></radialGradient>
+</defs>`;
+const svg = (id, inner, title) => `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-labelledby="t-${id}"><title id="t-${id}">${title}</title>${defs(id)}<rect width="${W}" height="${H}" fill="url(#sky-${id})"/>${inner}</svg>`;
+const hills = (color = P.indigo, y = 520) => `<path d="M0 ${y + 60} C 200 ${y - 40}, 420 ${y + 80}, 640 ${y} S 1000 ${y - 60}, ${W} ${y + 30} L ${W} ${H} L 0 ${H} Z" fill="${color}"/>`;
+const moon = (cx, cy, r) => `<circle cx="${cx}" cy="${cy}" r="${r * 2.2}" fill="url(#halo-x)"/><circle cx="${cx}" cy="${cy}" r="${r}" fill="url(#glow-x)"/><circle cx="${cx - r * 0.35}" cy="${cy - r * 0.1}" r="${r * 0.82}" fill="${P.navy}" opacity=".0"/>`;
+
+const scenes = {
+  hero: `${stars(7, 90)}<circle cx="900" cy="200" r="150" fill="url(#halo-hero)"/><path d="M930 130 a70 70 0 1 0 60 105 a55 55 0 1 1 -60 -105z" fill="url(#glow-hero)"/>${hills(P.indigo, 500)}${hills('#2f4068', 560)}<rect x="180" y="330" width="260" height="300" rx="10" fill="#0f1a2c"/><rect x="200" y="350" width="105" height="120" rx="4" fill="${P.gold}" opacity=".25"/><rect x="315" y="350" width="105" height="120" rx="4" fill="${P.gold}" opacity=".25"/><rect x="200" y="485" width="105" height="120" rx="4" fill="${P.gold}" opacity=".18"/><rect x="315" y="485" width="105" height="120" rx="4" fill="${P.gold}" opacity=".18"/><path d="M200 420 h220" stroke="${P.sand}" stroke-opacity=".15" stroke-width="2"/>`,
+  mind: `${stars(11, 50)}<circle cx="600" cy="330" r="190" fill="url(#halo-mind)"/><path d="M600 170 c-90 0 -160 70 -160 160 c0 60 30 100 70 130 v40 c0 20 20 30 40 30 h100 c20 0 40 -10 40 -30 v-40 c40 -30 70 -70 70 -130 c0 -90 -70 -160 -160 -160z" fill="none" stroke="${P.sand}" stroke-width="5" stroke-linejoin="round" opacity=".9"/><path d="M520 320 c30 -40 60 -10 80 -30 s40 -50 80 -20" fill="none" stroke="${P.gold}" stroke-width="5" stroke-linecap="round"/><path d="M540 380 c30 -20 50 10 80 -10 s50 -30 70 -5" fill="none" stroke="${P.sage}" stroke-width="5" stroke-linecap="round"/><g fill="${P.gold}"><circle cx="420" cy="230" r="6" opacity=".7"/><circle cx="790" cy="250" r="5" opacity=".6"/><circle cx="470" cy="170" r="4" opacity=".5"/></g>${hills(P.indigo, 560)}`,
+  moon: `${stars(3, 70)}<circle cx="700" cy="280" r="220" fill="url(#halo-moon)"/><path d="M760 150 a130 130 0 1 0 110 200 a105 105 0 1 1 -110 -200z" fill="url(#glow-moon)"/><g stroke="${P.sand}" stroke-opacity=".5" stroke-width="4" stroke-linecap="round" fill="none"><path d="M300 560 c60 -20 120 -20 180 0"/><path d="M340 600 c40 -12 80 -12 120 0"/></g>${hills(P.indigo, 540)}`,
+  clock: `${stars(5, 55)}<circle cx="600" cy="330" r="200" fill="url(#halo-clock)"/><circle cx="600" cy="330" r="150" fill="${P.navy}" stroke="${P.sand}" stroke-width="5"/><g stroke="${P.sand}" stroke-width="4" stroke-linecap="round"><path d="M600 200 v18"/><path d="M730 330 h-18"/><path d="M600 460 v-18"/><path d="M470 330 h18"/></g><path d="M600 330 L600 235" stroke="${P.gold}" stroke-width="7" stroke-linecap="round"/><path d="M600 330 L655 375" stroke="${P.gold}" stroke-width="7" stroke-linecap="round"/><circle cx="600" cy="330" r="9" fill="${P.gold}"/>${hills(P.indigo, 560)}`,
+  waves: `${stars(9, 40, [0, 0, W, 300])}<circle cx="950" cy="150" r="120" fill="url(#halo-waves)"/><circle cx="950" cy="150" r="48" fill="url(#glow-waves)"/><g fill="none" stroke-linecap="round" stroke-width="6"><path d="M0 360 c100 -50 200 -50 300 0 s200 50 300 0 s200 -50 300 0 s200 50 300 0" stroke="${P.mist}" opacity=".9"/><path d="M0 430 c100 -40 200 -40 300 0 s200 40 300 0 s200 -40 300 0 s200 40 300 0" stroke="${P.sage}" opacity=".85"/><path d="M0 500 c100 -30 200 -30 300 0 s200 30 300 0 s200 -30 300 0 s200 30 300 0" stroke="${P.gold}" opacity=".7"/><path d="M0 570 c100 -20 200 -20 300 0 s200 20 300 0 s200 -20 300 0 s200 20 300 0" stroke="${P.rose}" opacity=".55"/></g>`,
+  bedroom: `${stars(13, 40, [0, 0, W, 250])}<rect x="120" y="120" width="960" height="470" rx="18" fill="#14213a"/><rect x="150" y="150" width="900" height="410" rx="12" fill="#0f1a2c"/><rect x="200" y="180" width="200" height="150" rx="6" fill="${P.gold}" opacity=".2"/><rect x="205" y="185" width="190" height="140" rx="4" fill="url(#sky-bedroom)"/>${stars(21, 12, [210, 190, 390, 320])}<rect x="180" y="330" width="240" height="14" rx="7" fill="${P.sand}" opacity=".5"/><rect x="480" y="360" width="500" height="150" rx="16" fill="${P.sand}"/><rect x="480" y="330" width="500" height="60" rx="14" fill="${P.mist}"/><rect x="510" y="300" width="130" height="50" rx="12" fill="${P.cream}"/><rect x="660" y="300" width="130" height="50" rx="12" fill="${P.cream}"/><rect x="470" y="260" width="520" height="24" rx="8" fill="#2d3d62"/><rect x="870" y="420" width="60" height="4" fill="${P.gold}" opacity=".0"/><circle cx="330" cy="440" r="28" fill="${P.gold}" opacity=".85"/><rect x="322" y="465" width="16" height="70" rx="4" fill="#2d3d62"/><circle cx="330" cy="440" r="70" fill="url(#halo-bedroom)"/>`,
+  breath: `${stars(17, 45)}<circle cx="600" cy="330" r="240" fill="url(#halo-breath)"/><g fill="none" stroke-width="4"><circle cx="600" cy="330" r="60" stroke="${P.gold}" opacity=".95"/><circle cx="600" cy="330" r="110" stroke="${P.gold}" opacity=".6"/><circle cx="600" cy="330" r="160" stroke="${P.sage}" opacity=".4"/><circle cx="600" cy="330" r="210" stroke="${P.mist}" opacity=".25"/></g><circle cx="600" cy="330" r="22" fill="${P.gold}"/>${hills(P.indigo, 580)}`,
+  sun: `${stars(19, 25, [0, 0, W, 200])}<circle cx="600" cy="520" r="260" fill="url(#halo-sun)"/><path d="M340 520 a260 260 0 0 1 520 0z" fill="url(#glow-sun)" opacity=".9"/><path d="M420 520 a180 180 0 0 1 360 0z" fill="${P.gold}" opacity=".5"/>${hills('#2f4068', 520)}${hills(P.indigo, 570)}<g stroke="${P.gold}" stroke-width="4" stroke-linecap="round" opacity=".7"><path d="M600 200 v40"/><path d="M420 260 l28 28"/><path d="M780 260 l-28 28"/></g>`,
+  mask: `${stars(23, 50)}<circle cx="600" cy="330" r="220" fill="url(#halo-mask)"/><path d="M340 300 c0 -70 60 -110 130 -110 c50 0 90 20 130 45 c40 -25 80 -45 130 -45 c70 0 130 40 130 110 c0 80 -70 130 -140 130 c-50 0 -90 -25 -120 -55 c-30 30 -70 55 -120 55 c-70 0 -140 -50 -140 -130z" fill="${P.navy}" stroke="${P.sand}" stroke-width="5" stroke-linejoin="round"/><path d="M340 300 c-90 -20 -170 -40 -240 -60" fill="none" stroke="${P.sand}" stroke-width="5" stroke-linecap="round" opacity=".7"/><path d="M860 300 c90 -20 170 -40 240 -60" fill="none" stroke="${P.sand}" stroke-width="5" stroke-linecap="round" opacity=".7"/><path d="M430 300 c20 -20 60 -20 80 0" stroke="${P.gold}" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M690 300 c20 -20 60 -20 80 0" stroke="${P.gold}" stroke-width="5" fill="none" stroke-linecap="round"/>${hills(P.indigo, 580)}`,
+  question: `${stars(29, 55)}<circle cx="600" cy="320" r="220" fill="url(#halo-question)"/><path d="M520 250 c0 -60 50 -95 100 -95 s95 35 95 85 c0 55 -60 65 -75 100 c-8 18 -8 30 -8 50" fill="none" stroke="${P.sand}" stroke-width="12" stroke-linecap="round"/><circle cx="632" cy="450" r="12" fill="${P.gold}"/>${hills(P.indigo, 580)}`
+};
+
+export function generateIllustrations(dir) {
+  fs.mkdirSync(dir, { recursive: true });
+  const titles = { hero: 'Night sky over a quiet bedroom window', mind: 'A calm outline of a head with gentle waves inside', moon: 'A crescent moon over soft hills', clock: 'A clock face in the night', waves: 'Layered sound waves across a night sky', bedroom: 'A tidy bedroom at night with a small lamp', breath: 'Concentric rings suggesting slow breathing', sun: 'The sun rising over hills', mask: 'A sleep mask against the night', question: 'A question mark in the night sky' };
+  for (const [name, inner] of Object.entries(scenes)) {
+    fs.writeFileSync(path.join(dir, `${name}.svg`), svg(name, inner.replace(/#halo-x/g, `#halo-${name}`).replace(/#glow-x/g, `#glow-${name}`), titles[name]));
+  }
+  fs.writeFileSync(path.join(dir, 'favicon.svg'), `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34"><circle cx="17" cy="17" r="16" fill="${P.navy}"/><path d="M22.5 8.5a9 9 0 1 0 4 15.4A10 10 0 0 1 22.5 8.5z" fill="${P.sand}"/><circle cx="11" cy="11" r="1.2" fill="${P.sand}" opacity=".8"/></svg>`);
+  fs.writeFileSync(path.join(dir, 'logo.svg'), `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" width="400" height="80"><rect width="400" height="80" rx="12" fill="${P.navy}"/><path d="M52 18a20 20 0 1 0 9 34A22 22 0 0 1 52 18z" fill="${P.sand}"/><text x="90" y="52" font-family="Georgia, serif" font-size="34" fill="${P.sand}">Quiet Mind <tspan font-style="italic" fill="${P.gold}">Sleep</tspan></text></svg>`);
+}
+export const palette = P;

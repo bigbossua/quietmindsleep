@@ -1,0 +1,26 @@
+{
+  "name": "quietmindsleep",
+  "version": "1.0.0",
+  "description": "Quiet Mind Sleep — UK sleep information and product-recommendation site (static build).",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "audit": "node scripts/audit.mjs",
+    "linkmap": "node scripts/link-map.mjs",
+    "register": "node scripts/maintenance-register.mjs",
+    "keywords": "node scripts/keywords-export.mjs",
+    "ingest:semrush": "node scripts/ingest-semrush.mjs",
+    "new": "node scripts/new-article.mjs",
+    "serve": "node scripts/serve.mjs",
+    "check": "npm run build && npm run audit"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^15.0.0",
+    "sharp": "^0.35.4"
+  }
+}
