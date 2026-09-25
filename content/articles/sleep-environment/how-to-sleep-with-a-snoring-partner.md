@@ -1,6 +1,6 @@
 ---
 title: "How to Sleep With a Snoring Partner"
-description: "How to sleep with a snoring partner: earplugs, steady sound, going to sleep first, side-sleeping nudges and separate rooms without shame. Plus when their snoring needs a GP."
+description: "How to sleep with a snoring partner: earplugs, steady sound, getting to sleep first, side-sleeping nudges, separate rooms without shame and when to see a GP."
 standfirst: "You can get a decent night next to a snorer by combining earplugs or steady sound with getting to sleep first and a few gentle changes on their side. And if the snoring is loud with pauses, it is worth them seeing a GP."
 published: 2026-09-25
 updated: 2026-09-25

@@ -70,6 +70,14 @@ If you genuinely want to enjoy music, none of these is satisfying, and that is f
 
 Earbuds pack smallest and block the most. A headband is more comfortable for a long flight in a seat where your head leans sideways. Either beats over-ear headphones, which are impossible once you lie down.
 
+## Wired or Bluetooth?
+
+Headbands come both ways. Wired means no battery, no pairing and no charging, but a cable to the phone or bedside that can tangle if you turn a lot. Bluetooth means freedom to move and a phone across the room, but a battery in the band that needs charging every night or two and that will eventually wear out. Sleep earbuds are almost always wireless. If you forget to charge things, a wired headband is the one you will still be using in a year.
+
+## Getting the fit right
+
+A headband should be snug enough to stay put and loose enough that you forget it; if it leaves a mark on your forehead in the morning, size up or loosen it. Slide the speakers so they sit directly over the ear opening before you lie down. For earbuds, try every tip size in the box for a full night each, and judge by how the ear feels twenty minutes after waking, not at 3am. Any ache that lasts into the day means the fit is wrong.
+
 ## Products by type
 
 {{compare: headband-sleep-headphones, sleep-earbuds | caption=Sleep headphone types at a glance}}
@@ -80,4 +88,4 @@ Keep the volume at the lowest level that does the job; hours of sound every nigh
 
 ## Where to go next
 
-Unsure: headband. Snorer or noisy flat: earbuds, checking they play what you want. Then choose what to play and set a timer. The main [sleep headphones guide](@sleep-products) hub page lists the other product guides, and the [white noise machine guide](@sleep-products/best-white-noise-machines-uk) is the answer if you would rather have nothing on your head at all.
+Unsure: headband. Snorer or noisy flat: earbuds, checking they play what you want. Then choose what to play and set a timer. The [sleep products guides](@sleep-products) list the other buying guides, and the [white noise machine guide](@sleep-products/best-white-noise-machines-uk) is the answer if you would rather have nothing on your head at all.

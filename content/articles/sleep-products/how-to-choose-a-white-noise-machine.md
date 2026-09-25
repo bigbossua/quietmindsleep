@@ -56,6 +56,14 @@ If you travel, stay in hotels or sleep in shared rooms, a small rechargeable mac
 
 A bright status LED undoes some of the good of a dark room. Choose a machine with no light or one that can be turned off. Buttons or a dial you can operate by touch in the dark are better than a touch panel or an app you need to unlock a phone for.
 
+### Speaker quality
+
+The character of a digital machine depends on its speaker. A small, tinny driver makes even good brown noise sound thin and can add a faint whine at low volume. Larger machines with a forward-facing speaker generally sound fuller and can run quieter for the same masking effect. You cannot judge this from a listing, which is one reason to buy from a retailer with straightforward returns.
+
+### Where you will put it
+
+Placement is a feature you control. A machine between you and the noise, on the windowsill or by the shared wall, masks that noise most efficiently and can run quieter. A machine by your head is more intrusive and tempts you to turn it up. Plan for a shelf or table a metre or two from the bed and check the cable reaches a socket there.
+
 ### Things you can ignore
 
 Bluetooth speakers built into the machine, colour-changing lamps, voice assistant support and long menus of sounds. None of these helps you sleep; some of them keep the phone in the bedroom, which works against you.

@@ -63,7 +63,7 @@ Often the arousal is about sleep itself. After a few bad nights, bedtime starts 
 
 **Signs it is this:** you feel tense or alert the moment you get into bed; your mind replays the day or rehearses tomorrow; you fall asleep more easily on the sofa or away from home; you check the clock and calculate.
 
-**What helps:** doing your thinking earlier, on paper, with the lights on; a wind-down that actually lowers the pace rather than just filling time; a relaxation technique that gives your attention one quiet job; and getting up if you are wide awake rather than lying there battling. The [Quiet the Mind guides](@quiet-the-mind) cover the mental side in depth, and if your worries feel sharper at night than by day, the guide to [anxiety at night](@quiet-the-mind/anxiety-at-night) explains why that happens.
+**What helps:** doing your thinking earlier, on paper, with the lights on; a wind-down that actually lowers the pace rather than just filling time; a relaxation technique that gives your attention one quiet job; and getting up if you are wide awake rather than lying there battling. If your worries feel sharper at night than by day, the guide to [anxiety at night](@quiet-the-mind/anxiety-at-night) explains why that happens and what helps.
 
 > **In short:** If bedtime feels like an effort, the effort is the problem. The fixes all involve taking the pressure off sleep rather than pushing harder.
 
@@ -113,7 +113,7 @@ For persistent insomnia, NICE recommends CBT-I as the first treatment, ahead of 
 
 ## Where to go next
 
-If one of the causes above stood out, follow that thread first and give the change two or three weeks before judging it. If several fit, start with the wake time and the caffeine, because they are the easiest to change and they underpin everything else.
+If one of the causes above stood out, follow that thread first and give the change two or three weeks before judging it. If several fit, start with the wake time and the caffeine, because they are the easiest to change and they underpin everything else. The rest of the [Falling Asleep guides](@falling-asleep) cover what to do in the moment and how to build a routine that supports the change.
 
 And if the wait has gone on for months and is wearing you down, please do not treat it as something you have to solve alone. The NHS insomnia pages and a conversation with a GP are the right next step.
 

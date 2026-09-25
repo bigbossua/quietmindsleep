@@ -1,6 +1,6 @@
 ---
 title: "Sleep Mask vs Blackout Curtains: Which Is Better for a Dark Bedroom?"
-description: "Sleep mask vs blackout curtains: which blocks light better, which is cheaper, which suits renters, travel and partners on different schedules. An honest comparison."
+description: "Sleep mask vs blackout curtains: which blocks more light, which costs less, and which suits renters, travel and partners on different schedules."
 standfirst: "Blackout curtains darken the room for everyone in it and help with heat and noise; a sleep mask darkens only your eyes but works anywhere for a few pounds. For a lot of people the honest answer is both."
 published: 2026-09-25
 updated: 2026-09-25

@@ -41,6 +41,18 @@ A small ball of soft material warmed in the fingers and pressed over the opening
 
 The drawbacks: they last a few nights at most, they pick up hair and lint, they are fiddly in the dark, and they are not the choice for very loud environments.
 
+## Custom-moulded plugs
+
+A fourth option, not in our register, is a plug made from an impression of your own ear by an audiologist or a hearing-protection specialist. They fit precisely, sit flush, last for years and can be washed. They cost far more upfront and take a few weeks to arrive. Worth considering only once you know you will wear plugs every night and nothing off the shelf has suited you.
+
+## How to insert each type
+
+Foam: roll the plug between finger and thumb into a thin, crease-free cylinder. Reach over your head with the opposite hand and pull the top of the ear up and back to straighten the canal. Slide the plug in and hold it for twenty seconds while it expands. Your own voice should sound muffled and deep; if it does not, take it out and try again.
+
+Silicone: choose the tip size that seals without pressure, pull the ear up and back, and push the plug in with a gentle twist until it feels seated. It should not need force.
+
+Putty: warm a ball in your fingers until it softens, place it over the opening of the ear, and press the edges flat against the skin so there are no creases. Do not push it into the canal.
+
 ## The comparison
 
 | | Foam | Reusable silicone | Wax or putty |

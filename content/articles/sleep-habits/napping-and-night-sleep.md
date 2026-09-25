@@ -31,7 +31,7 @@ sources:
     url: "https://www.nhs.uk/conditions/insomnia/"
 status: draft
 ---
-Do naps affect night sleep? They can, but it depends almost entirely on two things: how long the nap is and when you take it. A twenty-minute nap at 1.30pm will not harm most people's night. A ninety-minute nap at 5pm almost certainly will. The difference comes down to sleep pressure, which is the key to napping well.
+Do naps affect night sleep? They can, but it depends almost entirely on how long the nap is and when you take it. A twenty-minute nap at 1.30pm will not harm most people's night. A ninety-minute nap at 5pm almost certainly will. The difference comes down to sleep pressure, which is the key to napping well.
 
 If you have insomnia, the honest advice is different: naps are usually best avoided until the nights are sorted, because every minute of daytime sleep is a minute of pressure that will not be there at bedtime. For everyone else, a short nap is a perfectly good tool, provided you follow a couple of rules.
 
@@ -59,7 +59,7 @@ After about 3pm, the cost rises. A nap at 4 or 5pm, even a short one, makes it h
 
 ## Who should avoid naps
 
-**People with insomnia.** If you struggle to fall asleep or stay asleep at night, daytime sleep is working against you. Building sleep pressure through the day is one of the main tools of CBT-I, the recommended treatment for insomnia, and naps undo it. This is temporary: once the nights are reliable, a short nap becomes fine again.
+**People with insomnia.** If you struggle to fall or stay asleep at night, daytime sleep works against you. Building sleep pressure through the day is one of the main tools of CBT-I, the recommended treatment for insomnia, and naps undo it. Once the nights are reliable, a short nap becomes fine again.
 
 **Anyone who feels worse afterwards.** Some people simply do not nap well and wake grumpier than they started. There is no rule that says you must.
 
@@ -67,7 +67,7 @@ If you need a nap every day to get through, or you sleep seven or eight hours an
 
 ## Napping well: the practical bit
 
-- **Set an alarm** for 20 to 25 minutes. Do not rely on waking naturally.
+- **Set an alarm** for 20 to 25 minutes.
 - **Lie down if you can**, somewhere cool and quiet, but not necessarily in bed. If your nights are poor, keeping the bed for night sleep helps.
 - **Deal with light.** Daytime naps happen in daylight, and a bright room makes light sleep lighter still. Closing curtains works; a sleep mask works anywhere, including on a train or in a car on your lunch break. Our [guide to choosing a sleep mask](@sleep-products/best-sleep-masks-uk) covers the types.
 

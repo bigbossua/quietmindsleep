@@ -1,6 +1,6 @@
 ---
 title: "How to Sleep When It's Cold Without Overheating"
-description: "How to sleep when it's cold: warm the bed rather than the room, layer bedding by tog, use a hot water bottle safely and time the heating so you neither shiver nor sweat."
+description: "How to sleep when it's cold: warm the bed rather than the room, layer bedding by tog, use a hot water bottle safely and time the heating so you don't overheat."
 standfirst: "The rule for cold nights is cool room, warm bed. Warm your feet, layer the bedding, time the heating to go off before bedtime, and you will sleep better than in a room heated all night."
 published: 2026-09-25
 updated: 2026-09-25

@@ -71,7 +71,7 @@ By the end of the first week you will typically have moved 60 to 90 minutes, and
 
 ### Week two: hold the gains and keep moving
 
-Continue the same pattern. This is the week the plan usually gets abandoned, because the novelty has gone and the early alarm is a grind. Two things help. First, a bright, pleasant morning routine you actually look forward to, which our guide to [how your morning routine shapes tonight's sleep](@sleep-habits/morning-routine-for-better-sleep) covers. Second, treating the weekend as two more days of the plan rather than a reward. A Sunday lie-in of two hours will undo most of the week's progress.
+Continue the same pattern. This is the week the plan usually gets abandoned, because the novelty has gone. Two things help. First, a bright, pleasant morning routine you actually look forward to, which our guide to [how your morning routine shapes tonight's sleep](@sleep-habits/morning-routine-for-better-sleep) covers. Second, treating the weekend as two more days of the plan rather than a reward. A Sunday lie-in of two hours will undo most of the week's progress.
 
 If you hit a wall at a particular time (many people find 7am fine but 6.30am impossible), stop shifting and hold the time you can manage for a week before trying again.
 
@@ -80,6 +80,8 @@ If you hit a wall at a particular time (many people find 7am fine but 6.30am imp
 Once you are waking at the target time and falling asleep within about twenty minutes of the target bedtime, stop moving. Now the job is to keep it, which is easier than getting there. Your wake time can flex by about half an hour without harm; more than an hour, regularly, and the drift starts again. There is more on holding a routine in our guide to [why a consistent sleep schedule matters](@sleep-habits/consistent-sleep-schedule).
 
 ## The two tools that do most of the work
+
+Everything in the plan comes down to two levers.
 
 ### Light
 
@@ -97,11 +99,13 @@ The second tool is simply being awake long enough. If you nap in the afternoon o
 
 ## The all-nighter myth
 
-Staying up for a whole night to "reset" is popular because it sounds decisive. It does not work. An all-nighter builds enormous sleep pressure, so you will certainly crash the next evening, but it does nothing to your body clock, which is still set to the old time. Most people sleep heavily for one night and then drift straight back. It also leaves you a day of poor concentration and mood for no lasting gain. If you have already tried it, no harm done; just start the gradual plan from wherever you are.
+Staying up for a whole night to "reset" is popular because it sounds decisive. It does not work. An all-nighter builds enormous sleep pressure, so you will certainly crash the next evening, but it does nothing to your body clock, which is still set to the old time. Most people sleep heavily for one night and then drift straight back. If you have already tried it, no harm done; just start the gradual plan from wherever you are.
 
 The same goes for trying to "catch up" with a marathon lie-in at the weekend. It relieves the debt a little but pushes the clock later, which is the opposite of what you want. Our guide to [whether you can catch up on sleep](@sleep-questions/can-you-catch-up-on-sleep) explains what does and does not carry over.
 
 ## Special cases
+
+The standard plan assumes you can choose your wake time. Not everyone can.
 
 ### Shift workers
 

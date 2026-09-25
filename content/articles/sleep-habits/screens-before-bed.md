@@ -39,6 +39,8 @@ This guide goes through each of the three effects, what the evidence actually su
 
 ## Three ways a screen gets in the way of sleep
 
+They are worth separating, because each needs a different fix.
+
 ### 1. The light
 
 Your body clock is set by light reaching special cells in the eye, and those cells are most sensitive to blue-ish light, which screens produce plenty of. In the evening, light tells your brain it is still daytime, delays the rise of melatonin (the hormone that signals night), and can push sleepiness later.

@@ -15,7 +15,7 @@ faq:
     a: "Not quite. A bedtime routine is the last hour of the day. Sleep hygiene covers the whole 24 hours: when you wake, when you have your last coffee, how much light you see in the morning, whether you nap. The evening routine is one part of it, and not the most powerful part."
   - q: "How long does it take for sleep hygiene changes to work?"
     a: "Give any change two to three weeks before judging it. A fixed wake time in particular takes a couple of weeks to shift your body clock, and the first few days can feel worse before they feel better. Judge by the average across a fortnight, not by a single night."
-  - q: "Can good sleep hygiene cure insomnia?"
+  - q: "Is good sleep hygiene enough to sort out insomnia?"
     a: "On its own, usually not. If you have struggled to sleep three or more nights a week for three months or more, the recommended first-line treatment in the UK is cognitive behavioural therapy for insomnia (CBT-I). Good habits still help alongside it, and your GP can advise on what is available locally."
   - q: "What is the single most important sleep hygiene habit?"
     a: "Getting up at the same time every day, including weekends, and getting some daylight soon afterwards. This anchors your body clock and makes everything else, from feeling sleepy at a sensible hour to waking less in the night, easier."

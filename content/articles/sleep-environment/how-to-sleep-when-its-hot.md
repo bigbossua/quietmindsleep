@@ -1,6 +1,6 @@
 ---
 title: "How to Sleep When It's Hot: A Guide for UK Homes Without Air Conditioning"
-description: "How to sleep when it's hot in a UK home with no air conditioning: keep the sun out by day, move air at night, switch to light bedding, cool your skin and pick the coolest room."
+description: "How to sleep when it's hot in a UK home without air conditioning: keep the sun out by day, move air at night, use light bedding and cool your skin, not the air."
 standfirst: "UK homes are built to hold heat, which is exactly what you do not want in a heatwave. The answer is to stop heat getting in by day, move air at night, and cool your body rather than the room."
 published: 2026-09-25
 updated: 2026-09-25

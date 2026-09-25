@@ -58,7 +58,7 @@ There are no published trials of the military sleep method. The 96 per cent figu
 
 What can be said is that each part of it resembles something that has been studied:
 
-- **Relaxing muscle groups in sequence** is the basis of progressive muscle relaxation, which has the longest track record of any relaxation technique in insomnia research. The military version skips the tensing phase, which may make it slightly less effective for people who cannot feel where their tension is, but the principle is the same. Our [step-by-step progressive muscle relaxation script](@relaxation/progressive-muscle-relaxation-for-sleep) covers the full version.
+- **Relaxing muscle groups in sequence** is the basis of progressive muscle relaxation, which has the longest track record of any relaxation technique in insomnia research. The military version skips the tensing phase, but the principle is the same. Our [step-by-step progressive muscle relaxation script](@relaxation/progressive-muscle-relaxation-for-sleep) covers the full version.
 - **Slow breathing with a longer out-breath** has reasonable evidence for calming the body's stress response, though specific breathing patterns have not been tested much on their own.
 - **Imagery** was tested in a small Oxford study that found people who imagined a calm, absorbing scene fell asleep sooner than people who counted sheep or did nothing. The canoe and the hammock are exactly this sort of scene.
 - **A repeated phrase** is a form of thought-blocking that some CBT-I programmes teach. The evidence is thinner, but it gives a busy mind something to hold.
@@ -69,11 +69,11 @@ So the fair summary is: a reasonable combination of established techniques, with
 
 ## How to practise it so it helps
 
-**Practise in the day first.** Winter's original programme had people rehearse the relaxation for weeks before expecting results, and that is good advice. Run through the sequence on the sofa in the afternoon, when nothing depends on it. Once your body knows the order, doing it at night is easier.
+**Practise in the day first.** Winter's original programme had people rehearse for weeks before expecting results, and that is good advice. Run through the sequence on the sofa in the afternoon, when nothing depends on it, so that your body knows the order by night.
 
 **Do not time it.** The moment you start checking whether two minutes have passed, you have turned relaxation into a test. Do the steps and let the time be whatever it is.
 
-**Repeat rather than escalate.** If you reach the end and are still awake, simply start again from the face. Do not add effort. Several slow passes are the normal experience for the first few weeks.
+**Repeat rather than escalate.** If you reach the end and are still awake, start again from the face without adding effort. Several slow passes is normal for the first few weeks.
 
 **Adapt the image.** The canoe and the hammock are suggestions. Any scene that is still, safe and slightly boring will do: a bench in an empty park, a train seat on a long journey. Fill it with detail, especially sensations of warmth and weight. If images do not come easily, stay with the body and the breath, or try [cognitive shuffling](@quiet-the-mind/cognitive-shuffling), which gives the mind unrelated words to picture instead of one scene.
 
@@ -81,7 +81,7 @@ So the fair summary is: a reasonable combination of established techniques, with
 
 ## Who it suits
 
-The method suits people who like a clear physical sequence, people who wake in the night and want something to do, and people who find open-ended meditation frustrating. It suits people less well if they cannot form mental images, if slow breathing makes them anxious, or if their problem is a body clock running later than their bedtime, in which case no relaxation technique will bring sleepiness forward.
+The method suits people who like a clear physical sequence, people who wake in the night and want something to do, and people who find open-ended meditation frustrating. It suits people less well if they cannot form mental images, or if their problem is a body clock running later than their bedtime, which no relaxation technique can shift.
 
 ## Where to go next
 

@@ -36,6 +36,8 @@ The morning light signal also starts a timer. Melatonin, the hormone that signal
 
 ## The four things that matter
 
+In rough order of importance:
+
 ### 1. Get up at the same time
 
 A fixed wake time is the foundation of everything else here. It decides when the light lands and how long you will have been awake by bedtime. Keep it within about half an hour every day, including weekends. If mornings are a struggle, put the alarm across the room, and resist the second alarm: dozing between snoozes is light, fragmented sleep that leaves you groggier, not more rested.
@@ -44,7 +46,7 @@ If you wake well before the alarm and cannot get back to sleep, that is a differ
 
 ### 2. See daylight within the first hour
 
-This is the single most effective thing in this article. Ten to twenty minutes outdoors soon after waking, or thirty on a dull day, gives the clock the signal it needs. It does not have to be sunny: even an overcast British morning is many times brighter than a well-lit room, and light through a window is much weaker than light outside.
+This is the single most effective thing on the list. Ten to twenty minutes outdoors soon after waking, or thirty on a dull day, gives the clock the signal it needs. It does not have to be sunny: even an overcast British morning is many times brighter than a well-lit room, and light through a window is much weaker than light outside.
 
 Ways to fit it in: walk part of the way to work, have your tea in the garden or on the step, walk the dog before breakfast, or open the curtains and stand by the window while the kettle boils if going out is not possible. In winter, when it is dark until eight, take the light when it comes and consider a brighter bulb in the kitchen for the meantime. Our guide to [bedroom lighting for sleep](@sleep-environment/bedroom-lighting-for-sleep) covers why the reverse applies in the evening.
 

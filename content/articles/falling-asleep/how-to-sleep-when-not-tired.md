@@ -48,7 +48,7 @@ If you feel fine at 11pm, come alive at midnight and would happily sleep until 1
 
 **Signs:** you sleep well at weekends when you go to bed later; you feel wide awake rather than tense; mornings are the hard part.
 
-**What helps:** morning light, within an hour of getting up, ideally outside. A fixed wake time seven days a week. Dim evenings: lamps not overheads, warm bulbs, and screens turned down. Bedtime moved earlier in small steps of 15 minutes every few nights rather than in one jump. Our guide to [bedroom lighting for sleep](@sleep-environment/bedroom-lighting-for-sleep) covers the evening side, and if the whole schedule has drifted, the [week-by-week schedule reset](@sleep-habits/how-to-fix-your-sleep-schedule) is the structured version.
+**What helps:** morning light, within an hour of getting up, ideally outside. A fixed wake time seven days a week. Dim evenings: lamps not overheads, warm bulbs, and screens turned down. Bedtime moved earlier in small steps of 15 minutes every few nights rather than in one jump. Our guide to [bedroom lighting for sleep](@sleep-environment/bedroom-lighting-for-sleep) covers the evening side. If the whole schedule has drifted, the [week-by-week schedule reset](@sleep-habits/how-to-fix-your-sleep-schedule) is the structured version.
 
 ## Reason 2: you have not built enough sleep pressure
 
