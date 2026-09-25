@@ -53,10 +53,10 @@
 
 ### YOU MUST DO
 1. **Semrush:** buy API units at https://www.semrush.com/mcp-access (or export Keyword Magic CSVs from the web app). Then say "Semrush units are available".
+2. **Amazon Associates:** done (tracking ID `kleantouch-21`, 19 ASINs verified, site registered). Check click attribution in Associates Central → Reports the day after the first live clicks.
 3. **Hostinger:** in hPanel → Security → SSL, reissue the free certificate so it covers `www.quietmindsleep.co.uk` and turn on Force HTTPS; create the `hello@` mailbox. Add the four SSH secrets in GitHub (`docs/owner-actions.md` §3) so CI deploys future pushes.
 4. ~~Merge the feature branch into `main`~~ — done; `main` is live.
-4. **Merge** the feature branch into `main` (or tell Claude to) so the deploy workflow runs.
-5. **Search Console:** verify the domain (DNS TXT) and submit the sitemap after deploy.
+5. **Search Console:** verify the domain (DNS TXT) and submit the sitemap now.
 6. Optional: GA4 measurement ID; email provider endpoint.
 
 ### CLAUDE WILL DO
