@@ -36,11 +36,13 @@ jobs:
           cp reports/live-verification.md reports-live/ 2>/dev/null || true
           exit $rc
       - name: Upload results
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: live-reports
           path: reports-live
       - name: Publish results to live-reports branch
+        if: always()
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
