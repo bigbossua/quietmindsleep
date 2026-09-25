@@ -4,10 +4,10 @@
 
 | | |
 |---|---|
-| URL | https://quietmindsleep.co.uk (not yet deployed; see "You must do") |
+| URL | https://quietmindsleep.co.uk — **LIVE** since 2026-09-25 (deployed commit `fd5fc54`). |
 | Technology | Static site: custom Node generator (Markdown + JSON data), one CSS file, one small JS file, self-hosted fonts, SVG illustration system, Open Graph PNGs. No CMS, database or plugins. |
-| Hosting | Hostinger (existing domain). Production build published to the public `hostinger` branch; `main` is the production source and CI republishes the branch on every push. Hostinger must be pointed at the branch in hPanel (`docs/go-live.md`, no keys required). hPanel, the Hostinger API and the live domain are all blocked from this environment, so the connection and live verification could not be done here. |
-| Status | **Built, audited, on `main` and on the `hostinger` deploy branch. Not yet connected in Hostinger, so not live. Not validated in Semrush.** |
+| Hosting | Hostinger, addon domain `domains/quietmindsleep.co.uk/public_html`. `main` is the production source; CI builds, audits and republishes the `hostinger` branch on every push. The first deploy was done over SSH from the owner's PC with the workflow's own procedure because the GitHub Actions SSH secrets are not set yet (`deploy-ssh` skipped) — add them per `docs/owner-actions.md` §3 so pushes to `main` deploy automatically. |
+| Status | **Live and verified (2026-09-25): homepage 200 over HTTPS, http→https 301, robots, sitemap 114/114, canonicals, assets, 404, search all pass. Open: `https://www.` fails TLS because the Hostinger certificate does not yet cover `www` (owner action in hPanel → SSL). Not validated in Semrush.** |
 
 ## SEO
 
@@ -38,8 +38,8 @@
 | | |
 |---|---|
 | Search Console | Not set up (needs your Google account). Steps in `docs/owner-actions.md`. |
-| Sitemap | Generated at `/sitemap.xml` (114 URLs, search excluded). Submit after deploy. |
-| Indexing | Not applicable until deployed. |
+| Sitemap | Generated at `/sitemap.xml` (114 URLs, search excluded). Live; submit in Search Console. |
+| Indexing | Site is live; nothing indexed yet until Search Console is set up and the sitemap submitted. |
 
 ## Content
 
@@ -53,8 +53,8 @@
 
 ### YOU MUST DO
 1. **Semrush:** buy API units at https://www.semrush.com/mcp-access (or export Keyword Magic CSVs from the web app). Then say "Semrush units are available".
-2. **Amazon Associates:** confirm the account is active, add quietmindsleep.co.uk to your website list, and paste your `-21` tracking ID into `site.config.json`.
-3. **Hostinger:** check/back up the current `public_html`, confirm SSL, connect the `hostinger` branch under Advanced → Git (or add FTP secrets), create the `hello@` mailbox.
+3. **Hostinger:** in hPanel → Security → SSL, reissue the free certificate so it covers `www.quietmindsleep.co.uk` and turn on Force HTTPS; create the `hello@` mailbox. Add the four SSH secrets in GitHub (`docs/owner-actions.md` §3) so CI deploys future pushes.
+4. ~~Merge the feature branch into `main`~~ — done; `main` is live.
 4. **Merge** the feature branch into `main` (or tell Claude to) so the deploy workflow runs.
 5. **Search Console:** verify the domain (DNS TXT) and submit the sitemap after deploy.
 6. Optional: GA4 measurement ID; email provider endpoint.
