@@ -1,0 +1,47 @@
+name: Verify live site
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: Base URL to verify
+        default: https://quietmindsleep.co.uk
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Install Playwright Chromium
+        run: npm i --no-save playwright@1.56.1 && npx playwright install --with-deps chromium
+      - name: Snapshot (headers, DNS, TLS, screenshots)
+        run: node scripts/live-snapshot.mjs "${{ inputs.url }}" reports-live
+      - name: Verify live site
+        id: verify
+        continue-on-error: true
+        run: node scripts/verify-live.mjs "${{ inputs.url }}" | tee reports-live/verify.log && cp reports/live-verification.md reports-live/ || cp reports/live-verification.md reports-live/ 2>/dev/null || true
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: live-reports
+          path: reports-live
+      - name: Publish results to live-reports branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./reports-live
+          publish_branch: live-reports
+          force_orphan: true
+          enable_jekyll: false
+          commit_message: "Live verification ${{ inputs.url }} ${{ github.run_id }}"
+      - name: Result
+        run: test "${{ steps.verify.outcome }}" = "success"

@@ -15,7 +15,8 @@
     "serve": "node scripts/serve.mjs",
     "check": "npm run build && npm run audit",
     "deploy:branch": "node scripts/publish-deploy-branch.mjs",
-    "verify:live": "node scripts/verify-live.mjs"
+    "verify:live": "node scripts/verify-live.mjs",
+    "seo": "node scripts/seo-review.mjs"
   },
   "engines": {
     "node": ">=20"
