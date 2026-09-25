@@ -26,17 +26,18 @@ The Amazon Associates account **cannot be reached from the cloud build environme
 
 Until the tag is set, links work but earn nothing. Search links are an approved Special Link format and remain valid after the tag is set.
 
-## 3. Hostinger (blocks going live)
+## 3. Hostinger (blocks going live) — about 5 minutes
 
-Claude could not reach Hostinger or the live domain from this environment (network policy), so the existing hosting was not inspected. Before deploying:
+Everything on the GitHub side is done: the production build is on the public `hostinger` branch and CI republishes it on every push to `main`. Hostinger's own panel cannot be reached from the cloud build environment (hpanel.hostinger.com and api.hostinger.com are blocked by its network policy, and there is no Hostinger connector), so the final connection is a short job in hPanel. Because the repository is public, **no SSH key, token or password is needed**.
 
-1. CLICK THIS → hPanel → **Websites** → quietmindsleep.co.uk → **Dashboard** → check what is currently in `public_html` (File Manager). If there is an existing site, download a backup first (**Files → Backups**).
-2. Confirm SSL is active (**Security → SSL**, should say Active/Lifetime) and **Force HTTPS** is on.
-3. Choose one deployment route (details in `docs/deployment.md`):
-   - **Git (recommended):** hPanel → **Advanced → Git** → Create repository → ENTER THIS → repository `https://github.com/bigbossua/quietmindsleep`, branch `hostinger`, directory leave blank (public_html) → SAVE. For a private repo add the SSH key Hostinger shows to GitHub → Settings → Deploy keys. Copy the **webhook URL** into GitHub → Settings → Webhooks so every deploy auto-pulls.
-   - **FTP:** hPanel → **Files → FTP Accounts** → create/read credentials → GitHub → Settings → Secrets → add `FTP_SERVER`, `FTP_USERNAME`, `FTP_PASSWORD`.
-4. Merge the site branch into `main` (or tell Claude to) so the workflow runs.
-5. Create the mailbox `hello@quietmindsleep.co.uk` (hPanel → **Emails**) or change `contactEmail` in `site.config.json`.
+Follow `docs/go-live.md`. In short:
+1. hPanel → Websites → quietmindsleep.co.uk → File Manager → check `public_html` is empty or only holds Hostinger's placeholder (back up anything else first).
+2. hPanel → Advanced → **Git** → Create repository → ENTER `https://github.com/bigbossua/quietmindsleep.git`, branch `hostinger`, directory blank → Create.
+3. Copy the webhook URL Hostinger shows into GitHub → Settings → Webhooks (push events) so future releases deploy automatically.
+4. Security → SSL: Active, Force HTTPS on.
+5. Create the mailbox `hello@quietmindsleep.co.uk` (hPanel → Emails) or change `contactEmail` in `site.config.json`.
+
+Then run `node scripts/verify-live.mjs` from any machine with internet, or allow `quietmindsleep.co.uk` in this environment's network settings and tell Claude "verify the live site".
 
 ## 4. Google Search Console (after go-live)
 

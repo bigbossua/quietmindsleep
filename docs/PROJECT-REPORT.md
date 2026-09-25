@@ -6,8 +6,8 @@
 |---|---|
 | URL | https://quietmindsleep.co.uk (not yet deployed; see "You must do") |
 | Technology | Static site: custom Node generator (Markdown + JSON data), one CSS file, one small JS file, self-hosted fonts, SVG illustration system, Open Graph PNGs. No CMS, database or plugins. |
-| Hosting | Hostinger (existing domain). Deployment path built: GitHub Actions → `hostinger` branch (Git deploy in hPanel) or FTPS. The live account could not be inspected from this environment (network policy blocked hostinger.com and quietmindsleep.co.uk). |
-| Status | **Built, audited and pushed to branch `claude/quiet-mind-site-architecture-kuc23p`. Not deployed. Not validated in Semrush.** |
+| Hosting | Hostinger (existing domain). Production build published to the public `hostinger` branch; `main` is the production source and CI republishes the branch on every push. Hostinger must be pointed at the branch in hPanel (`docs/go-live.md`, no keys required). hPanel, the Hostinger API and the live domain are all blocked from this environment, so the connection and live verification could not be done here. |
+| Status | **Built, audited, on `main` and on the `hostinger` deploy branch. Not yet connected in Hostinger, so not live. Not validated in Semrush.** |
 
 ## SEO
 
