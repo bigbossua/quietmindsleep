@@ -13,7 +13,9 @@
     "ingest:semrush": "node scripts/ingest-semrush.mjs",
     "new": "node scripts/new-article.mjs",
     "serve": "node scripts/serve.mjs",
-    "check": "npm run build && npm run audit"
+    "check": "npm run build && npm run audit",
+    "deploy:branch": "node scripts/publish-deploy-branch.mjs",
+    "verify:live": "node scripts/verify-live.mjs"
   },
   "engines": {
     "node": ">=20"
