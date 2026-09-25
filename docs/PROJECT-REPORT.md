@@ -26,12 +26,12 @@
 
 | | |
 |---|---|
-| Amazon Associates status | **Unknown** — the cloud environment has no browser and the network policy blocks all Amazon hosts (verified 403 on three hosts). Runbook for a browser-enabled session: `docs/amazon-runbook.md`. |
-| Tracking ID status | Placeholder `REPLACE-WITH-YOUR-TAG-21` in `site.config.json`; one edit updates all links. |
+| Amazon Associates status | **Verified 25 Sep 2026** from the owner's signed-in Associates Central session: account operating normally, no outstanding banners; `quietmindsleep.co.uk` added to the website list (see `reports/amazon-status.md`). |
+| Tracking ID status | `kleantouch-21` (the account's existing UK ID) set in `site.config.json`; applied to every link. |
 | Affiliate pages | 56 pages carry affiliate components |
 | Affiliate links | 134 (all with `rel="sponsored nofollow"`, `tag=` parameter; disclosure at the top of every affiliate article, beside every product component and table, and in the footer) |
-| Products | 19 product types in `data/products.json`, 11 categories, 0 unused; all `search`-type Special Links (work immediately) with `status: needs-verification` until ASINs are confirmed |
-| Remaining Amazon actions | Confirm account active; add site to website list; `node scripts/set-amazon-tag.mjs <id>`; verify listings and `node scripts/ingest-asins.mjs data/asin-verification.csv`; test attribution in Associates reports. |
+| Products | 19 product types, 11 categories, 0 unused; **19 of 19 verified ASINs** with direct `/dp/` Special Links, each tested in the browser; `status: active`, `lastChecked: 2026-09-25` |
+| Remaining Amazon actions | Confirm click attribution in Associates Central → Reports → Link-Type Performance the day after go-live; optionally create a site-specific `quietmindsleep-21` tracking ID for per-site reporting; keep the 3-qualifying-sales-in-180-days rule in mind. |
 
 ## Google
 
