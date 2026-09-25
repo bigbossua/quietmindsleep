@@ -53,7 +53,14 @@ for (const u of sample) for (const m of pageHtml[u].matchAll(/href="(\/[^"#?]*)"
   if (![200, 301, 302].includes(r.status)) { broken++; fails.push(`internal link ${href} (from ${u}) → ${r.status}`); }
 }
 check('internal links on sampled pages resolve', linksChecked > 0 && broken === 0, `${linksChecked} checked, ${broken} broken`);
-// 6. search works (index served + page present)
+// 6. affiliate links on a live product page carry the configured tag and no placeholder
+const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, 'site.config.json'), 'utf8'));
+const prodPage = await get(base + '/sleep-products/best-sleep-masks-uk/');
+const amazonLinks = [...prodPage.text.matchAll(/href="(https:\/\/www\.amazon\.co\.uk\/[^"]+)"/g)].map(m => m[1].replace(/&amp;/g, '&'));
+check('live affiliate links carry the Associates tag', amazonLinks.length > 0 && amazonLinks.every(u => u.includes('tag=' + cfg.affiliate.amazon.tag)) && !prodPage.text.includes('REPLACE-WITH-YOUR-TAG'), `${amazonLinks.length} Amazon links, tag=${cfg.affiliate.amazon.tag}`);
+check('live affiliate links are direct product links', amazonLinks.length > 0 && amazonLinks.every(u => /\/dp\/[A-Z0-9]{10}/.test(u)), `${amazonLinks.filter(u => /\/dp\//.test(u)).length}/${amazonLinks.length} /dp/ links`);
+check('disclosure precedes first affiliate link', prodPage.text.indexOf('affiliate-line') > -1 && prodPage.text.indexOf('affiliate-line') < prodPage.text.indexOf('data-affiliate='), '');
+// 7. search works (index served + page present)
 const search = await get(base + '/search/?q=3am');
 check('search page loads', search.status === 200 && search.text.includes('search-results'), `status ${search.status}`);
 
