@@ -1,6 +1,6 @@
 ---
 title: "Difficulty Falling Asleep: Common Causes and What Helps"
-description: "Difficulty falling asleep usually has a findable cause: body clock timing, a wired mind, caffeine, an irregular week or the room. How to tell which, and what helps."
+description: "Difficulty falling asleep usually has a findable cause: body clock timing, a wired mind, caffeine, an irregular week or the room. Which is it, and what helps?"
 standfirst: "Taking a long time to fall asleep is rarely random. It usually comes down to one of a handful of causes, and each one points to a different fix."
 published: 2026-09-25
 updated: 2026-09-25

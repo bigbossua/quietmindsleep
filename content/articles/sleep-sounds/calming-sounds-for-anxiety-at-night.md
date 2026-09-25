@@ -1,6 +1,6 @@
 ---
 title: "Calming Sounds for Anxiety at Night"
-description: "Calming sounds for anxiety at night: steady noise, slow music and guided audio as an anchor for a racing mind, pairing sound with breathing, and when to get help."
+description: "Calming sounds for anxiety at night: steady noise, slow music and guided audio as an anchor for a racing mind, plus how to pair sound with slow breathing."
 standfirst: "Sound helps an anxious mind at night by giving attention somewhere steady to rest. Low, even noise, slow music or a calm voice can all do that. Sound is a support, not a treatment, and it works best paired with slow breathing."
 published: 2026-09-25
 updated: 2026-09-25

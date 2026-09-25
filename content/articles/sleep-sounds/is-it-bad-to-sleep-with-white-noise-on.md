@@ -38,7 +38,7 @@ Volume is the one that matters. Sound loud enough to damage hearing does so over
 
 ## The hearing question
 
-Prolonged exposure to loud sound damages the hair cells in the inner ear, and the damage builds up. The level of concern is sustained exposure above roughly 85 decibels, about the level of heavy traffic heard from the pavement. Nobody runs a bedside machine at that level on purpose, but two things push people towards it.
+Prolonged exposure to loud sound damages the hair cells in the inner ear, and the damage builds up. The level of concern is sustained exposure above roughly 85 decibels, about the level of heavy traffic heard from the pavement. Two things push people towards it without meaning to.
 
 The first is chasing silence. If a neighbour's television is coming through the wall, the temptation is to turn the machine up until you cannot hear it. That is the wrong target. Aim to soften the sound, not erase it; if that is not enough, pair a low level of noise with something that physically blocks sound, as the [earplugs vs white noise comparison](@sleep-environment/earplugs-vs-white-noise) explains.
 
@@ -50,15 +50,15 @@ A simple rule: you should be able to hold a normal conversation over the sound a
 
 ## Does it disturb sleep itself?
 
-There is a theoretical worry that any sound, even a steady one, keeps the brain slightly busier than silence. A few small studies have hinted at lighter sleep with noise on; others found the opposite; most found no meaningful difference. A 2021 systematic review by Riedy and colleagues in *Sleep Medicine Reviews* rated the evidence as low quality and mixed.
+There is a theoretical worry that any sound, even a steady one, keeps the brain slightly busier than silence. A few small studies have hinted at lighter sleep with noise on; others found the opposite; most found no real difference. A 2021 systematic review by Riedy and colleagues in *Sleep Medicine Reviews* rated the evidence as low quality and mixed.
 
-In practice the question answers itself. If you sleep better with it on than off, keep it on. If you sleep badly either way, the noise is not the cause. The [white noise guide](@sleep-sounds/white-noise-for-sleep) covers what the research does support, which is masking in noisy rooms.
+In practice, if you sleep better with it on than off, keep it on. If you sleep badly either way, the noise is not the cause. The [white noise guide](@sleep-sounds/white-noise-for-sleep) covers what the research does support, which is masking in noisy rooms.
 
 ## Habit or dependence?
 
 Some people feel uneasy that they "can't sleep without it". Usually the sound has simply become one of the cues that tells your body the day is over, like the dimmed light and the familiar pillow. That is a habit, and habits like this are what a good [bedtime routine](@falling-asleep/bedtime-routine-for-adults) is built from.
 
-It becomes a practical problem only when you sleep somewhere without it, and a phone or a small rechargeable machine solves that. If the idea still bothers you, use a timer, or go without it now and then to prove to yourself that you can.
+It is only a practical problem when you sleep somewhere without it, and a phone or small rechargeable machine solves that. If the idea still bothers you, use a timer, or go without it now and then to prove to yourself that you can.
 
 ## All night or on a timer?
 
@@ -74,7 +74,7 @@ Digital machines almost all have timers; fan-based machines usually do not, thou
 
 ## A brief note on babies
 
-Many parents find white noise helps a baby settle. But a 2014 study in *Pediatrics* by Hugh and colleagues measured infant sleep machines at their maximum settings and found several could exceed safe levels for a baby's hearing, particularly when placed in or on the cot. Keep any device well away from the cot, use the lowest volume that helps, and consider a timer. For how and where a baby should sleep, follow NHS safe-sleep guidance rather than a sleep website, including this one.
+Many parents find white noise helps a baby settle, but a 2014 study in *Pediatrics* by Hugh and colleagues measured infant sleep machines at their maximum settings and found several could exceed safe levels for a baby's hearing, particularly when placed in or on the cot. Keep any device well away from the cot, use the lowest volume that helps, and consider a timer. For how and where a baby should sleep, follow NHS safe-sleep guidance rather than a sleep website, including this one.
 
 ## Where to go next
 

@@ -1,6 +1,6 @@
 ---
 title: "A Bedtime Routine for Adults That You'll Actually Keep"
-description: "A realistic bedtime routine for adults: a 60-minute wind-down in three phases, with versions for shift workers, parents and late finishers."
+description: "A realistic bedtime routine for adults: a 60-minute wind-down in three phases, with sample versions for shift workers, parents and late finishers."
 standfirst: "A good adult bedtime routine is not a checklist of twelve wellness habits. It is about an hour, in three loose phases, repeated often enough that your body learns what it means."
 published: 2026-09-25
 updated: 2026-09-25

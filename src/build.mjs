@@ -47,7 +47,7 @@ for (const file of articleFiles) {
     intent: data.intent || plan?.intent, role: data.role || plan?.role || 'informational', tier: plan?.tier,
     affiliateCategories: data.affiliate || plan?.affiliate || [],
     readNext: data.readNext || [], faq: data.faq || [], sources: data.sources || [],
-    showHealthNotice: data.healthNotice !== false && (data.healthNotice === true || /gp|anxiety|depress|medic|apnoea|insomnia/i.test(content)),
+    showHealthNotice: data.healthNotice !== false && (data.healthNotice === true || /\bGP\b|anxiety|depress|medic|apnoea|insomnia/.test(content)),
     status: data.status || 'draft', hubTitle: ctx.hubIndex[hub]?.title || 'Resources'
   };
   ctx.index[key] = page; ctx.articles.push(page);

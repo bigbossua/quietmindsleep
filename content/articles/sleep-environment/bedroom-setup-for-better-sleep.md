@@ -7,7 +7,7 @@ updated: 2026-09-25
 readNext:
   - sleep-environment/how-to-sleep-when-its-hot
   - sleep-habits/screens-before-bed
-  - resources/sleep-checklist
+  - sleep-habits/sleep-hygiene
 sources:
   - title: "How to fall asleep faster and sleep better"
     publisher: "NHS Every Mind Matters"
@@ -103,7 +103,7 @@ Duvet weight and fabric matter here too. Cotton or linen breathes; polyester tra
 
 **Why it matters:** The bedroom works best when your brain associates it with sleep and little else. A room that doubles as an office keeps the day in view, and a phone within reach at 3am is an invitation to check it. This is part of what sleep clinicians call stimulus control: keeping the bed for sleep so that lying down becomes a cue for it.
 
-**Fixes:** If you must work in the bedroom, put the laptop away or cover the desk at night. Move the phone charger to the kitchen, or at least across the room. Tidy the floor and surfaces before bed; it takes five minutes and the room feels calmer for it. The [screens before bed guide](@sleep-habits/screens-before-bed) is honest about how much the phone really matters and what to do about it.
+**Fixes:** If you must work in the bedroom, put the laptop away or cover the desk at night. Move the phone charger to the kitchen, or at least across the room. Tidy the floor and surfaces before bed; it takes five minutes and the room feels calmer for it. Our screens-before-bed guide is honest about how much the phone really matters, and it is linked below.
 
 ## 8. Colour, calm and the things that are just for you
 
@@ -123,6 +123,6 @@ Two small additions that some people find useful: a notepad by the bed for the t
 
 ## Where to go next
 
-Pick the two items you are furthest from and fix those this week; light and temperature are the usual culprits in UK bedrooms. The rest of the [Sleep Environment guides](@sleep-environment) go into each one in depth. And if the room is right and sleep still is not coming, the problem is more likely to be habits or a busy mind than the bedroom, in which case the [sleep hygiene checklist](@sleep-habits/sleep-hygiene) is the sensible next read.
+Pick the two items you are furthest from and fix those this week; light and temperature are the usual culprits in UK bedrooms. The rest of the [Sleep Environment guides](@sleep-environment) go into each one in depth. And if the room is right and sleep still is not coming, the problem is more likely to be habits or a busy mind than the bedroom, in which case a realistic sleep hygiene checklist is the sensible next read.
 
 {{email}}
