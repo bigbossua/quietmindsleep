@@ -95,6 +95,14 @@ Placement changes how a machine sounds. Between you and the noise source, such a
 
 A bedroom fan produces a similar sound for nothing extra, and in summer it cools you too, but in January you may not want the draught. A phone app is free and good for finding out whether sound helps you at all, though it keeps the phone by the bed and the small speaker sounds thin. A dedicated machine is the tidy, all-year, phone-free option. If sound clearly works for you, it earns its place; if you are not sure yet, start with the fan or the app.
 
+### Living with a partner who dislikes it
+
+Steady sound divides couples. If your partner finds it intrusive, three things help: a lower volume than you think you need, placed nearer your side; a pink or brown tone, which most people find less harsh than white; and a timer that fades the sound once you are both asleep. If none of that works, [sleep headphones](@sleep-products/best-sleep-headphones-uk) keep the sound to one head, and a machine can still be useful on nights you sleep apart.
+
+### Three rules for using one well
+
+Set the volume as low as still does the job, and resist turning it up on bad nights. Put the machine between you and the noise, not beside your ear. And do not let it become the only thing you can sleep with: take a portable one when you travel if you must, but practise the odd night without so that a hotel room or a power cut is not a crisis.
+
 ## Who a machine suits, and who should skip it
 
 A white noise machine is a good fit if:

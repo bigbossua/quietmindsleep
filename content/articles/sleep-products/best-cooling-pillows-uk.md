@@ -1,6 +1,6 @@
 ---
 title: "Best Cooling Pillows UK: How They Work and What to Look For"
-description: "The best cooling pillow for UK hot sleepers depends on how 'cooling' is achieved: gel layers, breathable fills or phase-change covers. What each does, honestly, and what to look for."
+description: "The best cooling pillow for UK hot sleepers depends on how the cooling is done: gel layers, breathable fills or phase-change covers. What each really does."
 standfirst: "Cooling pillows feel cool when you first lie down; none of them refrigerates your head all night. Choose by how the cooling is done, pair it with a breathable pillowcase and a cool room, and expect a modest improvement rather than a transformation."
 published: 2026-09-25
 updated: 2026-09-25
@@ -37,7 +37,7 @@ The honest thing to say up front is that no pillow keeps your head cool all nigh
 
 Your body cools itself as you fall asleep; a drop in core temperature is part of the process, and heat escapes largely through the skin of the head, hands and feet. The pillow sits under one of those areas for the whole night, and a dense foam pillow acts like a hat: it stops heat leaving. That is why hot sleepers keep flipping the pillow to the cool side. A pillow that lets heat and moisture escape removes the need.
 
-The limit is obvious once you say it. A pillow can only let heat out; it cannot lower the temperature of a warm room. On a July night in a top-floor flat, a cooling pillow on its own will disappoint. The bigger levers are the room, the duvet and airflow, covered in [how to sleep when it's hot](@sleep-environment/how-to-sleep-when-its-hot) and [the best temperature for sleep](@sleep-environment/best-temperature-for-sleep).
+The limit is obvious once you say it. A pillow can only let heat out; it cannot lower the temperature of a warm room. On a July night in a top-floor flat, a cooling pillow on its own will disappoint. The bigger levers are the room, the duvet and airflow, covered in [how to sleep when it's hot](@sleep-environment/how-to-sleep-when-its-hot). For the target to aim at, see [the best temperature for sleep](@sleep-environment/best-temperature-for-sleep).
 
 > **In short:** A cooling pillow stops your head overheating against the pillow. It does not cool the room, and the room is usually the problem.
 
@@ -58,6 +58,10 @@ Fabrics treated with materials that absorb heat as they melt at around skin temp
 ### Marketing you can discount
 
 Terms such as 'ice silk', 'arctic' and 'cooling technology' are not standardised, and cooling claims are hard to compare between brands because there is no common test. Look for a plain description of the mechanism, gel, ventilation or a treated cover, rather than a temperature promise. Any pillow that claims to lower your body temperature or to cool the room is overreaching.
+
+## Pillowcases and protectors
+
+The fabric between your face and the pillow decides much of how a pillow feels. A polyester or sateen pillowcase holds warmth and moisture; a percale cotton, linen or bamboo-viscose case lets both escape and feels crisper. Many cooling pillows arrive with a plastic-backed or quilted polyester protector that undoes most of the pillow's breathability; swap it for a thin cotton protector or none at all. If you like the cold-side feeling, two pillowcases in rotation, one on the pillow and one folded in a cool cupboard, is the cheapest cooling technology there is.
 
 ## What to look for
 

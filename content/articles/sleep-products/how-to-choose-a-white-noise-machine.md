@@ -1,6 +1,6 @@
 ---
 title: "How to Choose a White Noise Machine: Features That Matter"
-description: "How to choose a white noise machine, feature by feature: non-looping sound, noise colours, volume range, timer, UK plug and portability, plus whether an app or a fan would do."
+description: "How to choose a white noise machine, feature by feature: non-looping sound, noise colours, volume range, timer, UK plug, and whether an app or fan would do."
 standfirst: "Four features decide whether a white noise machine is worth having: a sound that does not loop, a volume that goes low enough, a proper UK plug and the noise colour you find restful. Everything else is a nice-to-have."
 published: 2026-09-25
 updated: 2026-09-25
@@ -34,7 +34,7 @@ The most important feature and the one listings are vaguest about. Cheap digital
 
 ### Noise colour
 
-White noise is a flat hiss across all frequencies. Pink noise has more low-frequency energy and sounds like steady rain or wind. Brown noise leans lower still, like a distant waterfall. Many people find white noise harsh and settle on pink or brown for sleep. A fan-based machine gives you one soft, fan-like sound; a digital machine gives you a choice. If you have not tried the deeper tones, read [brown noise for sleep](@sleep-sounds/brown-noise-for-sleep) and [white noise for sleep](@sleep-sounds/white-noise-for-sleep) to understand the difference before you commit to a machine with only one.
+White noise is a flat hiss across all frequencies. Pink noise has more low-frequency energy and sounds like steady rain or wind. Brown noise leans lower still, like a distant waterfall. Many people find white noise harsh and settle on pink or brown for sleep. A fan-based machine gives you one soft, fan-like sound; a digital machine gives you a choice. If you have not tried the deeper tones, read [brown noise for sleep](@sleep-sounds/brown-noise-for-sleep) before you commit to a machine with only one. Our guide to [white noise for sleep](@sleep-sounds/white-noise-for-sleep) explains what the plain hiss does well.
 
 ### Volume range
 
@@ -86,4 +86,4 @@ Many parents use a sound machine in a nursery. Keep it well away from the cot, a
 
 ## Where to go next
 
-Decide whether you want one sound or a choice, check the plug, and make sure it can go quiet. Then set it low, between you and the noise, and leave it. If the noise itself is the problem, reducing it at source is cheaper than any machine: see [how to block out noise at night](@sleep-environment/how-to-block-out-noise-at-night). If you cannot decide between masking and blocking, [earplugs vs white noise](@sleep-environment/earplugs-vs-white-noise) settles it, and the [sleep products guides](@sleep-products) cover the rest of the bedroom.
+Decide whether you want one sound or a choice, check the plug, and make sure it can go quiet. Then set it low, between you and the noise, and leave it. If the noise itself is the problem, reducing it at source is cheaper than any machine: see [how to block out noise at night](@sleep-environment/how-to-block-out-noise-at-night). If you cannot decide between masking and blocking, [earplugs vs white noise](@sleep-environment/earplugs-vs-white-noise) settles it. The [sleep products guides](@sleep-products) cover the rest of the bedroom.

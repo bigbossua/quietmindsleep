@@ -1,6 +1,6 @@
 ---
 title: "Best Earplugs for Sleeping UK: Foam, Silicone, Wax and Reusable Options"
-description: "Finding the best earplugs for sleeping in the UK means matching the type to your ear, your pillow and the noise. Foam, silicone and wax compared, with safe-use advice."
+description: "The best earplugs for sleeping in the UK match the type to your ear, your pillow and your noise. Foam, silicone and wax compared, with safe-use advice."
 standfirst: "Foam blocks the most noise, silicone is the most comfortable for side sleepers, and wax suits people who cannot bear anything in the ear canal. Fit and hygiene matter more than brand."
 published: 2026-09-25
 updated: 2026-09-25
@@ -82,6 +82,14 @@ This is the deciding factor for many people. Anything that protrudes gets pushed
 ### Hygiene and lifespan
 
 A plug that goes into the ear canal every night needs to be clean. Foam is disposable and should be binned once it is grubby or no longer expands, usually after a few nights. Silicone should be washed with warm soapy water and dried fully. Putty is used a handful of times and then thrown away. Never share plugs.
+
+### Getting a foam plug in properly
+
+Most complaints that foam plugs do not work come down to insertion. Roll the plug between finger and thumb into a thin, smooth cylinder with no creases. Reach over the top of your head with the opposite hand and pull the top of your ear up and back, which straightens the canal. Slide the plug in until about a third remains outside, then hold it in place for twenty seconds while it expands. Your own voice should sound deep and muffled. If it does not, take the plug out, let it recover for a minute and try again. A plug you can push in without rolling is too small for your ear.
+
+### How long each type lasts
+
+Foam plugs lose their spring after a few nights and should be binned once they no longer expand fully or look discoloured. Silicone plugs last months if washed, but the tips soften and split eventually; replace them when the seal starts to feel loose. Putty is good for a handful of nights before it picks up too much lint to seal cleanly. Keeping a spare pair of whichever type you use, on the bedside table, avoids a bad night when one goes missing at midnight.
 
 ### Safety: alarms, wax and infections
 

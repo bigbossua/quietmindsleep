@@ -88,4 +88,4 @@ Keep the volume at the lowest level that does the job; hours of sound every nigh
 
 ## Where to go next
 
-Unsure: headband. Snorer or noisy flat: earbuds, checking they play what you want. Then choose what to play and set a timer. The [sleep products guides](@sleep-products) list the other buying guides, and the [white noise machine guide](@sleep-products/best-white-noise-machines-uk) is the answer if you would rather have nothing on your head at all.
+Unsure: headband. Snorer or noisy flat: earbuds, checking they play what you want. Then choose what to play and set a timer. The [sleep products guides](@sleep-products) list the other buying guides. If you would rather have nothing on your head at all, the [white noise machine guide](@sleep-products/best-white-noise-machines-uk) is the answer.

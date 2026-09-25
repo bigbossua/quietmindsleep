@@ -1,6 +1,6 @@
 ---
 title: "Best Blackout Curtains UK: A Practical Buying Guide"
-description: "The best blackout curtains for a UK bedroom are the ones that overlap the window generously and leave no edge glow. Curtains, blinds and liners compared, measuring included."
+description: "The best blackout curtains for a UK bedroom overlap the window and leave no edge glow. Curtains, blinds and liners compared, with measuring and fitting advice."
 standfirst: "Blackout fabric is the easy part. What makes a bedroom dark is coverage: curtains that overlap the frame, or a blind inside the recess, or both. Here is how to choose and measure."
 published: 2026-09-25
 updated: 2026-09-25
@@ -84,6 +84,10 @@ Curtain widths are sold per panel, so a pair described as 168 cm wide gives you 
 Blackout curtains suit anyone whose bedroom faces a street light, a security light or the sunrise, shift workers who sleep in the day, and anyone sharing with a light-sensitive partner. They are also worth it for insulation alone in a cold or draughty room.
 
 Look elsewhere if you rent and cannot fit a pole, in which case a no-drill blind or a [sleep mask](@sleep-products/best-sleep-masks-uk) does the job without holes in the wall. If the light in your room comes from inside, such as a landing light, a router or a charger, curtains will not fix it; our guide to [bedroom lighting for sleep](@sleep-environment/bedroom-lighting-for-sleep) covers bulbs, lamps and the small glowing things.
+
+## If you rent
+
+Most tenancy agreements allow small fixings, but check yours before drilling. Without drilling you still have options. A no-drill blind held by suction or tension inside the recess is the neatest. Blackout liners can be attached to existing curtains with hooks or clips without touching the wall. Tension rods sized to the recess hold a lightweight curtain or liner. Adhesive hook-and-loop strips along the top of the frame hold a cut-to-size blackout panel that peels off at the end of the tenancy. None of these looks as good as a fitted pair of curtains, but for a bedroom that faces a street light they make a real difference, and they leave with you.
 
 ## Blackout options compared
 

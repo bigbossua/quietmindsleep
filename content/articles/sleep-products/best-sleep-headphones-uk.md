@@ -101,6 +101,10 @@ Most people need a few nights. A headband feels odd at first, and the speakers r
 
 Earbuds take longer. Try every tip size in the box with a full night each, and expect the first night or two to feel intrusive in the same way earplugs do. If your ears ache or feel blocked in the morning, stop and try the headband instead. Nothing about a good night's sleep should hurt.
 
+## Combining headphones with a mask or earplugs
+
+Many people end up with more than one item and want to know what works together. A headband and a contoured sleep mask stack reasonably well if the mask strap sits above or below the band rather than over the speakers. A headband and earplugs is an odd pairing, since the plugs block the sound you are trying to hear, but some people use a soft plug in the ear facing up and the speaker on the ear facing the pillow. Sleep earbuds replace earplugs rather than adding to them. If you are trying to cover a partner's snoring, be realistic: earbuds with masking noise handle steady, moderate snoring well, but loud snoring with pauses is a medical matter for the snorer, and no headphone fixes it.
+
 ## Who they suit, and who should skip them
 
 Sleep headphones are a good fit if:

@@ -95,6 +95,12 @@ You are pressing this against your skin for eight hours a night. Check the care 
 
 A mask should never press hard on the eyeball. If you have had recent eye surgery, glaucoma or any condition where eye pressure matters, check with your optician or GP first, and lean towards a contoured design. Masks are not suitable for babies or young children.
 
+## How to test a mask for light leaks
+
+You do not need to wait for a bad night to find out whether a mask fits. Put it on in a lit room during the day, adjust the strap until it is snug but not tight, and look down towards your feet with your eyes open. Any light you see at the bottom edge is the nose gap; that is the leak that lets a summer dawn in. Then look left and right and lie on each side on a pillow for a minute. If the mask lifts off the upper cheek when your face presses into the pillow, the seal is breaking where it matters for side sleepers.
+
+If a mask passes in daylight it will pass at night. If it fails, try a tighter strap once; if it still fails, it is the wrong shape for your face rather than something to persevere with.
+
 ## Who a sleep mask suits, and who should skip it
 
 A mask is a good fit if:

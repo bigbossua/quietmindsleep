@@ -1,6 +1,6 @@
 ---
 title: "Weighted Blankets: Do They Help With Sleep, and How to Choose One"
-description: "Do weighted blankets help with sleep? An honest look at the evidence, the 10% weight guideline, who should avoid them, and how to choose a weighted blanket for sleep in the UK."
+description: "Do weighted blankets help with sleep? An honest look at the evidence, the 10% weight guideline, who should avoid them, and how to choose one in the UK."
 standfirst: "Some people find the even pressure of a weighted blanket genuinely calming, and a few studies point to benefits for anxiety and insomnia. The evidence is still developing, the blanket is not a treatment, and it is not for everyone."
 published: 2026-09-25
 updated: 2026-09-25
@@ -58,6 +58,10 @@ Some practical notes. If you are between sizes, go lighter; a blanket that is sl
 Fill is usually fine glass beads, which are dense, quiet and lie flat, or plastic pellets, which are bulkier and can rustle. Glass beads are generally the better choice for sleep. Look for small, closely stitched pockets so the beads cannot slide to one end and the weight stays even.
 
 The cover decides how warm the blanket runs. Weighted blankets add insulation as well as weight, and a heavy quilted layer over a duvet can be too much for many UK bedrooms outside winter. Cotton and bamboo-blend covers breathe better than fleece or minky, which are cosy but hot. Some designs are sold as a weighted inner with a separate washable cover, which is far more practical than a single sealed blanket.
+
+## Size: blanket versus bed
+
+A weighted blanket should be sized to the person, not the bed. A single-size blanket that covers you from shoulders to feet gives the full pressure to one body. A double- or king-size weighted blanket spread across two people halves the effect for each and, because much of the weight hangs over the sides of the bed, tends to slide onto the floor in the night. Most manufacturers therefore suggest one blanket per person, or a single blanket laid over one side. Check the dimensions, not just the weight, before you buy.
 
 ## Washing and care
 

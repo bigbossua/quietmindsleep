@@ -1,6 +1,6 @@
 ---
 title: "Best Pillows for Side Sleepers UK: Height, Firmness and Fill Explained"
-description: "The best pillow for side sleepers in the UK is one high and firm enough to keep the neck level with the spine. Loft, firmness, fill types and trial periods explained."
+description: "The best pillow for side sleepers in the UK is high and firm enough to keep the neck level with the spine. Loft, firmness, fills and trial periods explained."
 standfirst: "Side sleepers need a pillow that fills the gap between shoulder and ear so the neck stays straight. That usually means higher and firmer than a back sleeper's pillow, and the fill you choose decides how well it holds that height all night."
 published: 2026-09-25
 updated: 2026-09-25
@@ -73,13 +73,17 @@ Synthetic fibre pillows are cheap, washable and hypoallergenic, but most flatten
 
 A long pillow you hug, running from head to knees, that supports the top arm and leg as well as the head. Many side sleepers, and most people in later pregnancy, find one takes strain off the shoulder and hips. You still need the head section to be the right height, so treat it as an addition rather than a replacement.
 
+### Contoured and cervical pillows
+
+A subset of foam pillows is moulded with a raised ridge under the neck and a dip for the head, marketed as orthopaedic or cervical pillows. For side sleepers the higher edge of a contoured pillow can work well, since it supports the neck where the gap is largest. The catch is that the shape only helps if it matches you: a ridge that is too high or too low is worse than a plain pillow, and the fixed shape gives combination sleepers nothing to squash. Treat the contoured shape as a preference, not a medical upgrade, and use a trial period.
+
 ## What to look for
 
 - **Height you can adjust or that matches your build.** If in doubt, buy adjustable.
 - **Firmness described as medium-firm or firm.** Soft is for back and front sleepers.
 - **A breathable cover you can remove and wash.** Foam cannot go in the machine; the cover can.
 - **Trial period and return terms.** Many UK pillow brands offer a trial of several weeks or more. A pillow takes a week or two to judge properly, so a trial is worth more than any description.
-- **Heat.** If you already [wake up hot at night](@waking-at-night/waking-up-hot-at-night), avoid solid dense foam or choose a version with a cooling layer, and read the [cooling pillows guide](@sleep-products/best-cooling-pillows-uk) before deciding.
+- **Heat.** If you already [wake up hot at night](@waking-at-night/waking-up-hot-at-night), avoid solid dense foam or choose a version with a cooling layer. The [cooling pillows guide](@sleep-products/best-cooling-pillows-uk) explains the options.
 - **Weight and size.** UK standard pillows are around 50 by 75 cm; check your pillowcases fit if you choose a larger or contoured shape.
 
 ## Using a trial period well
@@ -106,7 +110,7 @@ If you have persistent neck pain, numbness or tingling in the arms, or pain that
 
 Before buying, try folding a towel and placing it under your current pillow to add height, or under the pillowcase if the pillow is too soft at the edge. If the towel version fixes your morning neck, you know you need more loft. Try a spare pillow between the knees for the hips. And check the mattress: a sagging mattress tilts the whole spine and no pillow can correct for it.
 
-Pillows are one piece of a bedroom that works with you rather than against you. The [bedroom setup checklist](@sleep-environment/bedroom-setup-for-better-sleep) covers the rest, and the guide to [bedding and sleep](@sleep-environment/bedding-and-sleep) covers duvets, fabrics and pillowcases.
+Pillows are one piece of a bedroom that works with you rather than against you. The [bedroom setup checklist](@sleep-environment/bedroom-setup-for-better-sleep) covers the rest. The guide to [bedding and sleep](@sleep-environment/bedding-and-sleep) covers duvets, fabrics and pillowcases.
 
 ## Where to go next
 

@@ -1,6 +1,6 @@
 ---
 title: "Foam, Silicone or Wax Earplugs for Sleep: Which Type Suits You?"
-description: "Foam, silicone and wax earplugs for sleeping compared on noise reduction, comfort for side sleepers, hygiene, reuse and running cost, so you can pick the right type first time."
+description: "Foam, silicone and wax earplugs for sleeping compared on noise reduction, side-sleeper comfort, hygiene, reuse and running cost, so you pick the right type."
 standfirst: "Foam blocks the most, silicone lasts the longest and sits flattest, and wax putty suits people who cannot bear anything inside the ear. Pick by your sleeping position and your noise, then check the fit."
 published: 2026-09-25
 updated: 2026-09-25
@@ -75,6 +75,8 @@ Putty: warm a ball in your fingers until it softens, place it over the opening o
 **You want to wear them every night.** Reusable silicone is the practical choice, kept clean. Read [is it OK to sleep with earplugs every night](@sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night) for the hygiene and wax considerations.
 
 **Nothing in the canal, ever.** Putty over the ear, or skip plugs and mask the noise instead.
+
+**You travel a lot.** Foam packs smallest and is disposable, so losing a pair in a hotel does not matter. Take a spare pair of whichever type you use.
 
 ## Safety in one paragraph
 

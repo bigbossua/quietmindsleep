@@ -1,6 +1,6 @@
 ---
 title: "How to Choose a Mattress: A Plain-English UK Buying Guide"
-description: "How to choose a mattress in the UK without the jargon: pocket sprung, memory foam, hybrid and latex explained, firmness by sleeping position, trial periods, UK sizes and when to replace."
+description: "How to choose a mattress in the UK without the jargon: sprung, foam, hybrid and latex explained, firmness by sleeping position, trials, sizes and replacing."
 standfirst: "The right mattress keeps your spine level in the position you sleep in, at a firmness that suits your weight, and lets you try it for long enough to be sure. Type matters less than fit, and a trial matters more than any label."
 published: 2026-09-25
 updated: 2026-09-25
@@ -104,6 +104,14 @@ Buy the biggest size the room and the budget allow if you share. A standard doub
 ## Budgets, honestly
 
 Price tracks depth, spring count, foam density and brand marketing, not necessarily comfort. A mid-priced mattress that suits your position and weight will beat an expensive one that does not. Spend where it matters: on a mattress you can trial, on a decent protector, and on the right pillow. Avoid buying on sale-price urgency; mattresses are perpetually on offer.
+
+## Toppers: the cheaper middle step
+
+If your mattress is sound but slightly too firm, a topper of a few centimetres of foam, latex or fibre can soften the surface without a new mattress. A topper cannot fix a mattress that sags, because it follows the dip, and it adds warmth if it is dense foam. It is a reasonable answer to a firm hotel-style mattress in a rented flat, or to a new mattress that turned out firmer than expected and is past its trial. It is not a substitute for replacing a worn one.
+
+## Bases and frames
+
+A mattress is only as supportive as what it lies on. Slatted bases need slats close enough together, usually no more than a few centimetres apart, or a foam mattress will sag into the gaps. Divan bases with a sprung top soften the feel; platform tops firm it up. A mattress that feels wrong on an old base may feel fine on a new one, and a new mattress on a broken base will not last. Check the manufacturer's guidance on suitable bases, since some warranties depend on it.
 
 ## Heat
 
