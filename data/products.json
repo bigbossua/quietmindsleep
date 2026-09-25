@@ -1,17 +1,61 @@
 {
   "_note": "Product register. RULES: descriptions use factual, manufacturer-style language ('marketed as', 'designed for'); no invented specifications, prices, ratings or reviews; no claims of personal testing. link.type 'search' builds an Amazon search link for the query (an approved Special Link format) and works immediately; link.type 'asin' needs a verified ASIN. status: 'needs-verification' until the owner (or a session with Amazon access) confirms the listing, then 'active'. lastChecked is updated by the maintenance register. Categories map to article front matter `affiliate` tags.",
   "categories": {
-    "sleep-mask": { "label": "Sleep masks", "guide": "sleep-products/best-sleep-masks-uk", "hub": "sleep-products" },
-    "earplugs": { "label": "Earplugs for sleeping", "guide": "sleep-products/best-earplugs-for-sleeping-uk", "hub": "sleep-products" },
-    "white-noise": { "label": "White noise machines", "guide": "sleep-products/best-white-noise-machines-uk", "hub": "sleep-products" },
-    "sleep-headphones": { "label": "Sleep headphones", "guide": "sleep-products/best-sleep-headphones-uk", "hub": "sleep-products" },
-    "pillow": { "label": "Pillows", "guide": "sleep-products/best-pillows-for-side-sleepers-uk", "hub": "sleep-products" },
-    "cooling-pillow": { "label": "Cooling pillows", "guide": "sleep-products/best-cooling-pillows-uk", "hub": "sleep-products" },
-    "blackout-curtains": { "label": "Blackout curtains and blinds", "guide": "sleep-products/best-blackout-curtains-uk", "hub": "sleep-products" },
-    "weighted-blanket": { "label": "Weighted blankets", "guide": "sleep-products/weighted-blankets-guide", "hub": "sleep-products" },
-    "bedding": { "label": "Bedding", "guide": "sleep-environment/bedding-and-sleep", "hub": "sleep-environment" },
-    "fan": { "label": "Bedroom fans", "guide": "sleep-environment/how-to-sleep-when-its-hot", "hub": "sleep-environment" },
-    "mattress": { "label": "Mattresses", "guide": "sleep-products/mattress-buying-guide-uk", "hub": "sleep-products" }
+    "sleep-mask": {
+      "label": "Sleep masks",
+      "guide": "sleep-products/best-sleep-masks-uk",
+      "hub": "sleep-products"
+    },
+    "earplugs": {
+      "label": "Earplugs for sleeping",
+      "guide": "sleep-products/best-earplugs-for-sleeping-uk",
+      "hub": "sleep-products"
+    },
+    "white-noise": {
+      "label": "White noise machines",
+      "guide": "sleep-products/best-white-noise-machines-uk",
+      "hub": "sleep-products"
+    },
+    "sleep-headphones": {
+      "label": "Sleep headphones",
+      "guide": "sleep-products/best-sleep-headphones-uk",
+      "hub": "sleep-products"
+    },
+    "pillow": {
+      "label": "Pillows",
+      "guide": "sleep-products/best-pillows-for-side-sleepers-uk",
+      "hub": "sleep-products"
+    },
+    "cooling-pillow": {
+      "label": "Cooling pillows",
+      "guide": "sleep-products/best-cooling-pillows-uk",
+      "hub": "sleep-products"
+    },
+    "blackout-curtains": {
+      "label": "Blackout curtains and blinds",
+      "guide": "sleep-products/best-blackout-curtains-uk",
+      "hub": "sleep-products"
+    },
+    "weighted-blanket": {
+      "label": "Weighted blankets",
+      "guide": "sleep-products/weighted-blankets-guide",
+      "hub": "sleep-products"
+    },
+    "bedding": {
+      "label": "Bedding",
+      "guide": "sleep-environment/bedding-and-sleep",
+      "hub": "sleep-environment"
+    },
+    "fan": {
+      "label": "Bedroom fans",
+      "guide": "sleep-environment/how-to-sleep-when-its-hot",
+      "hub": "sleep-environment"
+    },
+    "mattress": {
+      "label": "Mattresses",
+      "guide": "sleep-products/mattress-buying-guide-uk",
+      "hub": "sleep-products"
+    }
   },
   "products": [
     {
@@ -25,10 +69,15 @@
       "why": "The main failure of a cheap flat mask is light leaking in around the nose. A contoured design with an adjustable strap closes that gap for more face shapes.",
       "consideration": "Bulkier than a flat mask, so less convenient for travel.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "contoured sleep mask" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "contoured sleep mask"
+      },
+      "asin": "B07PRG2CQY",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Manta Sleep Mask - 100% Light Blocking Eye Mask, Zero Eye Pressure, Comfortable & Adjustable Sleeping Mask for Women Men, Perfect Blindfold for Sleep/Travel/Nap/Shift Work",
+      "verificationNotes": "Matches brand example (Manta). In stock on amazon.co.uk. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "silk-sleep-mask",
@@ -41,10 +90,15 @@
       "why": "If you find fabric on the eyelids fine and simply want something light and cool, silk is a comfortable option, though flat masks tend to leak more light around the nose than contoured ones.",
       "consideration": "Less light-blocking at the edges than a contoured mask; hand-wash care.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "silk sleep mask" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "silk sleep mask"
+      },
+      "asin": "B0C7GPGR19",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Aosun Silk Sleep Mask, 22-Momme 100% Pure Mulberry Silk Light-Blocking Eye Mask with Adjustable Strap, Hypoallergenic, Gifts for Women and Men (Black)",
+      "verificationNotes": "Mulberry silk flat mask (brand example is 'various brands'). In stock. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "weighted-sleep-mask",
@@ -57,10 +111,15 @@
       "why": "Some people find the pressure calming in the same way a heavy duvet feels comforting. It is a preference rather than a proven benefit.",
       "consideration": "Not suited to back-sleeper-only designs if you turn a lot; heavier to travel with.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "weighted sleep mask" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "weighted sleep mask"
+      },
+      "asin": "B09DXXWVL4",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Umisleep Weighted Sleep Mask Women Men, Relieve Stress, Headache,120g",
+      "verificationNotes": "Brand example changed from Gravity to Umisleep: no Gravity-branded weighted mask appeared in amazon.co.uk results. In stock. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "soft-foam-earplugs",
@@ -73,10 +132,15 @@
       "why": "For steady noise such as traffic or a partner's snoring, a well-fitted foam plug usually gives the greatest reduction of the common types.",
       "consideration": "Can feel bulky for side sleepers; disposable, so the cost adds up; check the SNR rating on the pack.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "foam earplugs for sleeping" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "foam earplugs for sleeping"
+      },
+      "asin": "B0B785VC19",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Mack's Ultra Soft Foam Earplugs, 100 Pair Bag - 33dB Highest NRR, Comfortable Ear Plugs for Sleeping, Snoring, Travel, Concerts, Studying and Loud Noise | Made in USA, Beige",
+      "verificationNotes": "Matches brand example (Mack's Ultra Soft). In stock, dispatched by Amazon. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "reusable-silicone-earplugs",
@@ -89,10 +153,15 @@
       "why": "They sit flatter than foam, so they are less likely to press into the ear on a pillow, and they can be washed rather than thrown away.",
       "consideration": "Generally a little less noise reduction than a well-inserted foam plug; fit depends on choosing the right tip size.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "Loop Quiet earplugs" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "Loop Quiet earplugs"
+      },
+      "asin": "B0D3V6TR98",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Loop Quiet 2 Ear Plugs - Ultra-Comfy Reusable Hearing Protection for Sleep",
+      "verificationNotes": "Current Loop Quiet generation (Quiet 2). In stock. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "mouldable-wax-earplugs",
@@ -105,10 +174,15 @@
       "why": "Because nothing goes inside the canal, many people find them the most comfortable option for side sleeping, and they seal well when applied properly.",
       "consideration": "Single-use or short-life; can pick up hair and lint; less suited to very loud environments.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "wax earplugs for sleeping" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "wax earplugs for sleeping"
+      },
+      "asin": "B01LHL84ZI",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Quies Boules Natural Wax Earplugs 8 Pairs of Earplugs - Pack of 2",
+      "verificationNotes": "Matches brand example (Quies natural wax). In stock. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "fan-based-white-noise-machine",
@@ -121,10 +195,15 @@
       "why": "Digital machines can have audible loop points that some people notice. A fan-based machine produces continuous sound with no loop, and no need for a screen or app.",
       "consideration": "One type of sound only (no brown or pink noise options); uses mains power; check the UK plug version.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "Yogasleep Dohm white noise machine" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "Yogasleep Dohm white noise machine"
+      },
+      "asin": "B07RJTW7DB",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Marpac Dohm White Noise Sound Machine with UK Plug (White/Gray)",
+      "verificationNotes": "Matches brand example (Marpac/Yogasleep Dohm), UK plug version. Listing shows Add to basket with a delivery date, dispatched from Amazon, sold by Marpac UK; no explicit 'In stock' label on the page. The Dohm Classic listing B00TQ2MU2O was temporarily out of stock, so not used. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "digital-sound-machine",
@@ -137,10 +216,15 @@
       "why": "If you want to experiment with brown or pink noise rather than only white, a multi-sound digital machine lets you find the tone that suits you best.",
       "consideration": "Some people prefer the softer character of a fan-based machine; check the UK power adapter.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "LectroFan white noise machine" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "LectroFan white noise machine"
+      },
+      "asin": "B019GAFJEG",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "LectroFan - White Noise Machine and Non-Looping Fan Sounds with Sleep Timer (Classic, White)",
+      "verificationNotes": "Matches brand example (LectroFan Classic). In stock, dispatched by Amazon. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "portable-sound-machine",
@@ -153,10 +237,15 @@
       "why": "Unfamiliar rooms are often the noisiest, and a small machine means you are not relying on a phone that may need charging or buzz with notifications.",
       "consideration": "Smaller speakers can sound thinner at higher volumes; fewer sounds than a full-size machine.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "portable white noise machine travel" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "portable white noise machine travel"
+      },
+      "asin": "B01D50RZQI",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Yogasleep Rohm Portable White Noise Sound Machine, 3 Soothing Natural Sounds with Volume Control, Sleep Therapy For Adults, Kids & Baby, Noise Cancelling for Office Privacy & Meditation, Registry Gift",
+      "verificationNotes": "Matches brand example (Yogasleep Rohm). In stock, dispatched by Amazon. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "headband-sleep-headphones",
@@ -169,10 +258,15 @@
       "why": "Ordinary earbuds press into the ear when you lie on your side. A headband keeps the speaker flat against the ear so you can listen to sleep sounds or guided relaxation comfortably.",
       "consideration": "Audio quality is basic and bass-light; the band can feel warm in summer; battery life varies by model.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "sleep headphones headband bluetooth" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "sleep headphones headband bluetooth"
+      },
+      "asin": "B0CLGTSMCF",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "MUSICOZY Sleep Headphones Headband Cooling Headphones for Sleeping & Sport",
+      "verificationNotes": "Matches brand example (Musicozy), Bluetooth headband. In stock, dispatched by Amazon. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "sleep-earbuds",
@@ -185,10 +279,15 @@
       "why": "They combine some passive noise blocking with audio, which suits people who want both a plug and a sound in one device.",
       "consideration": "Fit varies widely between ears; app dependence on some models; batteries degrade over time.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "sleep earbuds for side sleepers" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "sleep earbuds for side sleepers"
+      },
+      "asin": "B0CRGR2TS5",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "soundcore Sleep A20 by Anker Sleep Earbuds, Noise Blocking Sleep Headphones, Small Design for Side Sleepers, 80H Playtime, Stream Content via Bluetooth 5.3, Personal Alarm",
+      "verificationNotes": "Matches brand example (Anker Soundcore Sleep series). In stock, sold by AnkerDirect UK. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "memory-foam-side-sleeper-pillow",
@@ -201,10 +300,15 @@
       "why": "Side sleepers generally need more height than back sleepers. An adjustable foam pillow lets you fine-tune the loft rather than guessing.",
       "consideration": "Foam can sleep warm; new pillows sometimes have an initial smell that fades; check the trial and return terms.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "memory foam pillow side sleeper adjustable" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "memory foam pillow side sleeper adjustable"
+      },
+      "asin": "B0D9YWWT26",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Panda® ActiveFoam Hybrid Bamboo Pillow - Soft, Breathable Bamboo Cover, Orthopaedic Grade Memory Foam, 10-Year Guarantee (x1 Hybrid Pillow) 70 x 40 x 13 cm",
+      "verificationNotes": "Matches brand example (Panda, UK brand). Note: this listing is a fixed-height memory foam pillow, not the adjustable-layer type mentioned in the description. In stock, sold by Panda. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "gel-cooling-pillow",
@@ -217,10 +321,15 @@
       "why": "If you wake up hot, the pillow is one of the warmest contact points. A breathable or gel-layered pillow paired with a cool room can help.",
       "consideration": "Cooling claims vary and are hard to compare; a breathable cover and cool room matter as much as the pillow itself.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "cooling pillow gel memory foam" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "cooling pillow gel memory foam"
+      },
+      "asin": "B08YZ7FM5Z",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Cosi Home® Luxury Memory Foam Pillow with Bamboo Pillow Cover, Cooling Gel Filling & Adjustable Height - Breathable & Machine Washable for Side, Back & Front Sleepers (Size: 71 x 45cm)",
+      "verificationNotes": "Gel-filled memory foam cooling pillow (brand example is 'various'). In stock, dispatched by Amazon. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "thermal-blackout-curtains",
@@ -233,10 +342,15 @@
       "why": "Curtains address the room rather than the person, so they help everyone in the bed and do not need to be worn.",
       "consideration": "Light still leaks around the edges and top unless the curtains overlap the frame generously; measure carefully.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "thermal blackout curtains eyelet" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "thermal blackout curtains eyelet"
+      },
+      "asin": "B00VWMHFZ8",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Deconovo Dark Grey Curtains Eyelet Thermal Blackout Curtains 46\"x54\" 1 Pair",
+      "verificationNotes": "Eyelet thermal blackout curtains; listing has multiple size/colour variants, ASIN is the 46x54 dark grey parent. In stock, dispatched by Amazon. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "blackout-blind-no-drill",
@@ -249,10 +363,15 @@
       "why": "Fitting inside the recess blocks the edge glow that curtains let through. Combined with curtains, the room can get very dark.",
       "consideration": "Suction fittings may need re-fixing; less tidy-looking than fitted blinds.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "blackout blind no drill" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "blackout blind no drill"
+      },
+      "asin": "B0D5721NNQ",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Bemece Portable 100% Blackout Blind, DIY Cut,No Drill, Fit Any Size-200*145",
+      "verificationNotes": "Portable no-drill, cut-to-size blackout blind. In stock. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "weighted-blanket",
@@ -265,10 +384,15 @@
       "why": "If a heavy duvet already feels comforting, a weighted blanket gives that sensation year-round without the heat of extra duvets.",
       "consideration": "Not suitable for young children or people with certain respiratory or mobility conditions; can be warm; heavy to wash.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "weighted blanket adult glass beads" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "weighted blanket adult glass beads"
+      },
+      "asin": "B0CW99YJHZ",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Sivio Weighted Blanket 7kg Grey 150x200cm",
+      "verificationNotes": "Glass-bead fill confirmed in listing bullets. Brand example changed to Sivio (Mela/Gravity/Silentnight not chosen from results). In stock, sold by Sivio. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "cotton-percale-bedding",
@@ -281,10 +405,15 @@
       "why": "Fabric affects how much heat and moisture stays next to you. Percale or linen tends to feel cooler than polyester or sateen.",
       "consideration": "Wrinkles more than sateen; check thread count claims with caution as they are not a quality guarantee.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "cotton percale duvet cover" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "cotton percale duvet cover"
+      },
+      "asin": "B08HZFC7SN",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Appletree Cassia 180 Thread Count 100% Cotton Percale Duvet Cover Set, Khaki, Super King",
+      "verificationNotes": "100% cotton percale duvet cover set; ASIN is the Super King khaki variant (other sizes/colours selectable on the page). In stock, sold by Amazon. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "summer-tog-duvet",
@@ -297,10 +426,15 @@
       "why": "Swapping a 13.5 tog winter duvet for a summer weight one is one of the simplest ways to stop waking up hot.",
       "consideration": "Fill (down, feather, microfibre, wool) affects breathability as much as tog.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "4.5 tog summer duvet" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "4.5 tog summer duvet"
+      },
+      "asin": "B01ISWOP4I",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "Silentnight Anti Allergy Double Duvet 4.5 Tog - Lightweight Summer Quilt Duvet Comforter Anti-Bacterial and Machine Washable with Allergy UK Approved Anti Allergy Fibres - Double Bed",
+      "verificationNotes": "4.5 tog summer duvet (Silentnight, UK brand); ASIN is the Double size. In stock. SiteStripe Full Link generated under kleantouch-21."
     },
     {
       "id": "quiet-bedroom-fan",
@@ -313,10 +447,15 @@
       "why": "Airflow over the skin helps sweat evaporate, which is how the body cools. A fan also produces steady sound that masks other noise.",
       "consideration": "Noise levels are self-reported by manufacturers; in very hot, humid rooms a fan alone has limited effect.",
       "provider": "amazon-uk",
-      "link": { "type": "search", "query": "quiet bedroom fan night mode" },
-      "asin": null,
-      "status": "needs-verification",
-      "lastChecked": null
+      "link": {
+        "type": "asin",
+        "query": "quiet bedroom fan night mode"
+      },
+      "asin": "B0BT7LPSBY",
+      "status": "active",
+      "lastChecked": "2026-09-25",
+      "verifiedTitle": "DREO 20dB Silent Tower Fan, 28 ft/s Velocity Electric Cooling Fan with Remote, 90° Oscillating 8 Speeds 4 Modes 8H Timer LED Display, DC Motor Quiet Standing Bladeless Floor Fans for Bedroom, White",
+      "verificationNotes": "Tower fan marketed as quiet with modes and timer. Listing shows Add to basket with a delivery date, sold by Amazon; no explicit 'In stock' label on the page. SiteStripe Full Link generated under kleantouch-21."
     }
   ]
 }

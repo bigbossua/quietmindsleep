@@ -8,15 +8,15 @@
 | Pages with affiliate links | 56 |
 | Affiliate links | 134 |
 | Blocking issues | 0 |
-| Warnings | 3 |
+| Warnings | 2 |
 
 ## Affiliate readiness
 | Check | Status |
 |---|---|
-| Amazon tracking ID set | NO — placeholder in site.config.json |
-| Products with verified ASIN (direct links) | 0 of 19 |
-| Products on search links (needs-verification) | 19 |
-| Products marked active | 0 |
+| Amazon tracking ID set | yes (kleantouch-21) |
+| Products with verified ASIN (direct links) | 19 of 19 |
+| Products on search links (needs-verification) | 0 |
+| Products marked active | 19 |
 | Disclosure on every affiliate page | yes |
 
 ## Blocking issues
@@ -25,7 +25,6 @@
 ## Warnings
 - /404.html: meta description 49 chars
 - /search/: meta description 35 chars
-- Amazon tracking ID not set in site.config.json (134 pages carry placeholder tag)
 
 ## Not checked here (needs network access)
 - External links (sources) — run `node scripts/check-external-links.mjs` from a machine with internet access.

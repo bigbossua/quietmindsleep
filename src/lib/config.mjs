@@ -1,7 +1,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-export const ROOT = path.resolve(new URL('../..', import.meta.url).pathname);
+export const ROOT = path.resolve(fileURLToPath(new URL('../..', import.meta.url)));
 export const DIST = path.join(ROOT, 'dist');
 export const CONTENT = path.join(ROOT, 'content');
 export const DATA = path.join(ROOT, 'data');

@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
-export const ROOT = path.resolve(new URL('..', import.meta.url).pathname);
+import { fileURLToPath } from 'node:url';
+export const ROOT = path.resolve(fileURLToPath(new URL('..', import.meta.url)));
 export const readJson = (p) => JSON.parse(fs.readFileSync(path.join(ROOT, p), 'utf8'));
 export const csvCell = (v) => { const s = v == null ? '' : String(Array.isArray(v) ? v.join('; ') : v); return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s; };
 export const toCsv = (rows, cols) => [cols.join(','), ...rows.map(r => cols.map(c => csvCell(r[c])).join(','))].join('\n') + '\n';

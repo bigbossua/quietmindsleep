@@ -10,7 +10,7 @@
   "affiliate": {
     "amazon": {
       "enabled": true,
-      "tag": "REPLACE-WITH-YOUR-TAG-21",
+      "tag": "kleantouch-21",
       "storeDomain": "www.amazon.co.uk",
       "note": "Your Amazon Associates UK tracking ID ends in -21. Until it is set, links still work but earn no commission."
     }
@@ -25,15 +25,42 @@
     "note": "Set provider to 'mailchimp', 'kit' or 'custom' and formAction to the POST endpoint when an email service is connected. Until then the form saves nothing and shows a friendly notice."
   },
   "nav": [
-    { "label": "Quiet the Mind", "hub": "quiet-the-mind" },
-    { "label": "Falling Asleep", "hub": "falling-asleep" },
-    { "label": "Waking at Night", "hub": "waking-at-night" },
-    { "label": "Sleep Sounds", "hub": "sleep-sounds" },
-    { "label": "Sleep Environment", "hub": "sleep-environment" },
-    { "label": "Relaxation", "hub": "relaxation" },
-    { "label": "Sleep Habits", "hub": "sleep-habits" },
-    { "label": "Products", "hub": "sleep-products" },
-    { "label": "Questions", "hub": "sleep-questions" }
+    {
+      "label": "Quiet the Mind",
+      "hub": "quiet-the-mind"
+    },
+    {
+      "label": "Falling Asleep",
+      "hub": "falling-asleep"
+    },
+    {
+      "label": "Waking at Night",
+      "hub": "waking-at-night"
+    },
+    {
+      "label": "Sleep Sounds",
+      "hub": "sleep-sounds"
+    },
+    {
+      "label": "Sleep Environment",
+      "hub": "sleep-environment"
+    },
+    {
+      "label": "Relaxation",
+      "hub": "relaxation"
+    },
+    {
+      "label": "Sleep Habits",
+      "hub": "sleep-habits"
+    },
+    {
+      "label": "Products",
+      "hub": "sleep-products"
+    },
+    {
+      "label": "Questions",
+      "hub": "sleep-questions"
+    }
   ],
   "featuredHome": [
     "quiet-the-mind/racing-thoughts-at-night",
@@ -49,7 +76,12 @@
     "relaxation/bedtime-relaxation-techniques",
     "sleep-sounds"
   ],
-  "productsHome": ["sleep-products/best-sleep-masks-uk", "sleep-products/best-earplugs-for-sleeping-uk", "sleep-products/best-white-noise-machines-uk", "sleep-products/best-sleep-headphones-uk"],
+  "productsHome": [
+    "sleep-products/best-sleep-masks-uk",
+    "sleep-products/best-earplugs-for-sleeping-uk",
+    "sleep-products/best-white-noise-machines-uk",
+    "sleep-products/best-sleep-headphones-uk"
+  ],
   "socialImage": "/assets/img/og-default.png",
   "publisherName": "Quiet Mind Sleep",
   "editorialNote": "Quiet Mind Sleep is an independent UK sleep information website. It is not a medical service."
