@@ -7,7 +7,7 @@
 | URL | https://quietmindsleep.co.uk — **LIVE** since 2026-09-25 (deployed commit `fd5fc54`). |
 | Technology | Static site: custom Node generator (Markdown + JSON data), one CSS file, one small JS file, self-hosted fonts, SVG illustration system, Open Graph PNGs. No CMS, database or plugins. |
 | Hosting | Hostinger, addon domain `domains/quietmindsleep.co.uk/public_html`. `main` is the production source; CI builds, audits and republishes the `hostinger` branch on every push. The first deploy was done over SSH from the owner's PC with the workflow's own procedure because the GitHub Actions SSH secrets are not set yet (`deploy-ssh` skipped) — add them per `docs/owner-actions.md` §3 so pushes to `main` deploy automatically. |
-| Status | **Live and verified (2026-09-25): homepage 200 over HTTPS, http→https 301, robots, sitemap 114/114, canonicals, assets, 404, search all pass. Open: `https://www.` fails TLS because the Hostinger certificate does not yet cover `www` (owner action in hPanel → SSL). Not validated in Semrush.** |
+| Status | **Live and verified (2026-09-25), independently re-verified from a GitHub Actions runner at 18:14 UTC (`live-reports` branch): homepage 200 over HTTPS, http→https 301, robots, sitemap 114/114, canonicals, assets, fonts, 404 template, search, 110 sampled internal links with 0 broken, live affiliate links tagged `kleantouch-21` and direct `/dp/` links, disclosure before the first link, desktop and mobile screenshots clean. Open: `https://www.` fails TLS because the Hostinger certificate does not yet cover `www` (owner action in hPanel → SSL). Not validated in Semrush.** |
 
 ## SEO
 
