@@ -26,18 +26,14 @@ The Amazon Associates account **cannot be reached from the cloud build environme
 
 Until the tag is set, links work but earn nothing. Search links are an approved Special Link format and remain valid after the tag is set.
 
-## 3. Hostinger (blocks going live) — about 5 minutes
+## 3. Hostinger — site is LIVE (deployed 2026-09-25); two items remain
 
-Everything on the GitHub side is done: the production build is on the public `hostinger` branch and CI republishes it on every push to `main`. Hostinger's own panel cannot be reached from the cloud build environment (hpanel.hostinger.com and api.hostinger.com are blocked by its network policy, and there is no Hostinger connector), so the final connection is a short job in hPanel. Because the repository is public, **no SSH key, token or password is needed**.
+The site was deployed on 2026-09-25 from commit `fd5fc54` over SSH from the owner's PC (the workflow's own rsync/tar procedure, using the `quietmindsleep-hostinger-deploy` key already authorised in hPanel → Advanced → SSH Access). `scripts/verify-live.mjs` passed every check except the `www` one below: homepage 200 over HTTPS, http→https 301, robots, sitemap (114 URLs, all 200), canonicals, assets, 404 template, search.
 
-Follow `docs/go-live.md`. In short:
-1. hPanel → Websites → quietmindsleep.co.uk → File Manager → check `public_html` is empty or only holds Hostinger's placeholder (back up anything else first).
-2. hPanel → Advanced → **Git** → Create repository → ENTER `https://github.com/bigbossua/quietmindsleep.git`, branch `hostinger`, directory blank → Create.
-3. Copy the webhook URL Hostinger shows into GitHub → Settings → Webhooks (push events) so future releases deploy automatically.
-4. Security → SSL: Active, Force HTTPS on.
-5. Create the mailbox `hello@quietmindsleep.co.uk` (hPanel → Emails) or change `contactEmail` in `site.config.json`.
-
-Then run `node scripts/verify-live.mjs` from any machine with internet, or allow `quietmindsleep.co.uk` in this environment's network settings and tell Claude "verify the live site".
+Still on the owner (about 5 minutes):
+1. **SSL for `www`** — hPanel → Websites → quietmindsleep.co.uk → Security → **SSL**. The certificate currently covers only `quietmindsleep.co.uk`, so `https://www.quietmindsleep.co.uk` fails the TLS handshake (`www` is a CNAME to Hostinger's CDN, which presents the apex-only certificate). Install/reissue the free SSL so it includes `www`, and turn on **Force HTTPS**. `.htaccess` already redirects www → non-www once the certificate exists.
+2. **GitHub Actions SSH secrets** so every push to `main` deploys automatically (today's runs show `deploy-ssh: skipped`). GitHub → `bigbossua/quietmindsleep` → Settings → Secrets and variables → Actions: `SSH_HOST` = the SSH IP shown in hPanel → Advanced → SSH Access, `SSH_USER` = the `u…` username there, `SSH_PORT` = `65002`, `SSH_PRIVATE_KEY` = contents of the private key file for `quietmindsleep-hostinger-deploy` (on the owner's PC). Never paste the key anywhere else. Until then, redeploy manually with the same procedure or via the `hostinger` branch route in `docs/go-live.md`.
+3. Create the mailbox `hello@quietmindsleep.co.uk` (hPanel → Emails) or change `contactEmail` in `site.config.json`.
 
 ## 4. Google Search Console (after go-live)
 
