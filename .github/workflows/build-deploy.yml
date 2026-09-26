@@ -53,7 +53,20 @@ jobs:
           SSH_HOST: ${{ secrets.SSH_HOST }}
           SSH_USER: ${{ secrets.SSH_USER }}
         run: |
-          if [ -n "$SSH_PRIVATE_KEY" ] && [ -n "$SSH_HOST" ] && [ -n "$SSH_USER" ]; then echo "enabled=true" >> "$GITHUB_OUTPUT"; echo "SSH deploy: secrets present"; else echo "enabled=false" >> "$GITHUB_OUTPUT"; echo "SSH deploy: skipped (set SSH_PRIVATE_KEY, SSH_HOST, SSH_USER, optional SSH_PORT and SSH_TARGET_DIR)"; fi
+          # Reports presence only; secret values are never printed.
+          missing=""
+          [ -n "$SSH_PRIVATE_KEY" ] || missing="$missing SSH_PRIVATE_KEY"
+          [ -n "$SSH_HOST" ] || missing="$missing SSH_HOST"
+          [ -n "$SSH_USER" ] || missing="$missing SSH_USER"
+          if [ -z "$missing" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"; echo "SSH deploy: all required secrets present"
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "SSH deploy: skipped. Missing repository secrets:$missing (optional: SSH_PORT default 65002, SSH_TARGET_DIR default domains/quietmindsleep.co.uk/public_html)"
+            echo "### SSH deploy skipped" >> "$GITHUB_STEP_SUMMARY"
+            echo "Missing repository secrets:$missing" >> "$GITHUB_STEP_SUMMARY"
+            echo "Add them in Settings → Secrets and variables → Actions (see docs/go-live.md, Route 1)." >> "$GITHUB_STEP_SUMMARY"
+          fi
 
   # SSH deployment to Hostinger (hPanel → Advanced → SSH Access). The private key is a GitHub secret only.
   deploy-ssh:
