@@ -94,7 +94,7 @@
   ],
   "sources": [
    "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
-   "https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/sleep",
+   "https://www.mentalhealth.org.uk/",
    "https://www.sleepfoundation.org/sleep-hygiene"
   ]
  },
@@ -357,7 +357,7 @@
   "sources": [
    "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
    "https://www.sleepfoundation.org/sleep-hygiene",
-   "https://www.drinkaware.co.uk/facts/health-effects-of-alcohol/lifestyle/alcohol-and-sleep",
+   "https://www.sleepfoundation.org/nutrition/alcohol-and-sleep",
    "https://www.nhs.uk/live-well/sleep-and-tiredness/"
   ]
  },
@@ -596,7 +596,7 @@
    "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
    "https://www.nhs.uk/live-well/sleep-and-tiredness/",
    "https://www.sleepfoundation.org/sleep-hygiene",
-   "https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/sleep"
+   "https://www.mentalhealth.org.uk/"
   ]
  },
  "quiet-the-mind/how-to-stop-overthinking-at-night": {
@@ -4000,7 +4000,7 @@
    "https://www.nhs.uk/conditions/insomnia/",
    "https://www.nhs.uk/conditions/sleep-apnoea/",
    "https://cks.nice.org.uk/topics/insomnia/",
-   "https://www.sleepfoundation.org/insomnia/sleep-maintenance-insomnia"
+   "https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia"
   ]
  },
  "waking-at-night/waking-up-too-early": {

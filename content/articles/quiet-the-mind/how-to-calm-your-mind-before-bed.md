@@ -20,9 +20,9 @@ sources:
   - title: "Sleep hygiene"
     publisher: "Sleep Foundation"
     url: "https://www.sleepfoundation.org/sleep-hygiene"
-  - title: "Sleep"
+  - title: "Mental health and sleep resources"
     publisher: "Mental Health Foundation"
-    url: "https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/sleep"
+    url: "https://www.mentalhealth.org.uk/"
 status: draft
 ---
 If you want to know how to calm your mind before bed, the honest answer is that it is less about a single trick and more about a sequence. A mind that has been running all evening does not settle because you ask it to at 11pm. It settles because, over the previous hour, you gave it fewer things to hold and a steady series of cues that the day was ending.

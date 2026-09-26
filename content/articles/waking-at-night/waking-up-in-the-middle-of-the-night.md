@@ -29,9 +29,9 @@ sources:
   - title: "Insomnia: Clinical Knowledge Summary"
     publisher: "NICE"
     url: "https://cks.nice.org.uk/topics/insomnia/"
-  - title: "Sleep Maintenance Insomnia"
+  - title: "Cognitive behavioural therapy for insomnia"
     publisher: "Sleep Foundation"
-    url: "https://www.sleepfoundation.org/insomnia/sleep-maintenance-insomnia"
+    url: "https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia"
 status: draft
 ---
 Waking up in the middle of the night is not, by itself, a sleep problem. Adults surface briefly several times every night, usually between sleep cycles, and forget almost all of it by morning. If you remember one waking and drift off again within a few minutes, your sleep is working as designed.
