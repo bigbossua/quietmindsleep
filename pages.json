@@ -1,0 +1,50 @@
+{
+  "home": {
+    "status": "ERR page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://quietmindsleep.co.uk/\nCall log:\n  - navigating to \"https://quietmindsleep.co.uk/\", waiting until \"networkidle\"\n",
+    "errors": [
+      "REQUEST FAILED https://quietmindsleep.co.uk/"
+    ]
+  },
+  "home-mobile": {
+    "status": "ERR page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://quietmindsleep.co.uk/\nCall log:\n  - navigating to \"https://quietmindsleep.co.uk/\", waiting until \"networkidle\"\n",
+    "errors": [
+      "REQUEST FAILED https://quietmindsleep.co.uk/"
+    ]
+  },
+  "article": {
+    "status": "ERR page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://quietmindsleep.co.uk/quiet-the-mind/racing-thoughts-at-night/\nCall log:\n  - navigating to \"https://quietmindsleep.co.uk/quiet-the-mind/racing-thoughts-at-night/\", waiting until \"networkidle\"\n",
+    "errors": [
+      "REQUEST FAILED https://quietmindsleep.co.uk/quiet-the-mind/racing-thoughts-at-night/"
+    ]
+  },
+  "article-mobile": {
+    "status": "ERR page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://quietmindsleep.co.uk/waking-at-night/waking-up-at-3am/\nCall log:\n  - navigating to \"https://quietmindsleep.co.uk/waking-at-night/waking-up-at-3am/\", waiting until \"networkidle\"\n",
+    "errors": [
+      "REQUEST FAILED https://quietmindsleep.co.uk/waking-at-night/waking-up-at-3am/"
+    ]
+  },
+  "product": {
+    "status": "ERR page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://quietmindsleep.co.uk/sleep-products/best-sleep-masks-uk/\nCall log:\n  - navigating to \"https://quietmindsleep.co.uk/sleep-products/best-sleep-masks-uk/\", waiting until \"networkidle\"\n",
+    "errors": [
+      "REQUEST FAILED https://quietmindsleep.co.uk/sleep-products/best-sleep-masks-uk/"
+    ]
+  },
+  "hub": {
+    "status": "ERR page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://quietmindsleep.co.uk/sleep-sounds/\nCall log:\n  - navigating to \"https://quietmindsleep.co.uk/sleep-sounds/\", waiting until \"networkidle\"\n",
+    "errors": [
+      "REQUEST FAILED https://quietmindsleep.co.uk/sleep-sounds/"
+    ]
+  },
+  "search": {
+    "status": "ERR page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://quietmindsleep.co.uk/search/?q=brown%20noise\nCall log:\n  - navigating to \"https://quietmindsleep.co.uk/search/?q=brown%20noise\", waiting until \"networkidle\"\n",
+    "errors": [
+      "REQUEST FAILED https://quietmindsleep.co.uk/search/?q=brown%20noise"
+    ]
+  },
+  "notfound": {
+    "status": "ERR page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://quietmindsleep.co.uk/no-such-page-1790426755070/\nCall log:\n  - navigating to \"https://quietmindsleep.co.uk/no-such-page-1790426755070/\", waiting until \"networkidle\"\n",
+    "errors": [
+      "REQUEST FAILED https://quietmindsleep.co.uk/no-such-page-1790426755070/"
+    ]
+  }
+}

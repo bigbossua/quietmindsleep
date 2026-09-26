@@ -1,0 +1,52 @@
+
+# Live verification — https://quietmindsleep.co.uk — 2026-09-26T12:45:58.086Z
+
+| Check | Result | Detail |
+|---|---|---|
+| http → https redirect | ✅ | status 301 location https://quietmindsleep.co.uk/ |
+| www → non-www redirect | ✅ | status 301 location https://quietmindsleep.co.uk/ |
+| homepage 200 over HTTPS | ❌ | status ERR |
+| homepage is the Quiet Mind Sleep build | ❌ | unexpected HTML (old site or parking page?) |
+| asset /robots.txt | ❌ | status ERR |
+| asset /sitemap.xml | ❌ | status ERR |
+| asset /search-index.json | ❌ | status ERR |
+| asset /favicon.svg | ❌ | status ERR |
+| asset /assets/js/site.js | ❌ | status ERR |
+| asset /assets/js/search.js | ❌ | status ERR |
+| asset /assets/img/hero.svg | ❌ | status ERR |
+| asset /assets/img/og-default.png | ❌ | status ERR |
+| asset /assets/fonts/inter-latin-wght-normal.woff2 | ❌ | status ERR |
+| stylesheet loads | ❌ | status missing |
+| 404 page returns 404 with site template | ❌ | status ERR |
+| sitemap lists pages | ❌ | 0 URLs |
+| all sitemap URLs return 200 | ❌ | 0/0 |
+| canonicals match live URLs | ❌ | 0 mismatches |
+| internal links on sampled pages resolve | ❌ | 0 checked, 0 broken |
+| live affiliate links carry the Associates tag | ❌ | 0 Amazon links, tag=kleantouch-21 |
+| live affiliate links are direct product links | ❌ | 0/0 /dp/ links |
+| disclosure precedes first affiliate link | ❌ |  |
+| search page loads | ❌ | status ERR |
+
+## Failures
+- homepage 200 over HTTPS — status ERR
+- homepage is the Quiet Mind Sleep build — unexpected HTML (old site or parking page?)
+- asset /robots.txt — status ERR
+- asset /sitemap.xml — status ERR
+- asset /search-index.json — status ERR
+- asset /favicon.svg — status ERR
+- asset /assets/js/site.js — status ERR
+- asset /assets/js/search.js — status ERR
+- asset /assets/img/hero.svg — status ERR
+- asset /assets/img/og-default.png — status ERR
+- asset /assets/fonts/inter-latin-wght-normal.woff2 — status ERR
+- stylesheet loads — status missing
+- 404 page returns 404 with site template — status ERR
+- sitemap lists pages — 0 URLs
+- all sitemap URLs return 200 — 0/0
+- canonicals match live URLs — 0 mismatches
+- internal links on sampled pages resolve — 0 checked, 0 broken
+- live affiliate links carry the Associates tag — 0 Amazon links, tag=kleantouch-21
+- live affiliate links are direct product links — 0/0 /dp/ links
+- disclosure precedes first affiliate link
+- search page loads — status ERR
+
