@@ -1,0 +1,33 @@
+name: Check external links
+
+on:
+  schedule:
+    - cron: '15 6 1 * *'   # monthly, 1st at 06:15 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - name: Check every external link in the build
+        run: node scripts/check-external-links.mjs | tail -60
+      - name: Publish results to link-reports branch
+        if: always()
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./reports
+          publish_branch: link-reports
+          force_orphan: true
+          enable_jekyll: false
+          commit_message: "External link check ${{ github.run_id }}"
