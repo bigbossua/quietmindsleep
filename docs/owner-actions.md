@@ -2,6 +2,8 @@
 
 Everything below needs your account access. Each item says exactly what to click. Nothing else on the site is waiting on you.
 
+**Current state and the single task list live in `docs/PROJECT-REPORT.md` (MASTER STATUS).** This file is the how-to; if the two ever disagree, the master status wins.
+
 ## 1. Semrush API units (blocks the research step)
 
 The Semrush connector is authorised, but the account has **no API units**, so every research request is refused. Until this is fixed the keyword database has blank volume/KD columns and every page is marked `draft-pending-validation`.
@@ -27,7 +29,9 @@ Still on the owner (about 5 minutes):
 2. **GitHub Actions SSH secrets** so every push to `main` deploys automatically (today's runs show `deploy-ssh: skipped`). GitHub → `bigbossua/quietmindsleep` → Settings → Secrets and variables → Actions: `SSH_HOST` = the SSH IP shown in hPanel → Advanced → SSH Access, `SSH_USER` = the `u…` username there, `SSH_PORT` = `65002`, `SSH_PRIVATE_KEY` = contents of the private key file for `quietmindsleep-hostinger-deploy` (on the owner's PC). Never paste the key anywhere else. Until then, redeploy manually with the same procedure or via the `hostinger` branch route in `docs/go-live.md`.
 3. Create the mailbox `hello@quietmindsleep.co.uk` (hPanel → Emails) or change `contactEmail` in `site.config.json`.
 
-## 4. Google Search Console (not yet set up — needs your Google account)
+## 4. Google Search Console — steps 1–4 DONE (25–26 Sep 2026)
+
+Domain property verified (TXT, first try); sitemap Success with 114 URLs; indexing requested for the homepage and 8 hubs (`/falling-asleep/` was already on Google). Current state: `docs/PROJECT-REPORT.md`. Steps kept for reference; only 5–6 remain optional.
 
 1. CLICK THIS → https://search.google.com/search-console → Add property → **Domain** → ENTER THIS → `quietmindsleep.co.uk`.
 2. Copy the TXT record → hPanel → **Domains → DNS / Name Servers** → add TXT → SAVE → back in Search Console click Verify (DNS can take up to an hour).

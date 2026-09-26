@@ -1,6 +1,6 @@
 # Quiet Mind Sleep — working notes for Claude sessions
 
-Independent UK sleep information + affiliate site. Static build, no CMS. Read `README.md`, then `docs/owner-actions.md` for what is blocked on the owner.
+Independent UK sleep information + affiliate site. Static build, no CMS. Read `README.md`, then `docs/PROJECT-REPORT.md` (MASTER STATUS: the single source of truth for status and the one task list; update it when state changes), then `docs/owner-actions.md` for how-to steps on owner tasks. All Quiet Mind Sleep work is consolidated here; do not open parallel sessions or status files.
 
 ## Non-negotiables
 - Semrush controls SEO decisions. Never invent keyword volumes, KD, traffic or competitor data. If Semrush is unavailable, leave fields blank and mark status `draft-pending-validation`.

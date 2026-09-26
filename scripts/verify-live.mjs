@@ -9,17 +9,18 @@ const base = (process.argv[2] || JSON.parse(fs.readFileSync(path.join(ROOT, 'sit
 const host = new URL(base).host;
 const results = [], fails = [];
 const ua = { 'user-agent': 'Mozilla/5.0 (compatible; QuietMindSleepLiveCheck/1.0)' };
-async function get(url, opts = {}) { try { const r = await fetch(url, { redirect: 'manual', headers: ua, signal: AbortSignal.timeout(20000), ...opts }); return { status: r.status, location: r.headers.get('location'), type: r.headers.get('content-type') || '', text: opts.method === 'HEAD' ? '' : await r.text() }; } catch (e) { return { status: 'ERR', error: e.message, text: '' }; } }
+async function get(url, opts = {}) { try { const r = await fetch(url, { redirect: 'manual', headers: ua, signal: AbortSignal.timeout(20000), ...opts }); return { status: r.status, location: r.headers.get('location'), type: r.headers.get('content-type') || '', text: opts.method === 'HEAD' ? '' : await r.text() }; } catch (e) { return { status: 'ERR', error: e.message, cause: e.cause?.code || e.cause?.message, text: '' }; } }
 function check(name, ok, detail = '') { results.push({ name, ok, detail }); if (!ok) fails.push(`${name}${detail ? ' — ' + detail : ''}`); }
 
 // 1. redirects and HTTPS
 const httpR = await get(base.replace('https://', 'http://') + '/');
 check('http → https redirect', [301, 302, 308].includes(httpR.status) && (httpR.location || '').startsWith('https://'), `status ${httpR.status} location ${httpR.location}`);
 const wwwR = await get(`https://www.${host}/`);
-check('www → non-www redirect', [301, 302, 308].includes(wwwR.status) && (wwwR.location || '').startsWith(base), `status ${wwwR.status} location ${wwwR.location}`);
+check('www → non-www redirect', [301, 302, 308].includes(wwwR.status) && (wwwR.location || '').startsWith(base), `status ${wwwR.status} ${wwwR.error ? 'error ' + wwwR.error + (wwwR.cause ? ' (' + wwwR.cause + ')' : '') : 'location ' + wwwR.location}`);
 const home = await get(base + '/');
 check('homepage 200 over HTTPS', home.status === 200, `status ${home.status}`);
-check('homepage is the Quiet Mind Sleep build', home.text.includes('Quiet Mind Sleep') && home.text.includes('/assets/css/site.css'), 'unexpected HTML (old site or parking page?)');
+const isQms = home.text.includes('Quiet Mind Sleep') && home.text.includes('/assets/css/site.css');
+check('homepage is the Quiet Mind Sleep build', isQms, isQms ? 'site name and stylesheet found' : 'unexpected HTML (old site or parking page?)');
 // 2. static assets
 for (const a of ['/robots.txt', '/sitemap.xml', '/search-index.json', '/favicon.svg', '/assets/js/site.js', '/assets/js/search.js', '/assets/img/hero.svg', '/assets/img/og-default.png', '/assets/fonts/inter-latin-wght-normal.woff2']) {
   const r = await get(base + a); check(`asset ${a}`, r.status === 200, `status ${r.status}`);
