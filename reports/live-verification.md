@@ -1,9 +1,9 @@
-# Live verification — https://quietmindsleep.co.uk — 2026-09-26T10:20:29.821Z
+# Live verification — https://quietmindsleep.co.uk — 2026-09-26T14:05:55.757Z
 
 | Check | Result | Detail |
 |---|---|---|
 | http → https redirect | ✅ | status 301 location https://quietmindsleep.co.uk/ |
-| www → non-www redirect | ❌ | status ERR error fetch failed (ERR_TLS_CERT_ALTNAME_INVALID) |
+| www → non-www redirect | ✅ | status 301 location https://quietmindsleep.co.uk/ |
 | homepage 200 over HTTPS | ✅ | status 200 |
 | homepage is the Quiet Mind Sleep build | ✅ | site name and stylesheet found |
 | asset /robots.txt | ✅ | status 200 |
@@ -27,4 +27,4 @@
 | search page loads | ✅ | status 200 |
 
 ## Failures
-- www → non-www redirect — status ERR error fetch failed (ERR_TLS_CERT_ALTNAME_INVALID)
+- none
