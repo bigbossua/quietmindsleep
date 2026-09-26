@@ -12,35 +12,29 @@ Then tell Claude "Semrush units are available" and the research step in `docs/re
 
 Alternative without API units: export keywords from the Semrush web interface (Keyword Magic Tool → UK database → Export CSV) and run `npm run ingest:semrush -- path/to/export.csv`.
 
-## 2. Amazon Associates tracking ID (blocks commission, not the site)
+## 2. Amazon Associates — COMPLETE (verified 2026-09-25)
 
-The Amazon Associates account **cannot be reached from the cloud build environment**: it has no browser, and the network policy blocks amazon.co.uk, affiliate-program.amazon.co.uk and webservices.amazon.co.uk. An authenticated Amazon tab open on your computer is not visible to a cloud session. Two ways to complete this:
-
-**Option A — you do it (about 20 minutes):**
-1. CLICK THIS → Associates Central → **Account Settings → Manage Your Tracking IDs** → note the ID ending in `-21`.
-2. CLICK THIS → **Account Settings → Edit Your Website and Mobile App List** → ENTER THIS → `https://quietmindsleep.co.uk` → SAVE.
-3. In a terminal in the repository: `node scripts/set-amazon-tag.mjs <your-id-21>`; commit.
-4. Optionally verify one listing per product and fill `data/asin-verification.csv`, then `node scripts/ingest-asins.mjs data/asin-verification.csv`; commit. Full steps in `docs/amazon-runbook.md`.
-
-**Option B — Claude does it from your computer:** open this repository in Claude Desktop (or run `claude remote-control` in the repo folder) so Claude can use your signed-in browser, and say "run docs/amazon-runbook.md". Claude will inspect the account, set the tag, verify listings and record ASINs without copying any credentials.
-
-Until the tag is set, links work but earn nothing. Search links are an approved Special Link format and remain valid after the tag is set.
+Tracking ID `kleantouch-21` is set in `site.config.json`; `https://quietmindsleep.co.uk` is on the Associates website list; all 19 products in `data/products.json` are direct `/dp/` links with verified ASINs (`reports/amazon-status.md`). The live-site check confirms every Amazon link carries the tag and the disclosure precedes the first link on every affiliate page. Nothing to do here. Do not change the ASINs or the tag unless a documented problem appears; check **Reports → Link-Type Performance** in Associates Central monthly (`docs/amazon-runbook.md`).
 
 ## 3. Hostinger — site is LIVE (deployed 2026-09-25); two items remain
 
-The site was deployed on 2026-09-25 from commit `fd5fc54` over SSH from the owner's PC (the workflow's own rsync/tar procedure, using the `quietmindsleep-hostinger-deploy` key already authorised in hPanel → Advanced → SSH Access). `scripts/verify-live.mjs` passed every check except the `www` one below: homepage 200 over HTTPS, http→https 301, robots, sitemap (114 URLs, all 200), canonicals, assets, 404 template, search.
+The site was deployed on 2026-09-25 from commit `fd5fc54` over SSH from the owner's PC (the workflow's own rsync/tar procedure, using the `quietmindsleep-hostinger-deploy` key already authorised in hPanel → Advanced → SSH Access). The independent GitHub-runner check (`verify-live.yml`, last run 26 Sep 08:17 UTC, `reports/live-verification.md`) passes 22 of 23 checks: homepage 200 over HTTPS, http→https 301, robots, sitemap (114 URLs, all 200), canonicals, assets, 404 template, sampled internal links, affiliate tag/disclosure, search. The one failure is the `www` certificate below.
+
+**Why these are still open (status 26 Sep):** both need hPanel or GitHub Settings access. The cloud session has no browser and its network policy blocks Hostinger, and the owner has asked that no further browser sessions be started. So each item below is an approval point: either do the clicks yourself, or say "start one browser session for §3 and §4" and Claude will do them from your signed-in browser. Once done, say so and Claude re-runs `verify-live.yml` and reports the result.
 
 Still on the owner (about 5 minutes):
 1. **SSL for `www`** — hPanel → Websites → quietmindsleep.co.uk → Security → **SSL**. The certificate currently covers only `quietmindsleep.co.uk`, so `https://www.quietmindsleep.co.uk` fails the TLS handshake (`www` is a CNAME to Hostinger's CDN, which presents the apex-only certificate). Install/reissue the free SSL so it includes `www`, and turn on **Force HTTPS**. `.htaccess` already redirects www → non-www once the certificate exists.
 2. **GitHub Actions SSH secrets** so every push to `main` deploys automatically (today's runs show `deploy-ssh: skipped`). GitHub → `bigbossua/quietmindsleep` → Settings → Secrets and variables → Actions: `SSH_HOST` = the SSH IP shown in hPanel → Advanced → SSH Access, `SSH_USER` = the `u…` username there, `SSH_PORT` = `65002`, `SSH_PRIVATE_KEY` = contents of the private key file for `quietmindsleep-hostinger-deploy` (on the owner's PC). Never paste the key anywhere else. Until then, redeploy manually with the same procedure or via the `hostinger` branch route in `docs/go-live.md`.
 3. Create the mailbox `hello@quietmindsleep.co.uk` (hPanel → Emails) or change `contactEmail` in `site.config.json`.
 
-## 4. Google Search Console (after go-live)
+## 4. Google Search Console (not yet set up — needs your Google account)
 
 1. CLICK THIS → https://search.google.com/search-console → Add property → **Domain** → ENTER THIS → `quietmindsleep.co.uk`.
-2. Copy the TXT record → hPanel → **Domains → DNS / Name Servers** → add TXT → SAVE → back in Search Console click Verify.
+2. Copy the TXT record → hPanel → **Domains → DNS / Name Servers** → add TXT → SAVE → back in Search Console click Verify (DNS can take up to an hour).
 3. **Sitemaps** → ENTER THIS → `https://quietmindsleep.co.uk/sitemap.xml` → Submit.
-4. Optional analytics: create a GA4 property, put the `G-XXXX` ID in `site.config.json → analytics.ga4MeasurementId`. No tracking loads until you do, and the cookie policy already describes this.
+4. **URL Inspection → Request indexing** for these 10 URLs, one at a time: `https://quietmindsleep.co.uk/` and the nine hubs `/falling-asleep/`, `/waking-at-night/`, `/quiet-the-mind/`, `/relaxation/`, `/sleep-sounds/`, `/sleep-environment/`, `/sleep-habits/`, `/sleep-products/`, `/sleep-questions/`.
+5. Optionally add `bigbossua`'s Claude session as a user later so the 6-week review (`docs/maintenance.md`) can read Performance data; until then export Performance → Pages as CSV when asked.
+6. Optional analytics: create a GA4 property, put the `G-XXXX` ID in `site.config.json → analytics.ga4MeasurementId`. No tracking loads until you do, and the cookie policy already describes this.
 
 ## 5. Email list (optional, later)
 
