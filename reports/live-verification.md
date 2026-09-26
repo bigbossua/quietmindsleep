@@ -1,11 +1,11 @@
-# Live verification — https://quietmindsleep.co.uk — 2026-09-26T08:17:15.670Z
+# Live verification — https://quietmindsleep.co.uk — 2026-09-26T10:20:29.821Z
 
 | Check | Result | Detail |
 |---|---|---|
 | http → https redirect | ✅ | status 301 location https://quietmindsleep.co.uk/ |
-| www → non-www redirect | ❌ | status ERR location undefined |
+| www → non-www redirect | ❌ | status ERR error fetch failed (ERR_TLS_CERT_ALTNAME_INVALID) |
 | homepage 200 over HTTPS | ✅ | status 200 |
-| homepage is the Quiet Mind Sleep build | ✅ | unexpected HTML (old site or parking page?) |
+| homepage is the Quiet Mind Sleep build | ✅ | site name and stylesheet found |
 | asset /robots.txt | ✅ | status 200 |
 | asset /sitemap.xml | ✅ | status 200 |
 | asset /search-index.json | ✅ | status 200 |
@@ -27,13 +27,4 @@
 | search page loads | ✅ | status 200 |
 
 ## Failures
-- www → non-www redirect — status ERR location undefined
-
-
-## Runner facts (GitHub Actions run 36229265008)
-
-- DNS A (apex): 212.1.212.3, 191.101.104.99
-- DNS www: CNAME www.quietmindsleep.co.uk.cdn.hstgr.net
-- TLS certificate: CN=quietmindsleep.co.uk only, issuer Let's Encrypt, valid 25 Sep 2026 → 24 Dec 2026 (no `www` SAN)
-- https://www.quietmindsleep.co.uk: `curl: (60) SSL: no alternative certificate subject name matches target host name` — the only failing check; fix is a Hostinger SSL reissue covering `www` (see docs/owner-actions.md §3)
-- Live HTML last-modified 25 Sep 2026 17:20 UTC = deploy of commit fd5fc54; commits since then (dead-link fixes, docs) are built on the `hostinger` branch but not yet on the server because the SSH deploy secrets are not set
+- www → non-www redirect — status ERR error fetch failed (ERR_TLS_CERT_ALTNAME_INVALID)

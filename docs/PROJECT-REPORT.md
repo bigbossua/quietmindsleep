@@ -1,6 +1,6 @@
 # Quiet Mind Sleep — MASTER STATUS
 
-**The single source of truth for this project.** Last reconciled: **2026-09-26 ~11:00 UTC** by the master Claude Code session on the owner's PC (repository `C:\Users\ukrai\Downloads\quietmindsleep`).
+**The single source of truth for this project.** Last reconciled: **2026-09-26 10:25 UTC** by the master Claude Code session on the owner's PC (repository `C:\Users\ukrai\Downloads\quietmindsleep`).
 
 How this file is kept true:
 - It consolidates every Quiet Mind Sleep workstream: the cloud build/architecture session, the "Amazon Associates UK integration" desktop session, the "Launch ops: SSL, Search Console, Associates" desktop session, and this master session.
@@ -12,24 +12,23 @@ How this file is kept true:
 
 ## MASTER STATUS
 
-**The site is LIVE and healthy on the apex domain. Three launch items are still open:**
+**The site is LIVE and healthy on the apex domain, serving the current `main` build (`c7a045c`, redeployed 26 Sep 10:15 UTC). Two launch items are still open:**
 1. `www` TLS.
 2. CI deploy secrets.
-3. Redeploying `main`: the live build is one content fix behind.
 
 Semrush validation is still blocked on API units.
 
 | Area | State | Evidence |
 |---|---|---|
-| Live site `https://quietmindsleep.co.uk` | ✅ LIVE | Local verify-live run 26 Sep ~10:55 UTC: 22/23. CI verify-live run `36230810632` 26 Sep 08:48 UTC: 22/23 (`live-reports/verify.log`). |
-| Build deployed on the server | ⚠️ `fd5fc54` (25 Sep 17:20, manual SSH deploy) | Server docroot timestamps are 25 Sep 17:20. `main` is at `c7a045c`. |
+| Live site `https://quietmindsleep.co.uk` | ✅ LIVE | Local verify-live run after the redeploy, 26 Sep 10:20 UTC: 22/23 (`reports/live-verification.md`). CI verify-live run `36230810632` 26 Sep 08:48 UTC: 22/23 (`live-reports/verify.log`). |
+| Build deployed on the server | ✅ `c7a045c` (26 Sep 10:15 UTC, manual SSH deploy approved by the owner) | Server `.deploy-info`: `source=c7a045c…`, 154 files. The previous docroot (`fd5fc54`) is backed up on the server at `~/qms-backups/public_html-20260926T101506Z.tar.gz`. |
 | Build on `main` / `hostinger` branch | ✅ `c7a045c` built and audited by CI | Build and deploy run `36230808962`: build ✅, deploy-ssh skipped, verify skipped. |
 | `https://www.` | ❌ TLS fails; certificate covers the apex only | openssl, 26 Sep 09:29 UTC: `CN=quietmindsleep.co.uk`, SAN `DNS:quietmindsleep.co.uk` only, Let's Encrypt YE2, valid 25 Sep–24 Dec 2026. Node: `ERR_TLS_CERT_ALTNAME_INVALID`. |
 | GitHub Actions auto-deploy | ❌ secrets not set | Every run so far shows `deploy-ssh: skipped`. |
 | Search Console | ✅ verified, sitemap accepted, indexing requested | Launch-ops desktop session, 25–26 Sep. |
 | Amazon Associates | ✅ complete | Commit `fd5fc54`; `reports/amazon-status.md`; the live check shows tagged `/dp/` links. |
-| Semrush | ❌ `no_api_units` (re-tested 26 Sep ~11:00 UTC) | All 440 keyword rows are `draft-pending-validation`. |
-| External source links | ✅ in the repo; ⚠️ 3 dead links still on the live site | Link check run `36212510468`: 191×200, 13×403 (bot-blocked), 0 dead. The fixes (`3ea0f71`) are not deployed yet, so 4 live articles still carry the old dead URLs. |
+| Semrush | ❌ `no_api_units` (re-tested 26 Sep ~10:00 UTC) | All 440 keyword rows are `draft-pending-validation`. |
+| External source links | ✅ 0 dead, in the repo and live | Link check run `36212510468`: 191×200, 13×403 (bot-blocked), 0 dead. The fixes (`3ea0f71`) went live with the 26 Sep redeploy; none of the 4 affected articles carries the old URLs any more (checked 10:20 UTC). |
 
 ---
 
@@ -59,6 +58,11 @@ Each item: date — what — evidence.
 - 25 Sep 17:20 — First production deploy of `fd5fc54`, over SSH from the owner's PC with the `quietmindsleep-deploy` key and the owner's approval. Commit `78f9c22`.
 - 25–26 Sep — Independent CI verification: 22/23 at 18:14, 08:17 and 08:48 UTC. The only failure is the `www` TLS check.
 - 26 Sep — CI names each missing deploy secret in the run summary (presence only). Commit `e984e88`.
+- 26 Sep 10:15 UTC — Production redeployed to `c7a045c` (the current `main` build, from the `hostinger` branch), with the owner's approval. This was the same tar-over-SSH procedure with the workflow's overwrite guard:
+  - the server's top-level entries matched the build exactly;
+  - the old docroot was backed up to `~/qms-backups/` first;
+  - 154 files were deployed;
+  - verified afterwards: 22/23, and the dead links are gone.
 - 26 Sep — `verify-live.mjs` reporting fix (branch `launch-ops`):
   - the www failure now shows the TLS error code;
   - the homepage check no longer prints "unexpected HTML" when it passes.
@@ -100,17 +104,12 @@ Each item: date — what — evidence.
 
 - **www SSL reissue in hPanel.** The launch-ops desktop session is doing this; it is not being redone here in parallel. Its certificate SANs and redirect result are pending.
 - **Associates report reading** (clicks, orders, earnings for `kleantouch-21`). The launch-ops desktop session is doing this; its numbers are pending.
-- **Master session:** re-checking `www` periodically, and waiting on GitHub access or deploy approval (see NEXT ACTIONS).
+- **Master session:** a background check on this PC polls the `www` certificate every 5 minutes. When `www` is covered, it alerts this session, which then re-runs verification. It is also waiting on GitHub access for the secrets.
 
 ---
 
 ## REMAINING
 
-- Redeploy `main` (`c7a045c`) to production so the 3 dead-link fixes go live on:
-  - `falling-asleep/cant-sleep-before-a-big-day`
-  - `falling-asleep/things-to-do-before-bed`
-  - `quiet-the-mind/how-to-calm-your-mind-before-bed`
-  - `waking-at-night/waking-up-in-the-middle-of-the-night`
 - After the www certificate is reissued: re-run `verify-live.yml` and expect 23/23.
 - A person should open the 13 bot-blocked (403) source URLs once. They are listed in `reports/writer-notes.md`.
 - Mailbox `hello@quietmindsleep.co.uk`: no MX record was found on 26 Sep. Either create the mailbox or change `contactEmail` in `site.config.json`.
@@ -128,8 +127,7 @@ Each item: date — what — evidence.
 
 | Blocker | Blocks | Needs |
 |---|---|---|
-| GitHub Actions secrets `SSH_HOST`, `SSH_USER`, `SSH_PORT`, `SSH_PRIVATE_KEY` not set | Auto-deploy on push, and CI redeploy of `main` | The owner adds them in GitHub → Settings → Secrets and variables → Actions (values from hPanel SSH Access; the key file stays on the owner's PC). Alternatively, install `gh` on this PC and run `gh auth login`; Claude then sets the three non-key values. This PC has no `gh`, and the Claude in Chrome extension refuses github.com. |
-| Production write approval | A manual SSH redeploy of the `hostinger` branch (the same procedure as 25 Sep) | An explicit "yes, redeploy" from the owner. SSH access from this PC was confirmed read-only on 26 Sep. |
+| GitHub Actions secrets `SSH_HOST`, `SSH_USER`, `SSH_PORT`, `SSH_PRIVATE_KEY` not set | Auto-deploy on push. Until then, every production update is a manual SSH deploy that needs the owner's approval. | The owner adds them in GitHub → Settings → Secrets and variables → Actions (values from hPanel SSH Access; the key file stays on the owner's PC). Alternatively, install `gh` on this PC and run `gh auth login`; Claude then sets the three non-key values. This PC has no `gh`, and the Claude in Chrome extension refuses github.com. |
 | `www` certificate | The www → non-www redirect over HTTPS (the one failing live check) | hPanel → Security → SSL reissue including `www`, then Force HTTPS. The launch-ops session is on it. |
 | Semrush API units | All keyword validation and research | The owner buys units at https://www.semrush.com/mcp-access. Re-tested 26 Sep: `no_api_units`. Do not buy units without the owner. |
 
@@ -137,7 +135,7 @@ Each item: date — what — evidence.
 
 ## DEPLOYMENT STATUS
 
-- **Production:** Hostinger shared plan, `domains/quietmindsleep.co.uk/public_html`. It serves the `fd5fc54` build, deployed manually over SSH on 25 Sep 17:20.
+- **Production:** Hostinger shared plan, `domains/quietmindsleep.co.uk/public_html`. It serves the `c7a045c` build (= `main`), deployed manually over SSH on 26 Sep 10:15 UTC; see `.deploy-info` in the docroot. The previous deploy was `fd5fc54` on 25 Sep 17:20; its backup is in `~/qms-backups/` on the server.
 - **Pipeline:** each push to `main` goes through `build-deploy.yml`:
   1. `build`: npm ci, build, audit, linkmap, register;
   2. publish to the `hostinger` branch (currently `baed820` = `c7a045c`);
@@ -151,7 +149,8 @@ Each item: date — what — evidence.
   - Build and deploy `36230808962`: success, deploy skipped.
   - Verify live site `36230810632`: failure, 22/23, www only.
   - No runs since 08:48 UTC on 26 Sep.
-- **Drift between `fd5fc54` and `c7a045c`:** 4 article source-link fixes, plus CI/docs changes. No product, tag or template change.
+  - Plus a local verify-live run on 26 Sep 10:20 UTC after the redeploy: 22/23, www only.
+- **Drift:** none. Live = `main` = `c7a045c`. The `launch-ops` branch changes only docs and the verify script, so it needs no redeploy.
 
 ## SEO STATUS
 
@@ -233,8 +232,8 @@ Each item: date — what — evidence.
 | 2 | Report the www certificate SANs and redirect result after the reissue | launch-ops session → master | pending |
 | 3 | Read Associates clicks/orders/earnings for `kleantouch-21` | launch-ops session → master | pending |
 | 4 | Set the GitHub secrets `SSH_HOST`, `SSH_USER`, `SSH_PORT`, `SSH_PRIVATE_KEY` | owner (or owner installs `gh` + `gh auth login`, then Claude sets the three non-key values) | blocked |
-| 5 | Redeploy `main`: either CI (`gh workflow run build-deploy.yml --ref main`) after #4, or a manual SSH redeploy of the `hostinger` branch with the owner's approval | master session | waiting on #4 or approval |
-| 6 | Run `verify-live.yml`, target 23/23 | master session | after #1 and #5 |
+| 5 | Redeploy `main` (`c7a045c`) to production | master session | **done** 26 Sep 10:15 UTC (manual SSH, owner-approved). After #4, trigger `gh workflow run build-deploy.yml --ref main` once to prove the CI route. |
+| 6 | Run `verify-live.yml`, target 23/23 | master session | after #1 |
 | 7 | Merge `launch-ops` into `main` (this status doc + the verify-live reporting fix) | owner approval | ready |
 | 8 | Open the 13 bot-blocked source URLs once (`reports/writer-notes.md`) | owner or a browser session | open |
 | 9 | Create the `hello@` mailbox or change `contactEmail` | owner | open |
