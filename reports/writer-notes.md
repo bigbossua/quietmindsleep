@@ -20,3 +20,7 @@ Bone-conduction headphones; custom-moulded earplugs; latex/down/microfibre/body/
 - The relaxation pillar has 15 body links (it deliberately links every technique).
 - `guided-relaxation-for-sleep` says the site intends to add its own recordings in future.
 - Hearing-risk threshold (~85 dB sustained) stated without a page-level citation in the all-night white noise article; NHS hearing-loss page is in its sources.
+
+## External link audit — 26 September 2026 (CI run on GitHub Actions)
+
+204 external URLs checked from the runner: **191 returned 200, 0 dead**. Three dead links found in the first run were replaced with verified URLs (Mental Health Foundation top-level page ×2, Sleep Foundation alcohol-and-sleep, Sleep Foundation CBT-I). The remaining 13 return 403 to automated clients even with browser headers and should be opened once by a person (all are long-standing pages): NICE CKS insomnia; Mind sleep-problems, anxiety-and-panic-attacks and relaxation pages; CDC sleep; Lullaby Trust; academic.oup.com/sleep; and six DOI links (10.1111/nyas.13996, 10.1001/jamainternmed.2014.8081, 10.1111/jsr.12594, 10.5665/sleep.4010, 10.1093/sleep/29.11.1398, 10.1542/peds.2013-3617). The check now runs monthly (`.github/workflows/check-links.yml`) and publishes `external-links.csv` to the `link-reports` branch.
