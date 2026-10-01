@@ -1,0 +1,4439 @@
+{
+ "falling-asleep/bedtime-routine-for-adults": {
+  "title": "A Bedtime Routine for Adults That You'll Actually Keep",
+  "url": "/falling-asleep/bedtime-routine-for-adults/",
+  "hub": "falling-asleep",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "bedtime routine for adults",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2183,
+  "outgoing": [
+   "falling-asleep",
+   "quiet-the-mind/worry-list-before-bed",
+   "sleep-habits/screens-before-bed",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "sleep-products/weighted-blankets-guide",
+   "sleep-habits/consistent-sleep-schedule",
+   "falling-asleep/difficulty-falling-asleep",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "falling-asleep/things-to-do-before-bed",
+   "quiet-the-mind/how-to-calm-your-mind-before-bed",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [
+   "silk-sleep-mask",
+   "weighted-blanket"
+  ],
+  "affiliateCategories": [
+   "sleep-mask",
+   "weighted-blanket"
+  ],
+  "readNext": [
+   "falling-asleep/things-to-do-before-bed",
+   "quiet-the-mind/how-to-calm-your-mind-before-bed",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/weighted-blankets-guide",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.sleepfoundation.org/sleep-hygiene",
+   "https://thesleepcharity.org.uk/",
+   null
+  ]
+ },
+ "falling-asleep/cant-sleep-before-a-big-day": {
+  "title": "Can't Sleep the Night Before an Important Day? Here's What Helps",
+  "url": "/falling-asleep/cant-sleep-before-a-big-day/",
+  "hub": "falling-asleep",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "can't sleep before a big day",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1422,
+  "outgoing": [
+   "falling-asleep",
+   "quiet-the-mind/sleep-anxiety",
+   "quiet-the-mind/worry-list-before-bed",
+   "relaxation/breathing-exercises-for-sleep",
+   "falling-asleep/military-sleep-method",
+   "falling-asleep/what-to-do-when-you-cant-sleep",
+   "sleep-questions/can-you-catch-up-on-sleep",
+   "quiet-the-mind/anxiety-at-night",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [
+   "silk-sleep-mask"
+  ],
+  "affiliateCategories": [
+   "sleep-mask"
+  ],
+  "readNext": [
+   "quiet-the-mind/sleep-anxiety",
+   "falling-asleep/what-to-do-when-you-cant-sleep",
+   "quiet-the-mind/anxiety-at-night"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.mentalhealth.org.uk/",
+   "https://www.sleepfoundation.org/sleep-hygiene"
+  ]
+ },
+ "falling-asleep/difficulty-falling-asleep": {
+  "title": "Difficulty Falling Asleep: Common Causes and What Helps",
+  "url": "/falling-asleep/difficulty-falling-asleep/",
+  "hub": "falling-asleep",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "difficulty falling asleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1929,
+  "outgoing": [
+   "falling-asleep/how-to-fall-asleep-faster",
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "sleep-questions/why-am-i-tired-but-cant-sleep",
+   "quiet-the-mind/anxiety-at-night",
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-environment/bedroom-setup-for-better-sleep",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "falling-asleep",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "falling-asleep/how-to-fall-asleep-faster",
+   "sleep-questions/why-am-i-tired-but-cant-sleep",
+   "sleep-habits/how-to-fix-your-sleep-schedule"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://cks.nice.org.uk/topics/insomnia/",
+   "https://www.mind.org.uk/information-support/types-of-mental-health-problems/sleep-problems/",
+   null
+  ]
+ },
+ "falling-asleep/how-long-should-it-take-to-fall-asleep": {
+  "title": "How Long Should It Take to Fall Asleep?",
+  "url": "/falling-asleep/how-long-should-it-take-to-fall-asleep/",
+  "hub": "falling-asleep",
+  "role": "supporting",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "how long should it take to fall asleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1027,
+  "outgoing": [
+   "falling-asleep",
+   "sleep-questions/how-much-sleep-do-adults-need",
+   "falling-asleep/difficulty-falling-asleep",
+   "falling-asleep/how-to-fall-asleep-faster",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "falling-asleep/how-to-sleep-when-not-tired",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "falling-asleep/difficulty-falling-asleep",
+   "sleep-questions/how-much-sleep-do-adults-need",
+   "falling-asleep/how-to-sleep-when-not-tired"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.sleepfoundation.org/sleep-faqs/how-long-should-it-take-to-fall-asleep",
+   "https://www.nhs.uk/conditions/insomnia/",
+   null
+  ]
+ },
+ "falling-asleep/how-to-fall-asleep-faster": {
+  "title": "How to Fall Asleep Faster: What Actually Helps",
+  "url": "/falling-asleep/how-to-fall-asleep-faster/",
+  "hub": "falling-asleep",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "how to fall asleep faster",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2585,
+  "outgoing": [
+   "falling-asleep",
+   "sleep-habits/caffeine-and-sleep",
+   "relaxation/breathing-exercises-for-sleep",
+   "falling-asleep/what-to-do-when-you-cant-sleep",
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-products/best-sleep-masks-uk",
+   "falling-asleep/military-sleep-method",
+   "quiet-the-mind/racing-thoughts-at-night",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "quiet-the-mind/cant-switch-off-at-night",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [
+   "contoured-sleep-mask",
+   "fan-based-white-noise-machine"
+  ],
+  "affiliateCategories": [
+   "sleep-mask",
+   "white-noise"
+  ],
+  "readNext": [
+   "falling-asleep/what-to-do-when-you-cant-sleep",
+   "quiet-the-mind/cant-switch-off-at-night",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://cks.nice.org.uk/topics/insomnia/",
+   "https://www.sleepfoundation.org/sleep-hygiene",
+   null
+  ]
+ },
+ "falling-asleep/how-to-sleep-when-not-tired": {
+  "title": "How to Sleep When You're Not Tired",
+  "url": "/falling-asleep/how-to-sleep-when-not-tired/",
+  "hub": "falling-asleep",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "how to sleep when not tired",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1257,
+  "outgoing": [
+   "falling-asleep",
+   "sleep-questions/why-do-i-get-a-second-wind-at-night",
+   "sleep-environment/bedroom-lighting-for-sleep",
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "sleep-habits/napping-and-night-sleep",
+   "falling-asleep/how-long-should-it-take-to-fall-asleep",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-questions/why-am-i-tired-but-cant-sleep",
+   "falling-asleep/what-to-do-when-you-cant-sleep",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-questions/why-am-i-tired-but-cant-sleep",
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "falling-asleep/what-to-do-when-you-cant-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.cdc.gov/sleep/",
+   "https://www.sleepfoundation.org/sleep-hygiene"
+  ]
+ },
+ "falling-asleep/military-sleep-method": {
+  "title": "The Military Sleep Method: Does It Really Work?",
+  "url": "/falling-asleep/military-sleep-method/",
+  "hub": "falling-asleep",
+  "role": "supporting",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "military sleep method",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1397,
+  "outgoing": [
+   "falling-asleep",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "quiet-the-mind/cognitive-shuffling",
+   "falling-asleep/how-to-fall-asleep-faster",
+   "relaxation/breathing-exercises-for-sleep",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "falling-asleep/how-to-fall-asleep-faster",
+   "quiet-the-mind/cognitive-shuffling"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   null,
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.sleepfoundation.org/sleep-hygiene"
+  ]
+ },
+ "falling-asleep/things-to-do-before-bed": {
+  "title": "15 Things to Do Before Bed for a Calmer Night",
+  "url": "/falling-asleep/things-to-do-before-bed/",
+  "hub": "falling-asleep",
+  "role": "supporting",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "things to do before bed",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1646,
+  "outgoing": [
+   "falling-asleep/bedtime-routine-for-adults",
+   "relaxation/bedtime-stretches",
+   "sleep-questions/does-reading-before-bed-help-you-sleep",
+   "relaxation/guided-relaxation-for-sleep",
+   "sleep-habits/eating-before-bed",
+   "falling-asleep",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "relaxation/bedtime-relaxation-techniques",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [
+   "headband-sleep-headphones"
+  ],
+  "affiliateCategories": [
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "falling-asleep/bedtime-routine-for-adults",
+   "relaxation/bedtime-relaxation-techniques",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.sleepfoundation.org/sleep-hygiene",
+   "https://www.sleepfoundation.org/nutrition/alcohol-and-sleep",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/"
+  ]
+ },
+ "falling-asleep/what-to-do-when-you-cant-sleep": {
+  "title": "What to Do When You Can't Sleep: A Calm Step-by-Step Plan",
+  "url": "/falling-asleep/what-to-do-when-you-cant-sleep/",
+  "hub": "falling-asleep",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "what to do when you can't sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2125,
+  "outgoing": [
+   "falling-asleep",
+   "relaxation/body-scan-for-sleep",
+   "quiet-the-mind/racing-thoughts-at-night",
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-sounds/calming-sounds-for-anxiety-at-night",
+   "sleep-questions/can-you-catch-up-on-sleep",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "waking-at-night/cant-get-back-to-sleep",
+   "quiet-the-mind/sleep-anxiety",
+   "falling-asleep/how-to-fall-asleep-faster",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [
+   "headband-sleep-headphones"
+  ],
+  "affiliateCategories": [
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "waking-at-night/cant-get-back-to-sleep",
+   "quiet-the-mind/sleep-anxiety",
+   "falling-asleep/how-to-fall-asleep-faster"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://cks.nice.org.uk/topics/insomnia/",
+   "https://www.sleepfoundation.org/sleep-hygiene",
+   null
+  ]
+ },
+ "quiet-the-mind/anxiety-at-night": {
+  "title": "Anxiety at Night: Why Worries Feel Worse at Bedtime",
+  "url": "/quiet-the-mind/anxiety-at-night/",
+  "hub": "quiet-the-mind",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "anxiety at night",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1898,
+  "outgoing": [
+   "waking-at-night/waking-up-with-anxiety",
+   "relaxation/breathing-exercises-for-sleep",
+   "quiet-the-mind/worry-list-before-bed",
+   "quiet-the-mind/racing-thoughts-at-night",
+   "sleep-habits/caffeine-and-sleep",
+   "quiet-the-mind/sleep-anxiety",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "quiet-the-mind",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "quiet-the-mind/sleep-anxiety",
+   "waking-at-night/waking-up-with-anxiety",
+   "relaxation/breathing-exercises-for-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-health-issues/anxiety/",
+   "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-and-panic-attacks/",
+   "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/",
+   "https://www.sleepfoundation.org/mental-health/anxiety-and-sleep"
+  ]
+ },
+ "quiet-the-mind/cant-switch-off-at-night": {
+  "title": "Can't Switch Off at Night? Why Your Brain Won't Shut Down and What Helps",
+  "url": "/quiet-the-mind/cant-switch-off-at-night/",
+  "hub": "quiet-the-mind",
+  "role": "informational",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "can't switch off at night",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1630,
+  "outgoing": [
+   "sleep-habits/screens-before-bed",
+   "sleep-questions/why-am-i-tired-but-cant-sleep",
+   "quiet-the-mind/worry-list-before-bed",
+   "relaxation",
+   "sleep-sounds/white-noise-for-sleep",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "quiet-the-mind",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "quiet-the-mind/how-to-calm-your-mind-before-bed",
+   "falling-asleep/bedtime-routine-for-adults",
+   "sleep-sounds/brown-noise-for-sleep",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "products": [
+   "fan-based-white-noise-machine"
+  ],
+  "affiliateCategories": [
+   "white-noise"
+  ],
+  "readNext": [
+   "quiet-the-mind/how-to-calm-your-mind-before-bed",
+   "falling-asleep/bedtime-routine-for-adults",
+   "sleep-sounds/brown-noise-for-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/sleep-hygiene"
+  ]
+ },
+ "quiet-the-mind/cognitive-shuffling": {
+  "title": "Cognitive Shuffling: A Simple Technique for Quieting Your Thoughts at Bedtime",
+  "url": "/quiet-the-mind/cognitive-shuffling/",
+  "hub": "quiet-the-mind",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "cognitive shuffling",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1267,
+  "outgoing": [
+   "quiet-the-mind/racing-thoughts-at-night",
+   "quiet-the-mind/worry-list-before-bed",
+   "falling-asleep/military-sleep-method",
+   "relaxation/body-scan-for-sleep",
+   "quiet-the-mind",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "quiet-the-mind/how-to-stop-overthinking-at-night",
+   "relaxation/breathing-exercises-for-sleep",
+   "falling-asleep/how-to-fall-asleep-faster",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "quiet-the-mind/how-to-stop-overthinking-at-night",
+   "relaxation/breathing-exercises-for-sleep",
+   "falling-asleep/how-to-fall-asleep-faster"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.mind.org.uk/information-support/types-of-mental-health-problems/sleep-problems/"
+  ]
+ },
+ "quiet-the-mind/how-to-calm-your-mind-before-bed": {
+  "title": "How to Calm Your Mind Before Bed: A Simple Evening Approach",
+  "url": "/quiet-the-mind/how-to-calm-your-mind-before-bed/",
+  "hub": "quiet-the-mind",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "how to calm your mind before bed",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1929,
+  "outgoing": [
+   "quiet-the-mind/worry-list-before-bed",
+   "sleep-environment/bedroom-lighting-for-sleep",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "sleep-questions/does-reading-before-bed-help-you-sleep",
+   "sleep-sounds/rain-sounds-for-sleep",
+   "sleep-products/weighted-blankets-guide",
+   "sleep-products/best-sleep-headphones-uk",
+   "quiet-the-mind",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "relaxation/bedtime-relaxation-techniques",
+   "quiet-the-mind/cant-switch-off-at-night",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [
+   "headband-sleep-headphones",
+   "weighted-blanket"
+  ],
+  "affiliateCategories": [
+   "sleep-headphones",
+   "weighted-blanket"
+  ],
+  "readNext": [
+   "relaxation/bedtime-relaxation-techniques",
+   "quiet-the-mind/cant-switch-off-at-night",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/sleep-hygiene",
+   "https://www.mentalhealth.org.uk/"
+  ]
+ },
+ "quiet-the-mind/how-to-stop-overthinking-at-night": {
+  "title": "How to Stop Overthinking at Night",
+  "url": "/quiet-the-mind/how-to-stop-overthinking-at-night/",
+  "hub": "quiet-the-mind",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "how to stop overthinking at night",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1990,
+  "outgoing": [
+   "quiet-the-mind/racing-thoughts-at-night",
+   "quiet-the-mind/worry-list-before-bed",
+   "quiet-the-mind/cognitive-shuffling",
+   "sleep-sounds/calming-sounds-for-anxiety-at-night",
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "sleep-products/best-sleep-headphones-uk",
+   "quiet-the-mind/sleep-anxiety",
+   "quiet-the-mind",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [
+   "headband-sleep-headphones",
+   "sleep-earbuds"
+  ],
+  "affiliateCategories": [
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "quiet-the-mind/racing-thoughts-at-night",
+   "quiet-the-mind/sleep-anxiety",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.mind.org.uk/information-support/types-of-mental-health-problems/sleep-problems/",
+   "https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia"
+  ]
+ },
+ "quiet-the-mind/racing-thoughts-at-night": {
+  "title": "Racing Thoughts at Night: Why It Happens and How to Calm Them",
+  "url": "/quiet-the-mind/racing-thoughts-at-night/",
+  "hub": "quiet-the-mind",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "racing thoughts at night",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2399,
+  "outgoing": [
+   "quiet-the-mind/cognitive-shuffling",
+   "relaxation/breathing-exercises-for-sleep",
+   "sleep-sounds/brown-noise-for-sleep",
+   "quiet-the-mind/worry-list-before-bed",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "quiet-the-mind",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "quiet-the-mind/anxiety-at-night",
+   "quiet-the-mind/how-to-stop-overthinking-at-night",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [
+   "digital-sound-machine",
+   "headband-sleep-headphones"
+  ],
+  "affiliateCategories": [
+   "white-noise",
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "quiet-the-mind/how-to-stop-overthinking-at-night",
+   "relaxation/breathing-exercises-for-sleep",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://cks.nice.org.uk/topics/insomnia/",
+   "https://www.mind.org.uk/information-support/types-of-mental-health-problems/sleep-problems/"
+  ]
+ },
+ "quiet-the-mind/sleep-anxiety": {
+  "title": "Sleep Anxiety: When Worrying About Sleep Is What Keeps You Awake",
+  "url": "/quiet-the-mind/sleep-anxiety/",
+  "hub": "quiet-the-mind",
+  "role": "supporting",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "sleep anxiety",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1609,
+  "outgoing": [
+   "falling-asleep/cant-sleep-before-a-big-day",
+   "sleep-questions/how-much-sleep-do-adults-need",
+   "relaxation/mindfulness-for-sleep",
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "quiet-the-mind/anxiety-at-night",
+   "quiet-the-mind",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "quiet-the-mind/anxiety-at-night",
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "relaxation/mindfulness-for-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://cks.nice.org.uk/topics/insomnia/",
+   "https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia",
+   "https://www.mind.org.uk/information-support/types-of-mental-health-problems/sleep-problems/"
+  ]
+ },
+ "quiet-the-mind/sunday-night-insomnia": {
+  "title": "Why You Can't Sleep on Sunday Night (and How to Fix It)",
+  "url": "/quiet-the-mind/sunday-night-insomnia/",
+  "hub": "quiet-the-mind",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "can't sleep on sunday night",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1299,
+  "outgoing": [
+   "quiet-the-mind/anxiety-at-night",
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-habits/napping-and-night-sleep",
+   "sleep-habits/alcohol-and-sleep",
+   "quiet-the-mind/worry-list-before-bed",
+   "falling-asleep/cant-sleep-before-a-big-day",
+   "quiet-the-mind",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-habits/consistent-sleep-schedule",
+   "quiet-the-mind/anxiety-at-night",
+   "falling-asleep/cant-sleep-before-a-big-day"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.sleepfoundation.org/circadian-rhythm"
+  ]
+ },
+ "quiet-the-mind/worry-list-before-bed": {
+  "title": "Writing a Worry List Before Bed: How 'Constructive Worry' Works",
+  "url": "/quiet-the-mind/worry-list-before-bed/",
+  "hub": "quiet-the-mind",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "worry list before bed",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1268,
+  "outgoing": [
+   "falling-asleep/bedtime-routine-for-adults",
+   "quiet-the-mind/cognitive-shuffling",
+   "quiet-the-mind/how-to-stop-overthinking-at-night",
+   "quiet-the-mind/sleep-anxiety",
+   "quiet-the-mind",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "quiet-the-mind/racing-thoughts-at-night",
+   "falling-asleep/things-to-do-before-bed",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "quiet-the-mind/racing-thoughts-at-night",
+   "quiet-the-mind/cognitive-shuffling",
+   "falling-asleep/things-to-do-before-bed"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/"
+  ]
+ },
+ "relaxation/4-7-8-breathing": {
+  "title": "4-7-8 Breathing for Sleep: How to Do It and What to Expect",
+  "url": "/relaxation/4-7-8-breathing/",
+  "hub": "relaxation",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "4-7-8 breathing",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1276,
+  "outgoing": [
+   "relaxation/breathing-exercises-for-sleep",
+   "quiet-the-mind/cognitive-shuffling",
+   "waking-at-night/cant-get-back-to-sleep",
+   "quiet-the-mind/anxiety-at-night",
+   "relaxation/box-breathing",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "relaxation",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "falling-asleep/how-to-fall-asleep-faster",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "relaxation/breathing-exercises-for-sleep",
+   "relaxation/box-breathing",
+   "falling-asleep/how-to-fall-asleep-faster"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "sources": [
+   "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+   "https://doi.org/10.3389/fnhum.2018.00353",
+   "https://www.nhs.uk/conditions/insomnia/"
+  ]
+ },
+ "relaxation/bedtime-meditation-for-sleep": {
+  "title": "Bedtime Meditation for Sleep: A Beginner's Guide",
+  "url": "/relaxation/bedtime-meditation-for-sleep/",
+  "hub": "relaxation",
+  "role": "informational",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "bedtime meditation",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1797,
+  "outgoing": [
+   "relaxation/mindfulness-for-sleep",
+   "relaxation/body-scan-for-sleep",
+   "quiet-the-mind/how-to-calm-your-mind-before-bed",
+   "sleep-products/best-sleep-headphones-uk",
+   "relaxation/guided-relaxation-for-sleep",
+   "falling-asleep/bedtime-routine-for-adults",
+   "relaxation",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "products": [
+   "headband-sleep-headphones",
+   "sleep-earbuds"
+  ],
+  "affiliateCategories": [
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "relaxation/mindfulness-for-sleep",
+   "relaxation/body-scan-for-sleep",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "sources": [
+   "https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/",
+   "https://doi.org/10.1111/nyas.13996",
+   "https://doi.org/10.1001/jamainternmed.2014.8081",
+   "https://www.nhs.uk/conditions/insomnia/"
+  ]
+ },
+ "relaxation/bedtime-relaxation-techniques": {
+  "title": "Bedtime Relaxation Techniques: Which Ones Work and How to Choose",
+  "url": "/relaxation/bedtime-relaxation-techniques/",
+  "hub": "relaxation",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "bedtime relaxation techniques",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2364,
+  "outgoing": [
+   "relaxation",
+   "falling-asleep/what-to-do-when-you-cant-sleep",
+   "relaxation/breathing-exercises-for-sleep",
+   "relaxation/4-7-8-breathing",
+   "relaxation/box-breathing",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "relaxation/body-scan-for-sleep",
+   "relaxation/bedtime-meditation-for-sleep",
+   "relaxation/mindfulness-for-sleep",
+   "falling-asleep/military-sleep-method",
+   "relaxation/guided-relaxation-for-sleep",
+   "relaxation/yoga-nidra-for-sleep",
+   "relaxation/bedtime-stretches",
+   "sleep-products/weighted-blankets-guide",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan"
+  ],
+  "products": [
+   "weighted-blanket",
+   "headband-sleep-headphones"
+  ],
+  "affiliateCategories": [
+   "weighted-blanket",
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "relaxation/breathing-exercises-for-sleep",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "commercial": [
+   "sleep-products/weighted-blankets-guide",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://doi.org/10.1111/jsr.12594",
+   "https://www.sleepfoundation.org/sleep-hygiene/relaxation-exercises-to-help-fall-asleep",
+   "https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/"
+  ]
+ },
+ "relaxation/bedtime-stretches": {
+  "title": "Gentle Bedtime Stretches to Help You Unwind",
+  "url": "/relaxation/bedtime-stretches/",
+  "hub": "relaxation",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "bedtime stretches",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1284,
+  "outgoing": [
+   "sleep-environment/bedroom-lighting-for-sleep",
+   "sleep-habits/exercise-and-sleep",
+   "relaxation/breathing-exercises-for-sleep",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "falling-asleep/bedtime-routine-for-adults",
+   "relaxation",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "relaxation/breathing-exercises-for-sleep",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "sleep-habits/exercise-and-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/exercise/flexibility-exercises/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.sleepfoundation.org/sleep-hygiene/relaxation-exercises-to-help-fall-asleep"
+  ]
+ },
+ "relaxation/body-scan-for-sleep": {
+  "title": "Body Scan for Sleep: How to Do It (With a Simple Script)",
+  "url": "/relaxation/body-scan-for-sleep/",
+  "hub": "relaxation",
+  "role": "supporting",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "body scan for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1397,
+  "outgoing": [
+   "relaxation",
+   "waking-at-night/cant-get-back-to-sleep",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "relaxation/mindfulness-for-sleep",
+   "relaxation/guided-relaxation-for-sleep",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "relaxation/bedtime-meditation-for-sleep",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "relaxation/bedtime-meditation-for-sleep",
+   "waking-at-night/cant-get-back-to-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "sources": [
+   "https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/",
+   "https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/",
+   "https://www.nhs.uk/conditions/insomnia/"
+  ]
+ },
+ "relaxation/box-breathing": {
+  "title": "Box Breathing for Sleep and Stress: The 4-4-4-4 Method",
+  "url": "/relaxation/box-breathing/",
+  "hub": "relaxation",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "box breathing",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1084,
+  "outgoing": [
+   "quiet-the-mind/anxiety-at-night",
+   "relaxation/4-7-8-breathing",
+   "relaxation/breathing-exercises-for-sleep",
+   "falling-asleep/cant-sleep-before-a-big-day",
+   "relaxation",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "relaxation/4-7-8-breathing",
+   "relaxation/breathing-exercises-for-sleep",
+   "quiet-the-mind/anxiety-at-night"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "sources": [
+   "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+   "https://doi.org/10.3389/fnhum.2018.00353",
+   "https://www.nhs.uk/conditions/insomnia/"
+  ]
+ },
+ "relaxation/breathing-exercises-for-sleep": {
+  "title": "Breathing Exercises for Sleep: 5 Techniques to Try Tonight",
+  "url": "/relaxation/breathing-exercises-for-sleep/",
+  "hub": "relaxation",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "breathing exercises for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2318,
+  "outgoing": [
+   "sleep-sounds/ocean-sounds-for-sleep",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "relaxation",
+   "relaxation/4-7-8-breathing",
+   "relaxation/box-breathing",
+   "quiet-the-mind/racing-thoughts-at-night",
+   "sleep-products/best-sleep-headphones-uk",
+   "falling-asleep/what-to-do-when-you-cant-sleep",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "products": [
+   "headband-sleep-headphones",
+   "sleep-earbuds"
+  ],
+  "affiliateCategories": [
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "relaxation/4-7-8-breathing",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "sources": [
+   "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://doi.org/10.3389/fnhum.2018.00353",
+   "https://www.sleepfoundation.org/sleep-hygiene/relaxation-exercises-to-help-fall-asleep"
+  ]
+ },
+ "relaxation/guided-relaxation-for-sleep": {
+  "title": "Guided Relaxation for Sleep: How It Works and Where to Start",
+  "url": "/relaxation/guided-relaxation-for-sleep/",
+  "hub": "relaxation",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "guided relaxation for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1619,
+  "outgoing": [
+   "relaxation/body-scan-for-sleep",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "relaxation/yoga-nidra-for-sleep",
+   "sleep-sounds/calming-sounds-for-anxiety-at-night",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/types-of-sleep-headphones",
+   "relaxation",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "products": [
+   "headband-sleep-headphones",
+   "sleep-earbuds"
+  ],
+  "affiliateCategories": [
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "relaxation/body-scan-for-sleep",
+   "relaxation/yoga-nidra-for-sleep",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/",
+   "https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/"
+  ]
+ },
+ "relaxation/mindfulness-for-sleep": {
+  "title": "Mindfulness for Sleep: Letting Go of the Effort to Fall Asleep",
+  "url": "/relaxation/mindfulness-for-sleep/",
+  "hub": "relaxation",
+  "role": "supporting",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "mindfulness for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1273,
+  "outgoing": [
+   "quiet-the-mind/sleep-anxiety",
+   "relaxation/body-scan-for-sleep",
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "relaxation/bedtime-meditation-for-sleep",
+   "relaxation",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "relaxation/bedtime-meditation-for-sleep",
+   "quiet-the-mind/sleep-anxiety",
+   "relaxation/body-scan-for-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "sources": [
+   "https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/",
+   "https://doi.org/10.5665/sleep.4010",
+   "https://doi.org/10.1111/nyas.13996",
+   "https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/mindfulness"
+  ]
+ },
+ "relaxation/progressive-muscle-relaxation-for-sleep": {
+  "title": "Progressive Muscle Relaxation for Sleep: A Step-by-Step Script",
+  "url": "/relaxation/progressive-muscle-relaxation-for-sleep/",
+  "hub": "relaxation",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "progressive muscle relaxation for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1960,
+  "outgoing": [
+   "quiet-the-mind/cant-switch-off-at-night",
+   "relaxation/breathing-exercises-for-sleep",
+   "relaxation/mindfulness-for-sleep",
+   "relaxation/body-scan-for-sleep",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "relaxation/guided-relaxation-for-sleep",
+   "relaxation",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "products": [
+   "headband-sleep-headphones",
+   "sleep-earbuds"
+  ],
+  "affiliateCategories": [
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "relaxation/body-scan-for-sleep",
+   "relaxation/breathing-exercises-for-sleep",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://doi.org/10.1093/sleep/29.11.1398",
+   "https://doi.org/10.1111/jsr.12594",
+   "https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/"
+  ]
+ },
+ "relaxation/yoga-nidra-for-sleep": {
+  "title": "Yoga Nidra for Sleep: What It Is and How to Practise It",
+  "url": "/relaxation/yoga-nidra-for-sleep/",
+  "hub": "relaxation",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "yoga nidra for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1269,
+  "outgoing": [
+   "relaxation/body-scan-for-sleep",
+   "sleep-habits/napping-and-night-sleep",
+   "relaxation/guided-relaxation-for-sleep",
+   "waking-at-night/cant-get-back-to-sleep",
+   "relaxation",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "relaxation/bedtime-meditation-for-sleep",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "relaxation/body-scan-for-sleep",
+   "relaxation/guided-relaxation-for-sleep",
+   "relaxation/bedtime-meditation-for-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ],
+  "sources": [
+   "https://doi.org/10.1007/s12144-020-01042-2",
+   "https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/",
+   "https://www.nhs.uk/conditions/insomnia/"
+  ]
+ },
+ "resources/7-night-quiet-mind-sleep-plan": {
+  "title": "The 7-Night Quiet Mind Sleep Plan",
+  "url": "/resources/7-night-quiet-mind-sleep-plan/",
+  "hub": "resources",
+  "role": "resource",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "7 night sleep plan",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1722,
+  "outgoing": [
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-habits/morning-routine-for-better-sleep",
+   "falling-asleep/bedtime-routine-for-adults",
+   "sleep-habits/screens-before-bed",
+   "quiet-the-mind/worry-list-before-bed",
+   "quiet-the-mind/racing-thoughts-at-night",
+   "sleep-environment/bedroom-setup-for-better-sleep",
+   "sleep-environment/best-temperature-for-sleep",
+   "relaxation/breathing-exercises-for-sleep",
+   "relaxation/4-7-8-breathing",
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "falling-asleep/what-to-do-when-you-cant-sleep",
+   "resources/sleep-checklist",
+   "sleep-habits/caffeine-and-sleep",
+   "quiet-the-mind",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-habits/sleep-hygiene",
+   "quiet-the-mind/how-to-calm-your-mind-before-bed"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "resources/sleep-checklist",
+   "sleep-habits/sleep-hygiene",
+   "quiet-the-mind/how-to-calm-your-mind-before-bed"
+  ],
+  "commercial": [],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://cks.nice.org.uk/topics/insomnia/"
+  ]
+ },
+ "resources/sleep-checklist": {
+  "title": "The Better Sleep Checklist: 20 Things to Get Right",
+  "url": "/resources/sleep-checklist/",
+  "hub": "resources",
+  "role": "resource",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "sleep checklist",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1008,
+  "outgoing": [
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "waking-at-night/waking-up-at-3am",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-habits/morning-routine-for-better-sleep",
+   "sleep-habits/caffeine-and-sleep",
+   "sleep-habits/alcohol-and-sleep",
+   "sleep-habits/exercise-and-sleep",
+   "sleep-habits/napping-and-night-sleep",
+   "sleep-habits/eating-before-bed",
+   "falling-asleep/bedtime-routine-for-adults",
+   "sleep-habits/screens-before-bed",
+   "sleep-questions/why-do-i-get-a-second-wind-at-night",
+   "sleep-questions/how-much-sleep-do-adults-need",
+   "quiet-the-mind/worry-list-before-bed",
+   "relaxation/breathing-exercises-for-sleep",
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "relaxation/mindfulness-for-sleep",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "quiet-the-mind",
+   "privacy-policy",
+   "sleep-environment/bedroom-setup-for-better-sleep",
+   "sleep-habits/sleep-hygiene"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-environment/bedroom-setup-for-better-sleep",
+   "sleep-habits/sleep-hygiene"
+  ],
+  "commercial": [],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-environment/bedding-and-sleep": {
+  "title": "Bedding and Sleep: Duvet Togs, Fabrics and Staying Comfortable All Year",
+  "url": "/sleep-environment/bedding-and-sleep/",
+  "hub": "sleep-environment",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "best duvet tog for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1559,
+  "outgoing": [
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-environment/how-to-sleep-when-its-hot",
+   "sleep-environment/how-to-sleep-when-its-cold",
+   "sleep-products/best-pillows-for-side-sleepers-uk",
+   "sleep-products/best-cooling-pillows-uk",
+   "waking-at-night/waking-up-hot-at-night",
+   "sleep-environment",
+   "affiliate-disclosure",
+   "sleep-products/mattress-buying-guide-uk",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "products": [
+   "summer-tog-duvet",
+   "cotton-percale-bedding"
+  ],
+  "affiliateCategories": [
+   "bedding"
+  ],
+  "readNext": [
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-environment/how-to-sleep-when-its-hot",
+   "sleep-products/best-pillows-for-side-sleepers-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://thesleepcharity.org.uk/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-environment/bedroom-lighting-for-sleep": {
+  "title": "Bedroom Lighting for Sleep: Evening Light, Bulbs and Bedside Lamps",
+  "url": "/sleep-environment/bedroom-lighting-for-sleep/",
+  "hub": "sleep-environment",
+  "role": "supporting",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "bedroom lighting for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1284,
+  "outgoing": [
+   "sleep-questions/does-reading-before-bed-help-you-sleep",
+   "sleep-habits/screens-before-bed",
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-habits/morning-routine-for-better-sleep",
+   "sleep-environment",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-habits/screens-before-bed",
+   "sleep-habits/morning-routine-for-better-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   null,
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-environment/bedroom-setup-for-better-sleep": {
+  "title": "Bedroom Setup for Better Sleep: A Room-by-Room Checklist",
+  "url": "/sleep-environment/bedroom-setup-for-better-sleep/",
+  "hub": "sleep-environment",
+  "role": "informational",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "bedroom setup for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1931,
+  "outgoing": [
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-environment/bedroom-lighting-for-sleep",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-products/best-pillows-for-side-sleepers-uk",
+   "sleep-products/mattress-buying-guide-uk",
+   "sleep-environment/bedding-and-sleep",
+   "resources/sleep-checklist",
+   "sleep-environment",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-environment/how-to-sleep-when-its-hot",
+   "sleep-habits/screens-before-bed",
+   "sleep-habits/sleep-hygiene",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "products": [
+   "contoured-sleep-mask",
+   "blackout-blind-no-drill",
+   "memory-foam-side-sleeper-pillow"
+  ],
+  "affiliateCategories": [
+   "sleep-mask",
+   "blackout-curtains",
+   "pillow"
+  ],
+  "readNext": [
+   "sleep-environment/how-to-sleep-when-its-hot",
+   "sleep-habits/screens-before-bed",
+   "sleep-habits/sleep-hygiene"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-products/best-pillows-for-side-sleepers-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://thesleepcharity.org.uk/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-environment/best-temperature-for-sleep": {
+  "title": "What Is the Best Temperature for Sleep? A UK Bedroom Guide",
+  "url": "/sleep-environment/best-temperature-for-sleep/",
+  "hub": "sleep-environment",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "best temperature for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1840,
+  "outgoing": [
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "waking-at-night/waking-up-too-early",
+   "sleep-environment/how-to-sleep-when-its-cold",
+   "sleep-environment/how-to-sleep-when-its-hot",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-environment",
+   "waking-at-night/waking-up-hot-at-night",
+   "affiliate-disclosure",
+   "sleep-products/best-cooling-pillows-uk",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk"
+  ],
+  "products": [
+   "gel-cooling-pillow",
+   "summer-tog-duvet"
+  ],
+  "affiliateCategories": [
+   "cooling-pillow",
+   "bedding"
+  ],
+  "readNext": [
+   "sleep-environment/how-to-sleep-when-its-hot",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-products/best-cooling-pillows-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-cooling-pillows-uk",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.frontiersin.org/journals/neuroscience",
+   "https://thesleepcharity.org.uk/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-environment/earplugs-vs-white-noise": {
+  "title": "Earplugs vs White Noise: Which Is Better for Blocking Noise at Night?",
+  "url": "/sleep-environment/earplugs-vs-white-noise/",
+  "hub": "sleep-environment",
+  "role": "commercial",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "earplugs vs white noise",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1431,
+  "outgoing": [
+   "sleep-sounds/white-noise-for-sleep",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "waking-at-night/light-sleeper",
+   "sleep-environment",
+   "affiliate-disclosure",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk"
+  ],
+  "products": [
+   "soft-foam-earplugs",
+   "reusable-silicone-earplugs",
+   "fan-based-white-noise-machine"
+  ],
+  "affiliateCategories": [
+   "earplugs",
+   "white-noise"
+  ],
+  "readNext": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-environment/how-to-block-out-noise-at-night"
+  ],
+  "commercial": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/",
+   "https://thesleepcharity.org.uk/"
+  ]
+ },
+ "sleep-environment/how-to-block-out-noise-at-night": {
+  "title": "How to Block Out Noise at Night: Practical Fixes for a Quieter Bedroom",
+  "url": "/sleep-environment/how-to-block-out-noise-at-night/",
+  "hub": "sleep-environment",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "how to block out noise at night",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2144,
+  "outgoing": [
+   "sleep-environment/how-to-sleep-with-a-snoring-partner",
+   "sleep-sounds/white-noise-for-sleep",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night",
+   "sleep-environment/earplugs-vs-white-noise",
+   "waking-at-night/light-sleeper",
+   "sleep-environment",
+   "waking-at-night/waking-up-in-the-middle-of-the-night",
+   "affiliate-disclosure",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [
+   "soft-foam-earplugs",
+   "fan-based-white-noise-machine",
+   "headband-sleep-headphones"
+  ],
+  "affiliateCategories": [
+   "earplugs",
+   "white-noise",
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "sleep-environment/earplugs-vs-white-noise",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-environment/how-to-sleep-with-a-snoring-partner"
+  ],
+  "commercial": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.gov.uk/report-noise-pollution-to-council",
+   "https://thesleepcharity.org.uk/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-environment/how-to-make-bedroom-darker": {
+  "title": "How to Make Your Bedroom Darker for Better Sleep",
+  "url": "/sleep-environment/how-to-make-bedroom-darker/",
+  "hub": "sleep-environment",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "how to make bedroom darker",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1744,
+  "outgoing": [
+   "waking-at-night/waking-up-too-early",
+   "sleep-habits/screens-before-bed",
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-environment/sleep-mask-vs-blackout-curtains",
+   "sleep-questions/is-it-bad-to-sleep-with-the-light-on",
+   "sleep-environment/bedroom-lighting-for-sleep",
+   "sleep-environment",
+   "sleep-products/best-blackout-curtains-uk",
+   "affiliate-disclosure",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "products": [
+   "thermal-blackout-curtains",
+   "blackout-blind-no-drill",
+   "contoured-sleep-mask"
+  ],
+  "affiliateCategories": [
+   "sleep-mask",
+   "blackout-curtains"
+  ],
+  "readNext": [
+   "sleep-environment/sleep-mask-vs-blackout-curtains",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   null,
+   "https://www.sleepfoundation.org/",
+   "https://thesleepcharity.org.uk/"
+  ]
+ },
+ "sleep-environment/how-to-sleep-when-its-cold": {
+  "title": "How to Sleep When It's Cold Without Overheating",
+  "url": "/sleep-environment/how-to-sleep-when-its-cold/",
+  "hub": "sleep-environment",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "how to sleep when it's cold",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1103,
+  "outgoing": [
+   "sleep-environment/bedding-and-sleep",
+   "sleep-environment/how-to-make-bedroom-darker",
+   "waking-at-night/waking-up-hot-at-night",
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-environment",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [
+   "bedding"
+  ],
+  "readNext": [
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-environment/bedding-and-sleep",
+   "waking-at-night/waking-up-hot-at-night"
+  ],
+  "commercial": [
+   "sleep-environment/bedding-and-sleep",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/seasonal-health/keep-warm-keep-well/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   null,
+   "https://www.electricalsafetyfirst.org.uk/"
+  ]
+ },
+ "sleep-environment/how-to-sleep-when-its-hot": {
+  "title": "How to Sleep When It's Hot: A Guide for UK Homes Without Air Conditioning",
+  "url": "/sleep-environment/how-to-sleep-when-its-hot/",
+  "hub": "sleep-environment",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "how to sleep when it's hot",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2134,
+  "outgoing": [
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-products/best-cooling-pillows-uk",
+   "sleep-environment/how-to-make-bedroom-darker",
+   "waking-at-night/waking-up-hot-at-night",
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-environment",
+   "affiliate-disclosure",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk"
+  ],
+  "products": [
+   "quiet-bedroom-fan",
+   "summer-tog-duvet",
+   "gel-cooling-pillow"
+  ],
+  "affiliateCategories": [
+   "cooling-pillow",
+   "bedding",
+   "fan"
+  ],
+  "readNext": [
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-products/best-cooling-pillows-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-cooling-pillows-uk",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/",
+   null,
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://thesleepcharity.org.uk/"
+  ]
+ },
+ "sleep-environment/how-to-sleep-with-a-snoring-partner": {
+  "title": "How to Sleep With a Snoring Partner",
+  "url": "/sleep-environment/how-to-sleep-with-a-snoring-partner/",
+  "hub": "sleep-environment",
+  "role": "informational",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "how to sleep with a snoring partner",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1983,
+  "outgoing": [
+   "falling-asleep",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night",
+   "sleep-environment/earplugs-vs-white-noise",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/types-of-sleep-headphones",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "waking-at-night/cant-get-back-to-sleep",
+   "sleep-environment",
+   "affiliate-disclosure",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [
+   "soft-foam-earplugs",
+   "fan-based-white-noise-machine",
+   "sleep-earbuds"
+  ],
+  "affiliateCategories": [
+   "earplugs",
+   "white-noise",
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "sleep-environment/earplugs-vs-white-noise",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "waking-at-night/cant-get-back-to-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/snoring/",
+   "https://www.nhs.uk/conditions/sleep-apnoea/",
+   "https://thesleepcharity.org.uk/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-environment/sleep-mask-vs-blackout-curtains": {
+  "title": "Sleep Mask vs Blackout Curtains: Which Is Better for a Dark Bedroom?",
+  "url": "/sleep-environment/sleep-mask-vs-blackout-curtains/",
+  "hub": "sleep-environment",
+  "role": "commercial",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "sleep mask vs blackout curtains",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1421,
+  "outgoing": [
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-questions/does-a-sleep-mask-help-you-sleep",
+   "sleep-products/best-blackout-curtains-uk",
+   "waking-at-night/waking-up-too-early",
+   "sleep-environment",
+   "affiliate-disclosure",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "products": [
+   "contoured-sleep-mask",
+   "thermal-blackout-curtains",
+   "blackout-blind-no-drill"
+  ],
+  "affiliateCategories": [
+   "sleep-mask",
+   "blackout-curtains"
+  ],
+  "readNext": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-environment/how-to-make-bedroom-darker"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.sleepfoundation.org/",
+   "https://thesleepcharity.org.uk/"
+  ]
+ },
+ "sleep-habits/alcohol-and-sleep": {
+  "title": "Alcohol and Sleep: Why a Nightcap Makes the Night Worse",
+  "url": "/sleep-habits/alcohol-and-sleep/",
+  "hub": "sleep-habits",
+  "role": "informational",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "alcohol and sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1567,
+  "outgoing": [
+   "waking-at-night/waking-up-at-3am",
+   "waking-at-night/waking-up-hot-at-night",
+   "sleep-environment/how-to-sleep-with-a-snoring-partner",
+   "waking-at-night/cant-get-back-to-sleep",
+   "quiet-the-mind/how-to-calm-your-mind-before-bed",
+   "sleep-habits",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-habits/sleep-hygiene",
+   "sleep-habits/eating-before-bed",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-habits/sleep-hygiene",
+   "waking-at-night/waking-up-at-3am",
+   "sleep-habits/eating-before-bed"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.drinkaware.co.uk/",
+   "https://www.nhs.uk/live-well/alcohol-advice/",
+   "https://www.sleepfoundation.org/nutrition/alcohol-and-sleep",
+   "https://www.nhs.uk/conditions/insomnia/"
+  ]
+ },
+ "sleep-habits/caffeine-and-sleep": {
+  "title": "Caffeine and Sleep: How Late Is Too Late for Coffee?",
+  "url": "/sleep-habits/caffeine-and-sleep/",
+  "hub": "sleep-habits",
+  "role": "informational",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "caffeine and sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1569,
+  "outgoing": [
+   "waking-at-night/waking-up-in-the-middle-of-the-night",
+   "sleep-habits/morning-routine-for-better-sleep",
+   "sleep-habits/napping-and-night-sleep",
+   "sleep-questions/why-am-i-tired-but-cant-sleep",
+   "sleep-habits",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-habits/sleep-hygiene",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-habits/sleep-hygiene",
+   "sleep-habits/napping-and-night-sleep",
+   "waking-at-night/waking-up-in-the-middle-of-the-night"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/nutrition/caffeine-and-sleep",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/"
+  ]
+ },
+ "sleep-habits/consistent-sleep-schedule": {
+  "title": "Why a Consistent Sleep Schedule Matters More Than You Think",
+  "url": "/sleep-habits/consistent-sleep-schedule/",
+  "hub": "sleep-habits",
+  "role": "supporting",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "consistent sleep schedule",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1394,
+  "outgoing": [
+   "quiet-the-mind/sunday-night-insomnia",
+   "sleep-questions/can-you-catch-up-on-sleep",
+   "sleep-habits/morning-routine-for-better-sleep",
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "waking-at-night/waking-up-too-early",
+   "sleep-habits",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "sleep-habits/morning-routine-for-better-sleep",
+   "quiet-the-mind/sunday-night-insomnia"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.cdc.gov/sleep/",
+   "https://www.sleepfoundation.org/circadian-rhythm",
+   "https://academic.oup.com/sleep"
+  ]
+ },
+ "sleep-habits/eating-before-bed": {
+  "title": "Eating Before Bed: What, When and How Much Affects Sleep",
+  "url": "/sleep-habits/eating-before-bed/",
+  "hub": "sleep-habits",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "eating before bed",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1390,
+  "outgoing": [
+   "waking-at-night/waking-up-hot-at-night",
+   "waking-at-night/waking-up-in-the-middle-of-the-night",
+   "sleep-habits/alcohol-and-sleep",
+   "sleep-habits/caffeine-and-sleep",
+   "sleep-habits",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-habits/sleep-hygiene",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-habits/sleep-hygiene",
+   "sleep-habits/alcohol-and-sleep",
+   "waking-at-night/waking-up-in-the-middle-of-the-night"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/nutrition"
+  ]
+ },
+ "sleep-habits/exercise-and-sleep": {
+  "title": "Exercise and Sleep: Timing, Intensity and What the Evidence Says",
+  "url": "/sleep-habits/exercise-and-sleep/",
+  "hub": "sleep-habits",
+  "role": "informational",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "exercise and sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1586,
+  "outgoing": [
+   "sleep-questions/why-do-i-get-a-second-wind-at-night",
+   "sleep-habits/morning-routine-for-better-sleep",
+   "relaxation/bedtime-stretches",
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-habits/sleep-hygiene",
+   "sleep-habits",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-habits/sleep-hygiene",
+   "sleep-habits/morning-routine-for-better-sleep",
+   "relaxation/bedtime-stretches"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/exercise/",
+   "https://www.sleepfoundation.org/physical-activity/exercise-and-sleep",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/"
+  ]
+ },
+ "sleep-habits/how-to-fix-your-sleep-schedule": {
+  "title": "How to Fix Your Sleep Schedule: A Week-by-Week Reset",
+  "url": "/sleep-habits/how-to-fix-your-sleep-schedule/",
+  "hub": "sleep-habits",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "how to fix your sleep schedule",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2340,
+  "outgoing": [
+   "sleep-habits/morning-routine-for-better-sleep",
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-products/best-sleep-masks-uk",
+   "falling-asleep/how-to-sleep-when-not-tired",
+   "sleep-questions/can-you-catch-up-on-sleep",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "sleep-habits",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan"
+  ],
+  "products": [
+   "contoured-sleep-mask",
+   "silk-sleep-mask"
+  ],
+  "affiliateCategories": [
+   "sleep-mask"
+  ],
+  "readNext": [
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-habits/morning-routine-for-better-sleep",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.sleepfoundation.org/circadian-rhythm",
+   "https://www.cdc.gov/sleep/"
+  ]
+ },
+ "sleep-habits/morning-routine-for-better-sleep": {
+  "title": "How Your Morning Routine Shapes Tonight's Sleep",
+  "url": "/sleep-habits/morning-routine-for-better-sleep/",
+  "hub": "sleep-habits",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "morning routine for better sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1089,
+  "outgoing": [
+   "sleep-habits/consistent-sleep-schedule",
+   "waking-at-night/waking-up-too-early",
+   "sleep-environment/bedroom-lighting-for-sleep",
+   "sleep-habits/exercise-and-sleep",
+   "sleep-habits/caffeine-and-sleep",
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "sleep-habits",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-habits/caffeine-and-sleep",
+   "sleep-habits/exercise-and-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.sleepfoundation.org/circadian-rhythm"
+  ]
+ },
+ "sleep-habits/napping-and-night-sleep": {
+  "title": "Do Naps Ruin Your Sleep at Night? How to Nap Without Paying for It",
+  "url": "/sleep-habits/napping-and-night-sleep/",
+  "hub": "sleep-habits",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "do naps affect night sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1579,
+  "outgoing": [
+   "falling-asleep/how-to-sleep-when-not-tired",
+   "sleep-questions/why-am-i-tired-but-cant-sleep",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-habits/caffeine-and-sleep",
+   "sleep-habits",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-questions/can-you-catch-up-on-sleep"
+  ],
+  "products": [
+   "contoured-sleep-mask",
+   "silk-sleep-mask"
+  ],
+  "affiliateCategories": [
+   "sleep-mask"
+  ],
+  "readNext": [
+   "sleep-habits/caffeine-and-sleep",
+   "sleep-questions/can-you-catch-up-on-sleep",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/sleep-hygiene/napping",
+   "https://www.nhs.uk/conditions/insomnia/"
+  ]
+ },
+ "sleep-habits/screens-before-bed": {
+  "title": "Screens Before Bed: How Much Do Phones Really Affect Sleep?",
+  "url": "/sleep-habits/screens-before-bed/",
+  "hub": "sleep-habits",
+  "role": "informational",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "screens before bed",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1510,
+  "outgoing": [
+   "quiet-the-mind/cant-switch-off-at-night",
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "sleep-environment/bedroom-lighting-for-sleep",
+   "falling-asleep/bedtime-routine-for-adults",
+   "sleep-questions/does-reading-before-bed-help-you-sleep",
+   "sleep-habits",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-habits/sleep-hygiene",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-habits/sleep-hygiene",
+   "falling-asleep/bedtime-routine-for-adults",
+   "sleep-environment/bedroom-lighting-for-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side",
+   "https://www.sleepfoundation.org/bedroom-environment/blue-light"
+  ]
+ },
+ "sleep-habits/sleep-hygiene": {
+  "title": "Sleep Hygiene: What It Really Means and a Realistic Checklist",
+  "url": "/sleep-habits/sleep-hygiene/",
+  "hub": "sleep-habits",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "sleep hygiene",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2345,
+  "outgoing": [
+   "resources/sleep-checklist",
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-habits/caffeine-and-sleep",
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-habits/screens-before-bed",
+   "sleep-habits",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "falling-asleep/bedtime-routine-for-adults"
+  ],
+  "products": [
+   "contoured-sleep-mask",
+   "silk-sleep-mask"
+  ],
+  "affiliateCategories": [
+   "sleep-mask"
+  ],
+  "readNext": [
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "falling-asleep/bedtime-routine-for-adults",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://cks.nice.org.uk/topics/insomnia/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.sleepfoundation.org/sleep-hygiene"
+  ]
+ },
+ "sleep-products/best-blackout-curtains-uk": {
+  "title": "Best Blackout Curtains UK: A Practical Buying Guide",
+  "url": "/sleep-products/best-blackout-curtains-uk/",
+  "hub": "sleep-products",
+  "role": "commercial",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "best blackout curtains uk",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2049,
+  "outgoing": [
+   "waking-at-night/waking-up-too-early",
+   "sleep-environment/sleep-mask-vs-blackout-curtains",
+   "sleep-environment/how-to-sleep-when-its-hot",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-environment/bedroom-lighting-for-sleep",
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-products",
+   "affiliate-disclosure"
+  ],
+  "products": [
+   "thermal-blackout-curtains",
+   "blackout-blind-no-drill"
+  ],
+  "affiliateCategories": [
+   "blackout-curtains"
+  ],
+  "readNext": [
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-environment/sleep-mask-vs-blackout-curtains"
+  ],
+  "commercial": [],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-products/best-cooling-pillows-uk": {
+  "title": "Best Cooling Pillows UK: How They Work and What to Look For",
+  "url": "/sleep-products/best-cooling-pillows-uk/",
+  "hub": "sleep-products",
+  "role": "commercial",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "best cooling pillow uk",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1682,
+  "outgoing": [
+   "waking-at-night/waking-up-hot-at-night",
+   "sleep-environment/how-to-sleep-when-its-hot",
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-products/best-pillows-for-side-sleepers-uk",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-products",
+   "affiliate-disclosure"
+  ],
+  "products": [
+   "gel-cooling-pillow",
+   "memory-foam-side-sleeper-pillow"
+  ],
+  "affiliateCategories": [
+   "cooling-pillow"
+  ],
+  "readNext": [
+   "waking-at-night/waking-up-hot-at-night",
+   "sleep-environment/how-to-sleep-when-its-hot",
+   "sleep-products/best-pillows-for-side-sleepers-uk"
+  ],
+  "commercial": [],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.nhs.uk/conditions/night-sweats/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-products/best-earplugs-for-sleeping-uk": {
+  "title": "Best Earplugs for Sleeping UK: Foam, Silicone, Wax and Reusable Options",
+  "url": "/sleep-products/best-earplugs-for-sleeping-uk/",
+  "hub": "sleep-products",
+  "role": "commercial",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "best earplugs for sleeping uk",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2558,
+  "outgoing": [
+   "sleep-products/types-of-earplugs-for-sleep",
+   "waking-at-night/light-sleeper",
+   "sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-environment/earplugs-vs-white-noise",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-environment/how-to-sleep-with-a-snoring-partner",
+   "sleep-products",
+   "affiliate-disclosure"
+  ],
+  "products": [
+   "soft-foam-earplugs",
+   "reusable-silicone-earplugs",
+   "mouldable-wax-earplugs"
+  ],
+  "affiliateCategories": [
+   "earplugs"
+  ],
+  "readNext": [
+   "sleep-products/types-of-earplugs-for-sleep",
+   "sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night",
+   "sleep-environment/how-to-block-out-noise-at-night"
+  ],
+  "commercial": [],
+  "sources": [
+   "https://www.nhs.uk/conditions/earwax-build-up/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-products/best-pillows-for-side-sleepers-uk": {
+  "title": "Best Pillows for Side Sleepers UK: Height, Firmness and Fill Explained",
+  "url": "/sleep-products/best-pillows-for-side-sleepers-uk/",
+  "hub": "sleep-products",
+  "role": "commercial",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "best pillow for side sleepers uk",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2046,
+  "outgoing": [
+   "sleep-products/mattress-buying-guide-uk",
+   "waking-at-night/waking-up-hot-at-night",
+   "sleep-products/best-cooling-pillows-uk",
+   "sleep-environment/bedroom-setup-for-better-sleep",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-products",
+   "affiliate-disclosure"
+  ],
+  "products": [
+   "memory-foam-side-sleeper-pillow",
+   "gel-cooling-pillow"
+  ],
+  "affiliateCategories": [
+   "pillow"
+  ],
+  "readNext": [
+   "sleep-products/best-cooling-pillows-uk",
+   "sleep-products/mattress-buying-guide-uk",
+   "sleep-environment/bedroom-setup-for-better-sleep"
+  ],
+  "commercial": [],
+  "sources": [
+   "https://www.nhs.uk/conditions/back-pain/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-products/best-sleep-headphones-uk": {
+  "title": "Best Sleep Headphones UK: Headbands, Earbuds and Options for Side Sleepers",
+  "url": "/sleep-products/best-sleep-headphones-uk/",
+  "hub": "sleep-products",
+  "role": "commercial",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "best sleep headphones uk",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2309,
+  "outgoing": [
+   "sleep-products/types-of-sleep-headphones",
+   "relaxation/guided-relaxation-for-sleep",
+   "sleep-environment/how-to-sleep-with-a-snoring-partner",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-sounds/brown-noise-for-sleep",
+   "relaxation/bedtime-meditation-for-sleep",
+   "sleep-products",
+   "affiliate-disclosure"
+  ],
+  "products": [
+   "headband-sleep-headphones",
+   "sleep-earbuds"
+  ],
+  "affiliateCategories": [
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "sleep-products/types-of-sleep-headphones",
+   "relaxation/guided-relaxation-for-sleep",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "commercial": [],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.nhs.uk/conditions/hearing-loss/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-products/best-sleep-masks-uk": {
+  "title": "Best Sleep Masks UK: How to Choose One That Actually Blocks Light",
+  "url": "/sleep-products/best-sleep-masks-uk/",
+  "hub": "sleep-products",
+  "role": "commercial",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "best sleep mask uk",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2539,
+  "outgoing": [
+   "waking-at-night/waking-up-too-early",
+   "sleep-questions/does-a-sleep-mask-help-you-sleep",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-environment/sleep-mask-vs-blackout-curtains",
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-questions/is-it-bad-to-sleep-with-the-light-on",
+   "sleep-products",
+   "affiliate-disclosure"
+  ],
+  "products": [
+   "contoured-sleep-mask",
+   "silk-sleep-mask",
+   "weighted-sleep-mask"
+  ],
+  "affiliateCategories": [
+   "sleep-mask"
+  ],
+  "readNext": [
+   "sleep-questions/does-a-sleep-mask-help-you-sleep",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-environment/how-to-make-bedroom-darker"
+  ],
+  "commercial": [],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-products/best-white-noise-machines-uk": {
+  "title": "Best White Noise Machines UK: What to Look For",
+  "url": "/sleep-products/best-white-noise-machines-uk/",
+  "hub": "sleep-products",
+  "role": "commercial",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "best white noise machine uk",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2548,
+  "outgoing": [
+   "sleep-products/how-to-choose-a-white-noise-machine",
+   "sleep-sounds/white-noise-for-sleep",
+   "sleep-sounds/brown-noise-for-sleep",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-environment/earplugs-vs-white-noise",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-sounds/is-it-bad-to-sleep-with-white-noise-on",
+   "sleep-products",
+   "affiliate-disclosure"
+  ],
+  "products": [
+   "fan-based-white-noise-machine",
+   "digital-sound-machine",
+   "portable-sound-machine"
+  ],
+  "affiliateCategories": [
+   "white-noise"
+  ],
+  "readNext": [
+   "sleep-products/how-to-choose-a-white-noise-machine",
+   "sleep-sounds/white-noise-for-sleep",
+   "sleep-sounds/brown-noise-for-sleep"
+  ],
+  "commercial": [],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-products/how-to-choose-a-white-noise-machine": {
+  "title": "How to Choose a White Noise Machine: Features That Matter",
+  "url": "/sleep-products/how-to-choose-a-white-noise-machine/",
+  "hub": "sleep-products",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "how to choose a white noise machine",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1269,
+  "outgoing": [
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-sounds/brown-noise-for-sleep",
+   "sleep-sounds/white-noise-for-sleep",
+   "sleep-sounds/is-it-bad-to-sleep-with-white-noise-on",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-environment/earplugs-vs-white-noise",
+   "sleep-products",
+   "affiliate-disclosure",
+   "sleep-sounds/brown-noise-vs-white-noise"
+  ],
+  "products": [
+   "fan-based-white-noise-machine",
+   "digital-sound-machine",
+   "portable-sound-machine"
+  ],
+  "affiliateCategories": [
+   "white-noise"
+  ],
+  "readNext": [
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-sounds/is-it-bad-to-sleep-with-white-noise-on",
+   "sleep-sounds/brown-noise-vs-white-noise"
+  ],
+  "commercial": [
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.lullabytrust.org.uk/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-products/mattress-buying-guide-uk": {
+  "title": "How to Choose a Mattress: A Plain-English UK Buying Guide",
+  "url": "/sleep-products/mattress-buying-guide-uk/",
+  "hub": "sleep-products",
+  "role": "commercial",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "how to choose a mattress uk",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1991,
+  "outgoing": [
+   "sleep-environment/bedroom-setup-for-better-sleep",
+   "sleep-products/best-pillows-for-side-sleepers-uk",
+   "waking-at-night/waking-up-hot-at-night",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-products"
+  ],
+  "products": [],
+  "affiliateCategories": [
+   "mattress"
+  ],
+  "readNext": [
+   "sleep-products/best-pillows-for-side-sleepers-uk",
+   "sleep-environment/bedroom-setup-for-better-sleep",
+   "sleep-environment/bedding-and-sleep"
+  ],
+  "commercial": [],
+  "sources": [
+   "https://www.nhs.uk/conditions/back-pain/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-products/types-of-earplugs-for-sleep": {
+  "title": "Foam, Silicone or Wax Earplugs for Sleep: Which Type Suits You?",
+  "url": "/sleep-products/types-of-earplugs-for-sleep/",
+  "hub": "sleep-products",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "types of earplugs for sleeping",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1219,
+  "outgoing": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-environment/earplugs-vs-white-noise",
+   "waking-at-night/light-sleeper",
+   "sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-products",
+   "affiliate-disclosure"
+  ],
+  "products": [
+   "soft-foam-earplugs",
+   "reusable-silicone-earplugs",
+   "mouldable-wax-earplugs"
+  ],
+  "affiliateCategories": [
+   "earplugs"
+  ],
+  "readNext": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night",
+   "sleep-environment/earplugs-vs-white-noise"
+  ],
+  "commercial": [
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/earwax-build-up/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/"
+  ]
+ },
+ "sleep-products/types-of-sleep-headphones": {
+  "title": "Types of Sleep Headphones Compared: Headband, Earbud and Bone Conduction",
+  "url": "/sleep-products/types-of-sleep-headphones/",
+  "hub": "sleep-products",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "types of sleep headphones",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1176,
+  "outgoing": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-environment/how-to-sleep-with-a-snoring-partner",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "waking-at-night/light-sleeper",
+   "relaxation/guided-relaxation-for-sleep",
+   "sleep-products",
+   "sleep-products/best-white-noise-machines-uk",
+   "affiliate-disclosure"
+  ],
+  "products": [
+   "headband-sleep-headphones",
+   "sleep-earbuds"
+  ],
+  "affiliateCategories": [
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk",
+   "relaxation/guided-relaxation-for-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/hearing-loss/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/"
+  ]
+ },
+ "sleep-products/weighted-blankets-guide": {
+  "title": "Weighted Blankets: Do They Help With Sleep, and How to Choose One",
+  "url": "/sleep-products/weighted-blankets-guide/",
+  "hub": "sleep-products",
+  "role": "commercial",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "weighted blanket for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1927,
+  "outgoing": [
+   "quiet-the-mind/anxiety-at-night",
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "relaxation/bedtime-relaxation-techniques",
+   "sleep-products",
+   "sleep-environment/bedding-and-sleep",
+   "affiliate-disclosure"
+  ],
+  "products": [
+   "weighted-blanket"
+  ],
+  "affiliateCategories": [
+   "weighted-blanket"
+  ],
+  "readNext": [
+   "quiet-the-mind/anxiety-at-night",
+   "relaxation/bedtime-relaxation-techniques",
+   "sleep-environment/best-temperature-for-sleep"
+  ],
+  "commercial": [],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-questions/can-you-catch-up-on-sleep": {
+  "title": "Can You Catch Up on Sleep? What Sleep Debt Really Means",
+  "url": "/sleep-questions/can-you-catch-up-on-sleep/",
+  "hub": "sleep-questions",
+  "role": "informational",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "can you catch up on sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1224,
+  "outgoing": [
+   "quiet-the-mind/sunday-night-insomnia",
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-habits/napping-and-night-sleep",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "sleep-questions/how-much-sleep-do-adults-need",
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "sleep-questions",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-questions/how-much-sleep-do-adults-need",
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-habits/napping-and-night-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/",
+   "https://www.cdc.gov/sleep/"
+  ]
+ },
+ "sleep-questions/does-a-sleep-mask-help-you-sleep": {
+  "title": "Does a Sleep Mask Actually Help You Sleep?",
+  "url": "/sleep-questions/does-a-sleep-mask-help-you-sleep/",
+  "hub": "sleep-questions",
+  "role": "supporting",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "does a sleep mask help you sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1156,
+  "outgoing": [
+   "sleep-environment/how-to-make-bedroom-darker",
+   "waking-at-night/waking-up-too-early",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-environment/sleep-mask-vs-blackout-curtains",
+   "sleep-questions/is-it-bad-to-sleep-with-the-light-on",
+   "sleep-questions",
+   "affiliate-disclosure"
+  ],
+  "products": [
+   "contoured-sleep-mask",
+   "silk-sleep-mask"
+  ],
+  "affiliateCategories": [
+   "sleep-mask"
+  ],
+  "readNext": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-questions/is-it-bad-to-sleep-with-the-light-on"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.sleepfoundation.org/",
+   "https://www.cdc.gov/sleep/"
+  ]
+ },
+ "sleep-questions/does-reading-before-bed-help-you-sleep": {
+  "title": "Does Reading Before Bed Help You Sleep?",
+  "url": "/sleep-questions/does-reading-before-bed-help-you-sleep/",
+  "hub": "sleep-questions",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "does reading before bed help you sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1012,
+  "outgoing": [
+   "quiet-the-mind/cant-switch-off-at-night",
+   "sleep-habits/screens-before-bed",
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "falling-asleep/bedtime-routine-for-adults",
+   "sleep-environment/bedroom-lighting-for-sleep",
+   "sleep-questions",
+   "quiet-the-mind/how-to-calm-your-mind-before-bed",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "falling-asleep/bedtime-routine-for-adults",
+   "sleep-habits/screens-before-bed",
+   "quiet-the-mind/how-to-calm-your-mind-before-bed"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.sleepfoundation.org/",
+   "https://thesleepcharity.org.uk/"
+  ]
+ },
+ "sleep-questions/how-much-sleep-do-adults-need": {
+  "title": "How Much Sleep Do Adults Need?",
+  "url": "/sleep-questions/how-much-sleep-do-adults-need/",
+  "hub": "sleep-questions",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "how much sleep do adults need",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1289,
+  "outgoing": [
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-questions/can-you-catch-up-on-sleep",
+   "sleep-habits/napping-and-night-sleep",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "sleep-questions/why-cant-i-sleep",
+   "sleep-questions",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-questions/can-you-catch-up-on-sleep",
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-questions/why-cant-i-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/",
+   "https://www.cdc.gov/sleep/"
+  ]
+ },
+ "sleep-questions/is-it-bad-to-sleep-with-the-light-on": {
+  "title": "Is It Bad to Sleep With the Light On?",
+  "url": "/sleep-questions/is-it-bad-to-sleep-with-the-light-on/",
+  "hub": "sleep-questions",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "is it bad to sleep with the light on",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1050,
+  "outgoing": [
+   "sleep-environment/bedroom-lighting-for-sleep",
+   "waking-at-night/waking-up-in-the-middle-of-the-night",
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-questions/does-a-sleep-mask-help-you-sleep",
+   "sleep-questions",
+   "affiliate-disclosure",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [
+   "contoured-sleep-mask"
+  ],
+  "affiliateCategories": [
+   "sleep-mask"
+  ],
+  "readNext": [
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-questions/does-a-sleep-mask-help-you-sleep",
+   "sleep-environment/bedroom-lighting-for-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.sleepfoundation.org/",
+   "https://www.cdc.gov/sleep/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/"
+  ]
+ },
+ "sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night": {
+  "title": "Is It OK to Sleep With Earplugs Every Night?",
+  "url": "/sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night/",
+  "hub": "sleep-questions",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "is it ok to sleep with earplugs every night",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1427,
+  "outgoing": [
+   "sleep-products/types-of-earplugs-for-sleep",
+   "sleep-environment/earplugs-vs-white-noise",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "waking-at-night/light-sleeper",
+   "sleep-questions",
+   "affiliate-disclosure",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [
+   "reusable-silicone-earplugs",
+   "soft-foam-earplugs",
+   "mouldable-wax-earplugs"
+  ],
+  "affiliateCategories": [
+   "earplugs"
+  ],
+  "readNext": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-environment/earplugs-vs-white-noise",
+   "waking-at-night/light-sleeper"
+  ],
+  "commercial": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/earwax-build-up/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.sleepfoundation.org/"
+  ]
+ },
+ "sleep-questions/when-to-see-a-gp-about-sleep": {
+  "title": "When to See a GP About Sleep Problems",
+  "url": "/sleep-questions/when-to-see-a-gp-about-sleep/",
+  "hub": "sleep-questions",
+  "role": "informational",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "when to see a doctor about insomnia",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1414,
+  "outgoing": [
+   "sleep-environment/how-to-sleep-with-a-snoring-partner",
+   "quiet-the-mind/sleep-anxiety",
+   "waking-at-night/waking-up-with-anxiety",
+   "sleep-habits/sleep-hygiene",
+   "sleep-questions/why-cant-i-sleep",
+   "waking-at-night/waking-up-too-early",
+   "sleep-questions",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-questions/why-cant-i-sleep",
+   "sleep-habits/sleep-hygiene",
+   "quiet-the-mind/sleep-anxiety"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://cks.nice.org.uk/topics/insomnia/",
+   "https://www.nice.org.uk/guidance/mtg70",
+   "https://www.nhs.uk/conditions/sleep-apnoea/",
+   "https://www.samaritans.org/"
+  ]
+ },
+ "sleep-questions/why-am-i-tired-but-cant-sleep": {
+  "title": "Why Am I Tired but Can't Sleep?",
+  "url": "/sleep-questions/why-am-i-tired-but-cant-sleep/",
+  "hub": "sleep-questions",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "tired but can't sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1441,
+  "outgoing": [
+   "quiet-the-mind/cant-switch-off-at-night",
+   "sleep-questions/why-do-i-get-a-second-wind-at-night",
+   "sleep-habits/caffeine-and-sleep",
+   "sleep-habits/screens-before-bed",
+   "relaxation/breathing-exercises-for-sleep",
+   "falling-asleep/how-to-sleep-when-not-tired",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "sleep-questions",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "falling-asleep/how-to-fall-asleep-faster",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "quiet-the-mind/cant-switch-off-at-night",
+   "sleep-questions/why-do-i-get-a-second-wind-at-night",
+   "falling-asleep/how-to-fall-asleep-faster"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.sleepfoundation.org/",
+   "https://www.rcpsych.ac.uk/"
+  ]
+ },
+ "sleep-questions/why-cant-i-sleep": {
+  "title": "Why Can't I Sleep? The Most Common Reasons and Where to Start",
+  "url": "/sleep-questions/why-cant-i-sleep/",
+  "hub": "sleep-questions",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "why can't I sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1865,
+  "outgoing": [
+   "waking-at-night",
+   "quiet-the-mind",
+   "sleep-habits/caffeine-and-sleep",
+   "sleep-environment/bedroom-setup-for-better-sleep",
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "falling-asleep/what-to-do-when-you-cant-sleep",
+   "resources/sleep-checklist",
+   "sleep-questions",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "quiet-the-mind/racing-thoughts-at-night",
+   "sleep-habits/sleep-hygiene",
+   "sleep-questions/why-am-i-tired-but-cant-sleep",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "quiet-the-mind/racing-thoughts-at-night",
+   "sleep-habits/sleep-hygiene",
+   "sleep-questions/why-am-i-tired-but-cant-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://cks.nice.org.uk/topics/insomnia/",
+   "https://www.mentalhealth.org.uk/"
+  ]
+ },
+ "sleep-questions/why-do-i-get-a-second-wind-at-night": {
+  "title": "Why Do I Get a Second Wind at Night?",
+  "url": "/sleep-questions/why-do-i-get-a-second-wind-at-night/",
+  "hub": "sleep-questions",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "second wind at night",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1111,
+  "outgoing": [
+   "sleep-questions/why-am-i-tired-but-cant-sleep",
+   "sleep-habits/morning-routine-for-better-sleep",
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "sleep-environment/bedroom-lighting-for-sleep",
+   "falling-asleep/how-long-should-it-take-to-fall-asleep",
+   "sleep-questions",
+   "falling-asleep/how-to-sleep-when-not-tired",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "sleep-questions/why-am-i-tired-but-cant-sleep",
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "falling-asleep/how-to-sleep-when-not-tired"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.sleepfoundation.org/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.cdc.gov/sleep/"
+  ]
+ },
+ "sleep-sounds/brown-noise-for-sleep": {
+  "title": "Brown Noise for Sleep: What It Is and Why People Find It Calming",
+  "url": "/sleep-sounds/brown-noise-for-sleep/",
+  "hub": "sleep-sounds",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "brown noise for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1867,
+  "outgoing": [
+   "sleep-sounds/pink-noise-for-sleep",
+   "sleep-sounds",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "falling-asleep/difficulty-falling-asleep",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-sounds/is-it-bad-to-sleep-with-white-noise-on",
+   "quiet-the-mind",
+   "affiliate-disclosure",
+   "sleep-sounds/brown-noise-vs-white-noise",
+   "sleep-sounds/white-noise-for-sleep",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "products": [
+   "digital-sound-machine",
+   "headband-sleep-headphones"
+  ],
+  "affiliateCategories": [
+   "white-noise",
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "sleep-sounds/brown-noise-vs-white-noise",
+   "sleep-sounds/white-noise-for-sleep",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://doi.org/10.1016/j.smrv.2020.101385",
+   "https://www.nhs.uk/conditions/hearing-loss/"
+  ]
+ },
+ "sleep-sounds/brown-noise-vs-white-noise": {
+  "title": "Brown Noise vs White Noise: Which Is Better for Sleep?",
+  "url": "/sleep-sounds/brown-noise-vs-white-noise/",
+  "hub": "sleep-sounds",
+  "role": "commercial",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "brown noise vs white noise",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1893,
+  "outgoing": [
+   "sleep-sounds/pink-noise-vs-white-noise",
+   "sleep-sounds/brown-noise-for-sleep",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-environment/how-to-sleep-with-a-snoring-partner",
+   "waking-at-night/light-sleeper",
+   "sleep-sounds",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk",
+   "affiliate-disclosure"
+  ],
+  "products": [
+   "digital-sound-machine",
+   "fan-based-white-noise-machine",
+   "headband-sleep-headphones"
+  ],
+  "affiliateCategories": [
+   "white-noise",
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "sleep-sounds/brown-noise-for-sleep",
+   "sleep-sounds/pink-noise-vs-white-noise",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "sources": [
+   "https://doi.org/10.1016/j.smrv.2020.101385",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.nhs.uk/conditions/hearing-loss/"
+  ]
+ },
+ "sleep-sounds/calming-sounds-for-anxiety-at-night": {
+  "title": "Calming Sounds for Anxiety at Night",
+  "url": "/sleep-sounds/calming-sounds-for-anxiety-at-night/",
+  "hub": "sleep-sounds",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "calming sounds for anxiety",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1440,
+  "outgoing": [
+   "relaxation/mindfulness-for-sleep",
+   "sleep-sounds/brown-noise-for-sleep",
+   "relaxation/guided-relaxation-for-sleep",
+   "relaxation/breathing-exercises-for-sleep",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/types-of-sleep-headphones",
+   "quiet-the-mind/anxiety-at-night",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "sleep-sounds",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "products": [
+   "headband-sleep-headphones",
+   "sleep-earbuds"
+  ],
+  "affiliateCategories": [
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "quiet-the-mind/anxiety-at-night",
+   "relaxation/guided-relaxation-for-sleep",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/",
+   "https://www.mind.org.uk/information-support/types-of-mental-health-problems/sleep-problems/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://www.nhs.uk/conditions/insomnia/"
+  ]
+ },
+ "sleep-sounds/is-it-bad-to-sleep-with-white-noise-on": {
+  "title": "Is It Bad to Sleep With White Noise On All Night?",
+  "url": "/sleep-sounds/is-it-bad-to-sleep-with-white-noise-on/",
+  "hub": "sleep-sounds",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "is it bad to sleep with white noise",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1456,
+  "outgoing": [
+   "sleep-environment/earplugs-vs-white-noise",
+   "sleep-sounds/white-noise-for-sleep",
+   "falling-asleep/bedtime-routine-for-adults",
+   "waking-at-night/waking-up-in-the-middle-of-the-night",
+   "sleep-products/how-to-choose-a-white-noise-machine",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-sounds",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "products": [
+   "digital-sound-machine",
+   "fan-based-white-noise-machine"
+  ],
+  "affiliateCategories": [
+   "white-noise"
+  ],
+  "readNext": [
+   "sleep-sounds/white-noise-for-sleep",
+   "sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night",
+   "sleep-products/how-to-choose-a-white-noise-machine"
+  ],
+  "commercial": [
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/hearing-loss/",
+   "https://www.nhs.uk/conditions/baby/caring-for-a-newborn/reduce-the-risk-of-sudden-infant-death-syndrome/",
+   "https://doi.org/10.1542/peds.2013-3617",
+   "https://doi.org/10.1016/j.smrv.2020.101385"
+  ]
+ },
+ "sleep-sounds/nature-sounds-for-sleep": {
+  "title": "Nature Sounds for Sleep: Which Ones Help and Which Can Wake You",
+  "url": "/sleep-sounds/nature-sounds-for-sleep/",
+  "hub": "sleep-sounds",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "nature sounds for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1369,
+  "outgoing": [
+   "sleep-sounds/white-noise-for-sleep",
+   "sleep-sounds/pink-noise-for-sleep",
+   "sleep-sounds/rain-sounds-for-sleep",
+   "sleep-sounds/brown-noise-for-sleep",
+   "sleep-sounds/ocean-sounds-for-sleep",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-sounds",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "affiliate-disclosure",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "products": [
+   "digital-sound-machine"
+  ],
+  "affiliateCategories": [
+   "white-noise"
+  ],
+  "readNext": [
+   "sleep-sounds/rain-sounds-for-sleep",
+   "sleep-sounds/ocean-sounds-for-sleep",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://doi.org/10.1016/j.smrv.2020.101385",
+   "https://www.nhs.uk/conditions/hearing-loss/"
+  ]
+ },
+ "sleep-sounds/ocean-sounds-for-sleep": {
+  "title": "Ocean Sounds for Sleep: Waves, Rhythm and Relaxation",
+  "url": "/sleep-sounds/ocean-sounds-for-sleep/",
+  "hub": "sleep-sounds",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "ocean sounds for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1213,
+  "outgoing": [
+   "sleep-sounds/brown-noise-for-sleep",
+   "sleep-sounds/white-noise-for-sleep",
+   "relaxation/breathing-exercises-for-sleep",
+   "sleep-sounds/rain-sounds-for-sleep",
+   "sleep-sounds/nature-sounds-for-sleep",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-sounds",
+   "relaxation/bedtime-relaxation-techniques",
+   "affiliate-disclosure",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "products": [
+   "digital-sound-machine",
+   "portable-sound-machine"
+  ],
+  "affiliateCategories": [
+   "white-noise"
+  ],
+  "readNext": [
+   "sleep-sounds/rain-sounds-for-sleep",
+   "sleep-sounds/brown-noise-for-sleep",
+   "relaxation/breathing-exercises-for-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://doi.org/10.1016/j.smrv.2020.101385",
+   "https://www.nhs.uk/conditions/hearing-loss/"
+  ]
+ },
+ "sleep-sounds/pink-noise-for-sleep": {
+  "title": "Pink Noise for Sleep: The Gentler Alternative to White Noise",
+  "url": "/sleep-sounds/pink-noise-for-sleep/",
+  "hub": "sleep-sounds",
+  "role": "informational",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "pink noise for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1370,
+  "outgoing": [
+   "sleep-sounds/brown-noise-for-sleep",
+   "sleep-sounds/rain-sounds-for-sleep",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-sounds/white-noise-for-sleep",
+   "sleep-sounds/pink-noise-vs-white-noise",
+   "sleep-sounds",
+   "quiet-the-mind",
+   "affiliate-disclosure",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "products": [
+   "digital-sound-machine"
+  ],
+  "affiliateCategories": [
+   "white-noise"
+  ],
+  "readNext": [
+   "sleep-sounds/pink-noise-vs-white-noise",
+   "sleep-sounds/rain-sounds-for-sleep",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://doi.org/10.1016/j.neuron.2013.03.006",
+   "https://doi.org/10.3389/fnhum.2017.00109",
+   "https://doi.org/10.1016/j.smrv.2020.101385"
+  ]
+ },
+ "sleep-sounds/pink-noise-vs-white-noise": {
+  "title": "Pink Noise vs White Noise for Sleep",
+  "url": "/sleep-sounds/pink-noise-vs-white-noise/",
+  "hub": "sleep-sounds",
+  "role": "commercial",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "pink noise vs white noise",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1352,
+  "outgoing": [
+   "sleep-sounds/brown-noise-vs-white-noise",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-sounds/pink-noise-for-sleep",
+   "sleep-sounds/rain-sounds-for-sleep",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-sounds",
+   "affiliate-disclosure",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "products": [
+   "digital-sound-machine",
+   "fan-based-white-noise-machine"
+  ],
+  "affiliateCategories": [
+   "white-noise"
+  ],
+  "readNext": [
+   "sleep-sounds/pink-noise-for-sleep",
+   "sleep-sounds/brown-noise-vs-white-noise",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "sources": [
+   "https://doi.org/10.1016/j.smrv.2020.101385",
+   "https://doi.org/10.3389/fnhum.2017.00109",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/"
+  ]
+ },
+ "sleep-sounds/rain-sounds-for-sleep": {
+  "title": "Rain Sounds for Sleep: Why They Work and How to Use Them",
+  "url": "/sleep-sounds/rain-sounds-for-sleep/",
+  "hub": "sleep-sounds",
+  "role": "supporting",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "rain sounds for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1383,
+  "outgoing": [
+   "sleep-sounds/white-noise-for-sleep",
+   "sleep-sounds/pink-noise-for-sleep",
+   "sleep-sounds/ocean-sounds-for-sleep",
+   "sleep-sounds/nature-sounds-for-sleep",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-sounds",
+   "falling-asleep/what-to-do-when-you-cant-sleep",
+   "affiliate-disclosure"
+  ],
+  "products": [
+   "portable-sound-machine",
+   "headband-sleep-headphones"
+  ],
+  "affiliateCategories": [
+   "white-noise",
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "sleep-sounds/pink-noise-for-sleep",
+   "sleep-sounds/nature-sounds-for-sleep",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://doi.org/10.1016/j.smrv.2020.101385",
+   "https://www.nhs.uk/conditions/hearing-loss/"
+  ]
+ },
+ "sleep-sounds/white-noise-for-sleep": {
+  "title": "White Noise for Sleep: Does It Help, and How to Use It Well",
+  "url": "/sleep-sounds/white-noise-for-sleep/",
+  "hub": "sleep-sounds",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "white noise for sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1996,
+  "outgoing": [
+   "sleep-sounds/brown-noise-for-sleep",
+   "sleep-sounds/pink-noise-vs-white-noise",
+   "sleep-sounds",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-environment/earplugs-vs-white-noise",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-sounds/is-it-bad-to-sleep-with-white-noise-on",
+   "sleep-sounds/brown-noise-vs-white-noise",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "affiliate-disclosure",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "products": [
+   "fan-based-white-noise-machine",
+   "digital-sound-machine",
+   "portable-sound-machine"
+  ],
+  "affiliateCategories": [
+   "white-noise"
+  ],
+  "readNext": [
+   "sleep-sounds/is-it-bad-to-sleep-with-white-noise-on",
+   "sleep-sounds/brown-noise-vs-white-noise",
+   "sleep-products/best-white-noise-machines-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://doi.org/10.1016/j.smrv.2020.101385",
+   "https://doi.org/10.1016/j.sleep.2021.03.031",
+   "https://www.nhs.uk/conditions/hearing-loss/"
+  ]
+ },
+ "waking-at-night/cant-get-back-to-sleep": {
+  "title": "Can't Get Back to Sleep? What to Do When You Wake in the Night",
+  "url": "/waking-at-night/cant-get-back-to-sleep/",
+  "hub": "waking-at-night",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "can't get back to sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1683,
+  "outgoing": [
+   "relaxation/breathing-exercises-for-sleep",
+   "relaxation/body-scan-for-sleep",
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "quiet-the-mind/sleep-anxiety",
+   "waking-at-night/waking-up-with-anxiety",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "waking-at-night",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [
+   "headband-sleep-headphones"
+  ],
+  "affiliateCategories": [
+   "sleep-headphones"
+  ],
+  "readNext": [
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "relaxation/body-scan-for-sleep",
+   "sleep-products/best-sleep-headphones-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+   "https://cks.nice.org.uk/topics/insomnia/"
+  ]
+ },
+ "waking-at-night/light-sleeper": {
+  "title": "Are You a Light Sleeper? How to Stop Waking at Every Noise",
+  "url": "/waking-at-night/light-sleeper/",
+  "hub": "waking-at-night",
+  "role": "informational",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "light sleeper",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1994,
+  "outgoing": [
+   "waking-at-night/waking-up-at-3am",
+   "quiet-the-mind/sleep-anxiety",
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night",
+   "sleep-environment/earplugs-vs-white-noise",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "waking-at-night",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [
+   "reusable-silicone-earplugs",
+   "digital-sound-machine",
+   "silk-sleep-mask"
+  ],
+  "affiliateCategories": [
+   "earplugs",
+   "white-noise",
+   "sleep-mask"
+  ],
+  "readNext": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-environment/how-to-block-out-noise-at-night"
+  ],
+  "commercial": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.sleepfoundation.org/stages-of-sleep",
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/"
+  ]
+ },
+ "waking-at-night/should-i-get-up-if-i-cant-sleep": {
+  "title": "Should You Get Up If You Can't Sleep? The 20-Minute Rule Explained",
+  "url": "/waking-at-night/should-i-get-up-if-i-cant-sleep/",
+  "hub": "waking-at-night",
+  "role": "supporting",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "should I get up if I can't sleep",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1605,
+  "outgoing": [
+   "sleep-habits/consistent-sleep-schedule",
+   "quiet-the-mind/sleep-anxiety",
+   "waking-at-night/cant-get-back-to-sleep",
+   "falling-asleep/what-to-do-when-you-cant-sleep",
+   "waking-at-night/waking-up-at-3am",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "waking-at-night",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "waking-at-night/cant-get-back-to-sleep",
+   "falling-asleep/what-to-do-when-you-cant-sleep",
+   "sleep-habits/consistent-sleep-schedule"
+  ],
+  "commercial": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://cks.nice.org.uk/topics/insomnia/",
+   "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/"
+  ]
+ },
+ "waking-at-night/waking-up-at-3am": {
+  "title": "Waking Up at 3am: Why It Happens and How to Get Back to Sleep",
+  "url": "/waking-at-night/waking-up-at-3am/",
+  "hub": "waking-at-night",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "waking up at 3am",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2512,
+  "outgoing": [
+   "waking-at-night/cant-get-back-to-sleep",
+   "sleep-habits/alcohol-and-sleep",
+   "waking-at-night",
+   "waking-at-night/why-do-i-wake-up-at-the-same-time-every-night",
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "waking-at-night/waking-up-too-early",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [
+   "soft-foam-earplugs",
+   "contoured-sleep-mask"
+  ],
+  "affiliateCategories": [
+   "sleep-mask",
+   "earplugs"
+  ],
+  "readNext": [
+   "waking-at-night/cant-get-back-to-sleep",
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.sleepfoundation.org/stages-of-sleep",
+   "https://www.drinkaware.co.uk/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/"
+  ]
+ },
+ "waking-at-night/waking-up-hot-at-night": {
+  "title": "Waking Up Hot at Night: Common Causes and How to Stay Cooler",
+  "url": "/waking-at-night/waking-up-hot-at-night/",
+  "hub": "waking-at-night",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "waking up hot at night",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1868,
+  "outgoing": [
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-products/mattress-buying-guide-uk",
+   "sleep-habits/alcohol-and-sleep",
+   "sleep-habits/exercise-and-sleep",
+   "sleep-environment/how-to-sleep-when-its-hot",
+   "sleep-products/best-cooling-pillows-uk",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "waking-at-night",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [
+   "gel-cooling-pillow",
+   "summer-tog-duvet"
+  ],
+  "affiliateCategories": [
+   "cooling-pillow",
+   "bedding"
+  ],
+  "readNext": [
+   "sleep-environment/how-to-sleep-when-its-hot",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-products/best-cooling-pillows-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-cooling-pillows-uk",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/night-sweats/",
+   "https://www.nhs.uk/conditions/menopause/",
+   "https://www.sleepfoundation.org/bedroom-environment/best-temperature-for-sleep"
+  ]
+ },
+ "waking-at-night/waking-up-in-the-middle-of-the-night": {
+  "title": "Waking Up in the Middle of the Night: Causes and What to Do",
+  "url": "/waking-at-night/waking-up-in-the-middle-of-the-night/",
+  "hub": "waking-at-night",
+  "role": "informational",
+  "tier": 1,
+  "status": "draft",
+  "primaryKeyword": "waking up in the middle of the night",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 2324,
+  "outgoing": [
+   "waking-at-night/waking-up-at-3am",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-environment/best-temperature-for-sleep",
+   "waking-at-night/waking-up-with-anxiety",
+   "waking-at-night/cant-get-back-to-sleep",
+   "waking-at-night/why-do-i-wake-up-at-the-same-time-every-night",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "waking-at-night",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [
+   "soft-foam-earplugs",
+   "fan-based-white-noise-machine"
+  ],
+  "affiliateCategories": [
+   "earplugs",
+   "white-noise"
+  ],
+  "readNext": [
+   "waking-at-night/waking-up-at-3am",
+   "waking-at-night/cant-get-back-to-sleep",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.nhs.uk/conditions/sleep-apnoea/",
+   "https://cks.nice.org.uk/topics/insomnia/",
+   "https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia"
+  ]
+ },
+ "waking-at-night/waking-up-too-early": {
+  "title": "Waking Up Too Early and Can't Get Back to Sleep",
+  "url": "/waking-at-night/waking-up-too-early/",
+  "hub": "waking-at-night",
+  "role": "informational",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "waking up too early",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1976,
+  "outgoing": [
+   "waking-at-night/waking-up-at-3am",
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-environment/bedroom-lighting-for-sleep",
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "waking-at-night",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-environment/sleep-mask-vs-blackout-curtains",
+   "affiliate-disclosure",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "products": [
+   "thermal-blackout-curtains",
+   "contoured-sleep-mask"
+  ],
+  "affiliateCategories": [
+   "sleep-mask",
+   "blackout-curtains"
+  ],
+  "readNext": [
+   "waking-at-night/waking-up-at-3am",
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "sleep-products/best-blackout-curtains-uk"
+  ],
+  "commercial": [
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.nhs.uk/mental-health/conditions/depression-in-adults/",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/",
+   "https://www.mind.org.uk/information-support/types-of-mental-health-problems/sleep-problems/"
+  ]
+ },
+ "waking-at-night/waking-up-with-anxiety": {
+  "title": "Waking Up With Anxiety in the Night: Why It Happens and How to Settle",
+  "url": "/waking-at-night/waking-up-with-anxiety/",
+  "hub": "waking-at-night",
+  "role": "supporting",
+  "tier": 2,
+  "status": "draft",
+  "primaryKeyword": "waking up with anxiety",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1613,
+  "outgoing": [
+   "sleep-habits/alcohol-and-sleep",
+   "relaxation/box-breathing",
+   "waking-at-night/cant-get-back-to-sleep",
+   "quiet-the-mind/anxiety-at-night",
+   "quiet-the-mind/worry-list-before-bed",
+   "quiet-the-mind",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "waking-at-night",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "relaxation/breathing-exercises-for-sleep",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "quiet-the-mind/anxiety-at-night",
+   "relaxation/breathing-exercises-for-sleep",
+   "waking-at-night/cant-get-back-to-sleep"
+  ],
+  "commercial": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/mental-health/conditions/panic-disorder/",
+   "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-and-panic-attacks/",
+   "https://www.nhs.uk/conditions/insomnia/"
+  ]
+ },
+ "waking-at-night/why-do-i-wake-up-at-the-same-time-every-night": {
+  "title": "Why Do I Wake Up at the Same Time Every Night?",
+  "url": "/waking-at-night/why-do-i-wake-up-at-the-same-time-every-night/",
+  "hub": "waking-at-night",
+  "role": "supporting",
+  "tier": 3,
+  "status": "draft",
+  "primaryKeyword": "why do I wake up at the same time every night",
+  "published": "2026-09-25",
+  "updated": "2026-09-25",
+  "wordCount": 1383,
+  "outgoing": [
+   "waking-at-night/waking-up-at-3am",
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "waking-at-night/cant-get-back-to-sleep",
+   "sleep-habits/consistent-sleep-schedule",
+   "quiet-the-mind/sleep-anxiety",
+   "waking-at-night",
+   "privacy-policy",
+   "resources/7-night-quiet-mind-sleep-plan",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "products": [],
+  "affiliateCategories": [],
+  "readNext": [
+   "waking-at-night/waking-up-at-3am",
+   "waking-at-night/cant-get-back-to-sleep",
+   "sleep-habits/consistent-sleep-schedule"
+  ],
+  "commercial": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ],
+  "sources": [
+   "https://www.nhs.uk/conditions/insomnia/",
+   "https://www.sleepfoundation.org/stages-of-sleep",
+   "https://www.nhs.uk/live-well/sleep-and-tiredness/"
+  ]
+ },
+ "quiet-the-mind": {
+  "title": "Quiet the Mind",
+  "url": "/quiet-the-mind/",
+  "hub": null,
+  "role": "hub",
+  "outgoing": [
+   "quiet-the-mind/anxiety-at-night",
+   "quiet-the-mind/how-to-calm-your-mind-before-bed",
+   "quiet-the-mind/how-to-stop-overthinking-at-night",
+   "quiet-the-mind/racing-thoughts-at-night",
+   "quiet-the-mind/cant-switch-off-at-night",
+   "quiet-the-mind/sleep-anxiety",
+   "quiet-the-mind/cognitive-shuffling",
+   "quiet-the-mind/sunday-night-insomnia",
+   "quiet-the-mind/worry-list-before-bed",
+   "relaxation",
+   "falling-asleep",
+   "waking-at-night",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ]
+ },
+ "falling-asleep": {
+  "title": "Falling Asleep",
+  "url": "/falling-asleep/",
+  "hub": null,
+  "role": "hub",
+  "outgoing": [
+   "falling-asleep/bedtime-routine-for-adults",
+   "falling-asleep/difficulty-falling-asleep",
+   "falling-asleep/how-to-fall-asleep-faster",
+   "falling-asleep/what-to-do-when-you-cant-sleep",
+   "falling-asleep/things-to-do-before-bed",
+   "falling-asleep/how-long-should-it-take-to-fall-asleep",
+   "falling-asleep/military-sleep-method",
+   "falling-asleep/cant-sleep-before-a-big-day",
+   "falling-asleep/how-to-sleep-when-not-tired",
+   "quiet-the-mind",
+   "relaxation",
+   "sleep-habits",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk"
+  ]
+ },
+ "waking-at-night": {
+  "title": "Waking at Night",
+  "url": "/waking-at-night/",
+  "hub": null,
+  "role": "hub",
+  "outgoing": [
+   "waking-at-night/cant-get-back-to-sleep",
+   "waking-at-night/waking-up-at-3am",
+   "waking-at-night/waking-up-in-the-middle-of-the-night",
+   "waking-at-night/light-sleeper",
+   "waking-at-night/should-i-get-up-if-i-cant-sleep",
+   "waking-at-night/waking-up-too-early",
+   "waking-at-night/waking-up-with-anxiety",
+   "waking-at-night/waking-up-hot-at-night",
+   "waking-at-night/why-do-i-wake-up-at-the-same-time-every-night",
+   "quiet-the-mind",
+   "sleep-environment",
+   "sleep-habits",
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-masks-uk"
+  ]
+ },
+ "sleep-sounds": {
+  "title": "Sleep Sounds",
+  "url": "/sleep-sounds/",
+  "hub": null,
+  "role": "hub",
+  "outgoing": [
+   "sleep-sounds/brown-noise-for-sleep",
+   "sleep-sounds/brown-noise-vs-white-noise",
+   "sleep-sounds/white-noise-for-sleep",
+   "sleep-sounds/pink-noise-for-sleep",
+   "sleep-sounds/rain-sounds-for-sleep",
+   "sleep-sounds/calming-sounds-for-anxiety-at-night",
+   "sleep-sounds/is-it-bad-to-sleep-with-white-noise-on",
+   "sleep-sounds/nature-sounds-for-sleep",
+   "sleep-sounds/ocean-sounds-for-sleep",
+   "sleep-sounds/pink-noise-vs-white-noise",
+   "sleep-environment",
+   "quiet-the-mind",
+   "sleep-products",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-sleep-headphones-uk"
+  ]
+ },
+ "sleep-environment": {
+  "title": "Sleep Environment",
+  "url": "/sleep-environment/",
+  "hub": null,
+  "role": "hub",
+  "outgoing": [
+   "sleep-environment/how-to-block-out-noise-at-night",
+   "sleep-environment/how-to-make-bedroom-darker",
+   "sleep-environment/how-to-sleep-when-its-hot",
+   "sleep-environment/best-temperature-for-sleep",
+   "sleep-environment/bedroom-lighting-for-sleep",
+   "sleep-environment/bedroom-setup-for-better-sleep",
+   "sleep-environment/how-to-sleep-with-a-snoring-partner",
+   "sleep-environment/sleep-mask-vs-blackout-curtains",
+   "sleep-environment/bedding-and-sleep",
+   "sleep-environment/earplugs-vs-white-noise",
+   "sleep-environment/how-to-sleep-when-its-cold",
+   "sleep-products",
+   "sleep-sounds",
+   "sleep-habits",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-products/best-earplugs-for-sleeping-uk"
+  ]
+ },
+ "relaxation": {
+  "title": "Relaxation",
+  "url": "/relaxation/",
+  "hub": null,
+  "role": "hub",
+  "outgoing": [
+   "relaxation/4-7-8-breathing",
+   "relaxation/bedtime-relaxation-techniques",
+   "relaxation/breathing-exercises-for-sleep",
+   "relaxation/progressive-muscle-relaxation-for-sleep",
+   "relaxation/bedtime-meditation-for-sleep",
+   "relaxation/body-scan-for-sleep",
+   "relaxation/mindfulness-for-sleep",
+   "relaxation/box-breathing",
+   "relaxation/bedtime-stretches",
+   "relaxation/guided-relaxation-for-sleep",
+   "relaxation/yoga-nidra-for-sleep",
+   "quiet-the-mind",
+   "falling-asleep",
+   "sleep-habits",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/weighted-blankets-guide"
+  ]
+ },
+ "sleep-habits": {
+  "title": "Sleep Habits",
+  "url": "/sleep-habits/",
+  "hub": null,
+  "role": "hub",
+  "outgoing": [
+   "sleep-habits/how-to-fix-your-sleep-schedule",
+   "sleep-habits/sleep-hygiene",
+   "sleep-habits/alcohol-and-sleep",
+   "sleep-habits/caffeine-and-sleep",
+   "sleep-habits/exercise-and-sleep",
+   "sleep-habits/screens-before-bed",
+   "sleep-habits/consistent-sleep-schedule",
+   "sleep-habits/napping-and-night-sleep",
+   "sleep-habits/eating-before-bed",
+   "sleep-habits/morning-routine-for-better-sleep",
+   "falling-asleep",
+   "waking-at-night",
+   "sleep-environment",
+   "sleep-products/best-sleep-masks-uk"
+  ]
+ },
+ "sleep-products": {
+  "title": "Sleep Products",
+  "url": "/sleep-products/",
+  "hub": null,
+  "role": "hub",
+  "outgoing": [
+   "sleep-products/best-earplugs-for-sleeping-uk",
+   "sleep-products/best-sleep-headphones-uk",
+   "sleep-products/best-sleep-masks-uk",
+   "sleep-products/best-white-noise-machines-uk",
+   "sleep-products/best-blackout-curtains-uk",
+   "sleep-products/best-pillows-for-side-sleepers-uk",
+   "sleep-products/mattress-buying-guide-uk",
+   "sleep-products/weighted-blankets-guide",
+   "sleep-products/best-cooling-pillows-uk",
+   "sleep-products/types-of-earplugs-for-sleep",
+   "sleep-products/how-to-choose-a-white-noise-machine",
+   "sleep-products/types-of-sleep-headphones",
+   "sleep-environment",
+   "sleep-sounds",
+   "waking-at-night"
+  ]
+ },
+ "sleep-questions": {
+  "title": "Sleep Questions",
+  "url": "/sleep-questions/",
+  "hub": null,
+  "role": "hub",
+  "outgoing": [
+   "sleep-questions/how-much-sleep-do-adults-need",
+   "sleep-questions/why-am-i-tired-but-cant-sleep",
+   "sleep-questions/why-cant-i-sleep",
+   "sleep-questions/can-you-catch-up-on-sleep",
+   "sleep-questions/does-a-sleep-mask-help-you-sleep",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "sleep-questions/does-reading-before-bed-help-you-sleep",
+   "sleep-questions/is-it-bad-to-sleep-with-the-light-on",
+   "sleep-questions/is-it-ok-to-sleep-with-earplugs-every-night",
+   "sleep-questions/why-do-i-get-a-second-wind-at-night",
+   "quiet-the-mind",
+   "falling-asleep",
+   "waking-at-night",
+   "sleep-products/best-sleep-masks-uk"
+  ]
+ },
+ "about": {
+  "title": "About Quiet Mind Sleep",
+  "url": "/about/",
+  "role": "static",
+  "outgoing": [
+   "quiet-the-mind",
+   "falling-asleep",
+   "waking-at-night",
+   "sleep-sounds",
+   "sleep-environment",
+   "relaxation",
+   "sleep-habits",
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "health-disclaimer",
+   "editorial-policy",
+   "corrections",
+   "affiliate-disclosure",
+   "contact"
+  ]
+ },
+ "affiliate-disclosure": {
+  "title": "Affiliate Disclosure",
+  "url": "/affiliate-disclosure/",
+  "role": "static",
+  "outgoing": [
+   "contact"
+  ]
+ },
+ "contact": {
+  "title": "Contact Quiet Mind Sleep",
+  "url": "/contact/",
+  "role": "static",
+  "outgoing": [
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "corrections",
+   "privacy-policy"
+  ]
+ },
+ "cookie-policy": {
+  "title": "Cookie Policy",
+  "url": "/cookie-policy/",
+  "role": "static",
+  "outgoing": []
+ },
+ "corrections": {
+  "title": "Corrections Policy",
+  "url": "/corrections/",
+  "role": "static",
+  "outgoing": [
+   "contact"
+  ]
+ },
+ "editorial-policy": {
+  "title": "Editorial Policy",
+  "url": "/editorial-policy/",
+  "role": "static",
+  "outgoing": [
+   "health-disclaimer",
+   "affiliate-disclosure",
+   "corrections"
+  ]
+ },
+ "health-disclaimer": {
+  "title": "Health Information Disclaimer",
+  "url": "/health-disclaimer/",
+  "role": "static",
+  "outgoing": [
+   "sleep-questions/when-to-see-a-gp-about-sleep",
+   "editorial-policy",
+   "corrections"
+  ]
+ },
+ "privacy-policy": {
+  "title": "Privacy Policy",
+  "url": "/privacy-policy/",
+  "role": "static",
+  "outgoing": [
+   "contact",
+   "cookie-policy",
+   "affiliate-disclosure"
+  ]
+ },
+ "terms": {
+  "title": "Terms of Use",
+  "url": "/terms/",
+  "role": "static",
+  "outgoing": [
+   "health-disclaimer",
+   "editorial-policy",
+   "affiliate-disclosure",
+   "contact"
+  ]
+ }
+}
