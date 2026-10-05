@@ -1,0 +1,32 @@
+1/114 pages ok2/114 pages ok3/114 pages ok4/114 pages ok5/114 pages ok6/114 pages ok7/114 pages ok8/114 pages ok9/114 pages ok10/114 pages ok11/114 pages ok12/114 pages ok13/114 pages ok14/114 pages ok15/114 pages ok16/114 pages ok17/114 pages ok18/114 pages ok19/114 pages ok20/114 pages ok21/114 pages ok22/114 pages ok23/114 pages ok24/114 pages ok25/114 pages ok26/114 pages ok27/114 pages ok28/114 pages ok29/114 pages ok30/114 pages ok31/114 pages ok32/114 pages ok33/114 pages ok34/114 pages ok35/114 pages ok36/114 pages ok37/114 pages ok38/114 pages ok39/114 pages ok40/114 pages ok41/114 pages ok42/114 pages ok43/114 pages ok44/114 pages ok45/114 pages ok46/114 pages ok47/114 pages ok48/114 pages ok49/114 pages ok50/114 pages ok51/114 pages ok52/114 pages ok53/114 pages ok54/114 pages ok55/114 pages ok56/114 pages ok57/114 pages ok58/114 pages ok59/114 pages ok60/114 pages ok61/114 pages ok62/114 pages ok63/114 pages ok64/114 pages ok65/114 pages ok66/114 pages ok67/114 pages ok68/114 pages ok69/114 pages ok70/114 pages ok71/114 pages ok72/114 pages ok73/114 pages ok74/114 pages ok75/114 pages ok76/114 pages ok77/114 pages ok78/114 pages ok79/114 pages ok80/114 pages ok81/114 pages ok82/114 pages ok83/114 pages ok84/114 pages ok85/114 pages ok86/114 pages ok87/114 pages ok88/114 pages ok89/114 pages ok90/114 pages ok91/114 pages ok92/114 pages ok93/114 pages ok94/114 pages ok95/114 pages ok96/114 pages ok97/114 pages ok98/114 pages ok99/114 pages ok100/114 pages ok101/114 pages ok102/114 pages ok103/114 pages ok104/114 pages ok105/114 pages ok106/114 pages ok107/114 pages ok108/114 pages ok109/114 pages ok110/114 pages ok111/114 pages ok112/114 pages ok113/114 pages ok114/114 pages ok
+# Live verification — https://quietmindsleep.co.uk — 2026-10-05T16:20:15.895Z
+
+| Check | Result | Detail |
+|---|---|---|
+| http → https redirect | ✅ | status 301 location https://quietmindsleep.co.uk/ |
+| www → non-www redirect | ✅ | status 301 location https://quietmindsleep.co.uk/ |
+| homepage 200 over HTTPS | ✅ | status 200 |
+| homepage is the Quiet Mind Sleep build | ✅ | site name and stylesheet found |
+| asset /robots.txt | ✅ | status 200 |
+| asset /sitemap.xml | ✅ | status 200 |
+| asset /search-index.json | ✅ | status 200 |
+| asset /favicon.svg | ✅ | status 200 |
+| asset /assets/js/site.js | ✅ | status 200 |
+| asset /assets/js/search.js | ✅ | status 200 |
+| asset /assets/img/hero.svg | ✅ | status 200 |
+| asset /assets/img/og-default.png | ✅ | status 200 |
+| asset /assets/fonts/inter-latin-wght-normal.woff2 | ✅ | status 200 |
+| stylesheet loads | ✅ | status 200 |
+| 404 page returns 404 with site template | ✅ | status 404 |
+| sitemap lists pages | ✅ | 114 URLs |
+| all sitemap URLs return 200 | ✅ | 114/114 |
+| canonicals match live URLs | ✅ | 0 mismatches |
+| internal links on sampled pages resolve | ✅ | 110 checked, 0 broken |
+| live affiliate links carry the Associates tag | ✅ | 6 Amazon links, tag=kleantouch-21 |
+| live affiliate links are direct product links | ✅ | 6/6 /dp/ links |
+| disclosure precedes first affiliate link | ✅ |  |
+| search page loads | ✅ | status 200 |
+
+## Failures
+- none
+
